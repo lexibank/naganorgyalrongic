@@ -93,13 +93,11 @@ class Dataset(NonSplittingDataset):
 
             # add lexemes
             for idx, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
-                # !!! only for developing
-                segments = [c for c in entry['value']]
                 for row in ds.add_lexemes(
                     Language_ID=lang_map[entry['language']],
                     Parameter_ID=entry['srcid'],
                     Form=entry['value'],
                     Value=entry['value'],
-                    Segments=segments,
+                    #Segments=segments,
                     Source=['Nagano2013']):
                     pass
