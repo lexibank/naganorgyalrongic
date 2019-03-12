@@ -6,6 +6,7 @@ import attr
 from clldutils.misc import slug
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.dataset import NonSplittingDataset
 from pylexibank.dataset import Concept, Language
 
@@ -92,12 +93,16 @@ class Dataset(NonSplittingDataset):
                 )
 
             # add lexemes
+            temp = []
             for idx, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
-                for row in ds.add_lexemes(
-                    Language_ID=lang_map[entry['language']],
-                    Parameter_ID=entry['srcid'],
-                    Form=entry['value'],
-                    Value=entry['value'],
-                    #Segments=segments,
-                    Source=['Nagano2013']):
-                    pass
+                for form in split_text(entry['value'], separators=',;/'):
+                    segments = self.tokenizer(None, '^' + form + '$',
+                        column='IPA')
+                    for row in ds.add_lexemes(
+                        Language_ID=lang_map[entry['language']],
+                        Parameter_ID=entry['srcid'],
+                        Value=form.strip(),
+                        Segments=segments,
+                        Source=['Nagano2013']):
+                        pass
+
