@@ -96,8 +96,15 @@ class Dataset(NonSplittingDataset):
             temp = []
             for idx, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
                 for form in split_text(entry['value'], separators=',;/'):
+                    # manual fixes not possible or difficult with profile
+                    form = form.replace('ˋ dʑ', 'ˋdʑ')
+                    form = form.replace('tɯɕe ?', 'tɯɕe')
+
+                    # tokenize
                     segments = self.tokenizer(None, '^' + form + '$',
                         column='IPA')
+
+                    # add form
                     for row in ds.add_lexemes(
                         Language_ID=lang_map[entry['language']],
                         Parameter_ID=entry['srcid'],
