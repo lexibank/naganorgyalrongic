@@ -82,6 +82,9 @@ class Dataset(NonSplittingDataset):
                 ds.add_language(
                     ID=language['SHORT_NAME'],
                     Name=language['NAME'],
+                    #Latitude=language['LATITUDE'],
+                    #Longitude=language['LONGITUDE'],
+                    Glottocode=language['GLOTTOCODE'],
                 )
                 lang_map[language['NAME']] = language['SHORT_NAME']
 
@@ -90,6 +93,8 @@ class Dataset(NonSplittingDataset):
                 ds.add_concept(
                     ID=concept['SRCID'],
                     Name=concept['GLOSS'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
                 )
 
             # add lexemes
