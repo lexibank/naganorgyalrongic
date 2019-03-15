@@ -9,11 +9,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0014,eyeball,,
 0016,eyebrow,1173,EYEBROW
 0017,eyelash,1540,EYELASH
-0019,tears,,
+0019,tears,1651,TEAR (OF EYE)
 0021,blind,1653,BLIND
 0022,blind,1653,BLIND
 0024,nose,1221,NOSE
-0025,snivel,,
+0025,snivel,208,NASAL MUCUS (SNOT)
 0027,ear,1247,EAR
 0028,ear wax,32,EARWAX
 0030,deaf,996,DEAF
@@ -23,14 +23,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0038,dumb,1492,DUMB
 0040,tooth,1380,TOOTH
 0041,decay (v),,
-0043,spittle,,
+0043,spittle,1503,SALIVA
 0044,saliva,1503,SALIVA
 0045,phlegm,3061,PHLEGM
 0047,breathe (v),1407,BREATHE
 0049,voice,1363,VOICE
 0051,cough,,
 0053,cough (v),879,COUGH
-0055,sneeze,1621,SNEEZE
+0055,sneeze,,
 0057,sneeze (v),1621,SNEEZE
 0059,yawn,1028,YAWN
 0060,hiccup (v),162,HICCOUGH
@@ -39,13 +39,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0065,face,1560,FACE
 0066,feel shamed (v),1894,ASHAMED
 0068,cheek,1730,CHEEK
-0069,temple,911,TEMPLE
+0069,temple,1604,TEMPLES
 0071,mustache,1165,MOUSTACHE
 0072,beard,678,BEARD
 0073,whiskers,,
 0075,neck,1333,NECK
 0076,neck,1333,NECK
-0077,nape,,
+0077,nape,1347,NAPE (OF NECK)
 0079,throat,1346,THROAT
 0080,throat,1346,THROAT
 0082,shoulder,1482,SHOULDER
@@ -54,19 +54,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0087,elbow,981,ELBOW
 0089,wrist,799,WRIST
 0091,hand,1277,HAND
-0093,palm,,
+0093,palm,1183,PALM OF HAND
 0095,finger,1303,FINGER
 0101,nail,1258,FINGERNAIL
 0103,fist,1473,FIST
-0105,breast,,
-0106,breast (of woman),,
+0105,breast,1592,CHEST
+0106,breast (of woman),1402,BREAST
 0107,mother's milk,,
 0109,rib,801,RIB
 0111,lungs,688,LUNG
 0113,heart,1223,HEART
 0115,belly,1251,BELLY
 0118,guts,1334,GUTS
-0120,bowels,,
+0120,bowels,1991,INTESTINES
 0122,stomach,819,STOMACH
 0124,liver,1224,LIVER
 0126,kidneys,489,KIDNEY
@@ -80,11 +80,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0138,excrement of cattle,,
 0139,excrement of horse,,
 0140,excrement of donkey,,
-0142,void feces (vt),,
-0143,void feces (vi),,
+0142,void feces (vt),676,SHIT (DEFECATE)
+0143,void feces (vi),676,SHIT (DEFECATE)
 0145,bladder,1746,BLADDER
 0147,urine,1142,URINE
-0149,urinate (v),,
+0149,urinate (v),592,PISS
 0151,toilet,219,TOILET
 0153,fart,1159,FART
 0155,penis,1222,PENIS
@@ -106,17 +106,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0182,birth-mark,1751,BIRTHMARK
 0183,bruise,1148,BRUISE
 0185,mole,1907,MOLE
-0187,pockmark,,
+0187,pockmark,530,FRECKLE
 0189,a burn,,
 0192,pus,1808,PUS
-0194,sweat,,
+0194,sweat,125,SWEAT (SUBSTANCE)
 0196,dirt,25,DIRT
 0198,blood,946,BLOOD
 0200,bone,1394,BONE
 0201,marrow,1835,MARROW
 0203,flesh,2259,FLESH
 0205,strength,202,STRENGTH
-0206,power (political),,
+0206,power (political),2526,POWER
 0208,look at (vt),1819,LOOK
 0209,see (vi),1409,SEE
 0211,smell it (v),1586,SMELL (PERCEIVE)
@@ -136,7 +136,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0238,naked,590,NAKED
 0240,hat,771,HAT
 0242,umbrella,3105,UMBRELLA
-0244,pagne,,
+0244,pagne,1965,LOINCLOTH
 0246,trousers,809,TROUSERS
 0248,belt,772,BELT
 0250,collar,2012,COLLAR
@@ -144,7 +144,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0254,barefooted,,
 0256,cloth (n),1616,CLOTH
 0258,cotton,1850,COTTON
-0260,flax,,
+0260,flax,916,LINEN
 0262,wool/wool (山羊毛),964,WOOL
 0264,fur,580,FUR
 0265,tanned leather,629,LEATHER
@@ -153,7 +153,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0271,necklace,1961,NECKLACE
 0273,decorate (v),1739,DECORATE
 0275,scissors,1328,SCISSORS
-0277,needle,,
+0277,needle,1382,NEEDLE (FOR SEWING)
 0279,thread,1161,THREAD
 0281,sew (v),1457,SEW
 0284,"food, food stuff",256,FOOD
@@ -165,7 +165,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0295,grain,605,GRAIN
 0298,"bean, pea/bean, pea (蓲豆)",2574,BEAN OR PEA
 0300,flour,1594,FLOUR
-0301,wheat flour,,
+0301,wheat flour,1594,FLOUR
 0302,Tsampa,,
 0304,potato,593,POTATO
 0306,meat,634,MEAT
@@ -173,14 +173,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0309,garlic,2368,GARLIC
 0313,vegetable,924,VEGETABLES
 0318,fruit,1507,FRUIT
-0320,fruit of tree,,
+0320,fruit of tree,1507,FRUIT
 0322,seed,714,SEED
 0324,fish,227,FISH
 0326,egg,744,EGG
 0328,salt,1274,SALT
 0330,sugar,862,SUGAR
 0332,honey,942,HONEY
-0334,oil as food,,
+0334,oil as food,1484,OIL (ORGANIC SUBSTANCE)
 0335,petroleum,650,PETROLEUM
 0337,grease,,
 0339,butter,1245,BUTTER
@@ -189,7 +189,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0343,yogurt,,
 0345,water,948,WATER
 0347,tea,1373,TEA
-0351,"pap, rice-porridge",,
+0351,"pap, rice-porridge",2049,CONGEE
 0353,wine,1524,WINE
 0354,liquor,842,LIQUOR
 0356,get drunk (v),,
@@ -226,7 +226,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0411,mould,1166,MOULD
 0414,house,1252,HOUSE
 0415,room,1450,ROOM
-0417,"house, residence",,
+0417,"house, residence",2406,HOME
 0419,residence,,
 0420,"community, settlement",,
 0423,tent,1316,TENT
@@ -238,7 +238,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0434,floor,1632,FLOOR
 0436,pillar,,
 0437,beam (of a house),1132,BEAM
-0440,wall,,
+0440,wall,933,WALL (OF HOUSE)
 0441,mud wall,,
 0443,window,1375,WINDOW
 0446,roof,769,ROOF
@@ -256,14 +256,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0468,matches,1133,MATCH
 0469,matches,1133,MATCH
 0471,extinguish (vt),127,EXTINGUISH
-0472,put out (vt),158,PUT ON
+0472,put out (vt),,
 0473,"go out, fade (vi)",2704,FADE (LOOSE COLOR)
 0475,burn (vi),1428,BURNING
 0476,get burned (vi),,
 0478,set fire to (vt),,
 0480,table,1775,TABLE
 0482,chair,1476,CHAIR
-0483,sitting mat,,
+0483,sitting mat,195,MAT
 0485,"sit, stay (v)",1416,SIT
 0486,"sit, lie down (v)",215,LIE DOWN
 0488,bed,1663,BED
@@ -280,7 +280,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0506,stand (v),1442,STAND
 0508,well (n),954,WELL
 0510,hedge,,
-0512,"close, shut (vt)",,
+0512,"close, shut (vt)",1046,SHUT
 0513,shut one's eyes (v)/shut one's eyes (闭眼) (v),2063,CLOSE (EYES)
 0514,close (vi),2000,CLOVE
 0516,open (vt),1156,OPEN
@@ -306,23 +306,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0554,ladle,2657,LADLE
 0556,pour (vt),1487,POUR
 0558,spill it (intentionally) (vt),3130,SPILL (SOMETHING)
-0559,spill it (accidentally) (v),,
+0559,spill it (accidentally) (v),3130,SPILL (SOMETHING)
 0561,knife,1352,KNIFE
 0562,"handle, haft",1254,HANDLE
-0564,cutting edge,,
-0566,mortar,,
-0568,pounder,,
+0564,cutting edge,863,EDGE
+0566,mortar,224,MORTAR CRUSHER
+0568,pounder,2459,GRINDSTONE
 0570,grind (vt),1033,GRIND
 0572,pound (vt),354,POUND
 0574,hammer,1481,HAMMER
-0576,nail,,
+0576,nail,502,NAIL (TOOL)
 0578,saw,1948,SAW
 0580,axe,677,AXE
 0582,hoe,284,HOE
 0584,sickle,341,SICKLE
-0586,plow,,
+0586,plow,2154,PLOUGH (INSTRUMENT)
 0588,spade,1176,SPADE
-0590,whet (vt),,
+0590,whet (vt),251,SHARPEN (SOMETHING)
 0592,dust,2,DUST
 0594,wipe (vt),1454,WIPE
 0596,box,1465,BOX
@@ -341,7 +341,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0616,"string, cord",362,STRING
 0618,net,2963,NET
 0619,net for curtain,,
-0621,cane,,
+0621,cane,1296,WALKING STICK
 0623,stick of wood,1295,STICK
 0624,small pile,,
 0626,ladder,1464,LADDER
@@ -349,17 +349,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0631,be born (v),1090,BE BORN
 0633,grow up (v),552,GROW UP
 0635,alive (be v),1422,BE ALIVE
-0637,fat,,
+0637,fat,1279,FAT (OBESE)
 0639,thin,2308,THIN
 0641,get tired (v),1996,GET TIRED
 0643,healthy,1364,HEALTHY
-0645,illness,,
+0645,illness,1986,DISEASE
 0647,fever,1534,FEVER
 0648,catch a cold (v),2184,CATCH A COLD
 0649,infectious disease/infectious disease ('the illness spreads one after the other'),,
 0650,syphilis,,
 0654,wound,1109,WOUND
-0656,"be painful, feel pain (v)",,
+0656,"be painful, feel pain (v)",2561,HURT (SENSE PAIN)
 0658,feel itchy (v),149,ITCHY
 0660,scratch (v),1436,SCRATCH
 0662,medicine,1372,MEDICINE
@@ -379,7 +379,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0687,win (v),866,WIN
 0689,be defeated (v),,
 0691,run away (vi),2142,RUN AWAY
-0693,chase (vt),,
+0693,chase (vt),1435,HUNT
 0695,sword,1535,SWORD
 0697,spear,945,SPEAR
 0699,shield,1064,SHIELD
@@ -408,12 +408,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0746,uncle,1327,UNCLE
 0747,uncle (matrilineal),3220,MATERNAL UNCLE
 0749,aunt,1272,AUNT
-0750,aunt (matrilineal),,
+0750,aunt (matrilineal),2176,MATERNAL AUNT
 0752,son,1620,SON
 0754,daughter,1357,DAUGHTER
 0756,"brother, siblings",1262,BROTHER
 0758,sister,1263,SISTER
-0760,nephew/nephew (brother's son / sister's son),,
+0760,nephew/nephew (brother's son / sister's son),1063,NEPHEW
 0762,niece,1642,NIECE
 0764,cousin,1643,COUSIN
 0766,husband,1200,HUSBAND
@@ -433,7 +433,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0792,hunt (vt),1435,HUNT
 0794,shoot (a gun) (v),1172,SHOOT
 0795,shoot (v),,
-0797,trap,,
+0797,trap,1075,TRAP (PITFALL)
 0799,fish with a line (v),2796,FISHING (WITH A HOOK)
 0801,rich,712,RICH
 0802,rich/rich (富裕),712,RICH
@@ -464,13 +464,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0849,get lost (vi),423,GET LOST
 0851,arrive (vi),1387,ARRIVE
 0852,reach (v),,
-0854,stop (v),,
-0855,stop (vt),,
+0854,stop (v),2880,HALT (STOP)
+0855,stop (vt),2115,CEASE OR FINISH
 0856,perch on (v),,
 0860,go over (v),,
 0862,walk (vi),1443,WALK
 0864,run (vi),1519,RUN
-0866,swift,,
+0866,swift,1631,FAST
 0868,slow,701,SLOW
 0869,slowly,2165,SLOWLY
 0871,creep (vi),3215,CREEP
@@ -507,18 +507,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0927,point to (vt),2669,POINT (WITH FINGER)
 0929,call (v),1084,CALL
 0931,command (v),1998,COMMAND
-0933,mark,,
+0933,mark,1720,SIGN
 0935,name,1405,NAME
 0938,play,1413,PLAY
 0940,sing (v),1261,SING
 0942,dance (v),1879,DANCE
 0945,"give, hand (v)",1447,GIVE
-0947,obtain (v),,
+0947,obtain (v),694,GET
 0949,sell (vt),1571,SELL
 0951,buy (vt),1869,BUY
 0952,wages,1122,WAGES
 0953,commerce,,
-0954,profit,,
+0954,profit,2929,BENEFIT
 0955,loss,,
 0956,price,657,PRICE
 0957,expensive,1426,EXPENSIVE
@@ -541,7 +541,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 0990,hold (v),1448,HOLD
 0992,seize (vt),855,SEIZE
 0993,seize (vt),855,SEIZE
-0995,release (v),,
+0995,release (v),1095,LET GO OR SET FREE
 0997,throw (v),1456,THROW
 0999,throw stg into (v),,
 1000,throw away (v),,
@@ -570,7 +570,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1038,"cover, conceal (v)",602,HIDE (CONCEAL)
 1040,put it away (v),,
 1041,think a great deal of (v),,
-1043,seek it (v),,
+1043,seek it (v),1468,LOOK FOR
 1045,find it (v),719,FIND
 1047,show it (v),1039,SHOW
 1049,put it (v),998,PUT
@@ -582,7 +582,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1060,put it in (v),,
 1061,"put it in, pour (v)",1487,POUR
 1063,put it out (v),,
-1065,collect (v),,
+1065,collect (v),7,GATHER
 1066,"save, store up (v)",,
 1068,make (v),734,MAKE
 1070,destroy it (v),681,DESTROY
@@ -595,7 +595,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1081,fold (v),1470,FOLD
 1083,wash it (v),1453,WASH
 1085,roll it (v),827,ROLL
-1086,wind it (v),960,WIND
+1086,wind it (v),1113,WRAP
 1088,tie it (v),1917,TIE
 1091,untie it (v),352,UNTIE
 1092,untie it (v),352,UNTIE
@@ -616,8 +616,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1114,stub (v),,
 1116,cut (vt),1432,CUT
 1117,"cut off, sever (v)",,
-1118,snap (vi),,
-1119,chop up (vt),,
+1118,snap (vi),459,SNAPP (OF STICK)
+1119,chop up (vt),2149,CHOP (INTO PIECES)
 1120,shear (v),1532,SHEAR
 1121,cut out cloth (v),,
 1122,cut (hair) (vt),,
@@ -631,11 +631,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1135,do it (v),813,DO
 1137,begin it (vt),1806,BEGIN
 1138,begin (vi),1806,BEGIN
-1140,end (vi),,
+1140,end (vi),1766,FINISH
 1142,exhaust (vi),,
 1145,continue (v),,
-1147,stop it (v),,
-1148,give up (v),,
+1147,stop it (v),1928,CEASE
+1148,give up (v),1097,ABANDON
 1149,decline (v),,
 1150,stop (a habit) (vt),,
 1152,move (v),765,MOVE
@@ -643,10 +643,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1156,fall down (v),2894,TUMBLE (FALL DOWN)
 1157,fall upside down (v),,
 1159,assemble (vi),,
-1160,"meet, assemble (v)",,
+1160,"meet, assemble (v)",1831,MEET
 1162,bounce (v),,
 1164,jump (v),1829,JUMP
-1166,rise (v)/rise (上去) (v),,
+1166,rise (v)/rise (上去) (v),3207,GO UP OR RISE (ONESELF)
 1167,rise (v),,
 1169,"go down, step down (v)",2014,GO DOWN (DESCEND)
 1170,fall down (v),2894,TUMBLE (FALL DOWN)
@@ -669,10 +669,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1198,agree (v),,
 1200,know (v),1410,KNOW (SOMETHING)
 1202,understand (v),1536,UNDERSTAND
-1204,"learn it (by heart), memorize it (v)",,
-1205,"learn it (by heart), memorize it (v)",,
+1204,"learn it (by heart), memorize it (v)",71,BY HEART
+1205,"learn it (by heart), memorize it (v)",71,BY HEART
 1207,forget (v),1523,FORGET
-1209,recall it (v),,
+1209,recall it (v),707,REMEMBER
 1211,teach (v),709,TEACH
 1213,learn it (v),504,LEARN
 1215,afraid,,
@@ -683,8 +683,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1223,hate (v),1607,HATE
 1225,envy (v),40,ENVY
 1226,jealous,2821,JEALOUS
-1227,avaricious,,
-1228,stingy/stingy (小气，舍不得),1774,STINGY
+1227,avaricious,1774,STINGY
+1228,stingy/stingy (小气，舍不得),,
 1230,glad,,
 1231,"comfortable, happy",1495,HAPPY
 1233,sad,699,SAD
@@ -716,8 +716,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1273,weather,952,WEATHER
 1275,cloud,1489,CLOUD
 1277,fog,249,FOG
-1279,rain,,
-1280,rain (v),,
+1279,rain,658,RAIN (PRECIPITATION)
+1280,rain (v),1253,RAIN (RAINING)
 1282,thunder,1150,THUNDER
 1284,lightning,1654,LIGHTNING
 1286,rainbow,1733,RAINBOW
@@ -727,9 +727,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1294,melt (v),2334,MELT
 1296,sun,1343,SUN
 1298,moon,1313,MOON
-1299,menses/menses ('the waist hurts'),,
+1299,menses/menses ('the waist hurts'),766,MENSTRUATION
 1301,star,1430,STAR
-1303,light,,
+1303,light,630,LIGHT (RADIATION)
 1305,shadow,2275,SHADOW
 1307,"bright, light",679,BRIGHT
 1308,"bright, clear",679,BRIGHT
@@ -750,7 +750,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1336,marsh,,
 1338,lake,624,LAKE
 1339,pond,2035,POND
-1341,spring,,
+1341,spring,849,SPRING (OF WATER)
 1343,river,666,RIVER
 1344,stream,947,STREAM
 1346,water,948,WATER
@@ -760,7 +760,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1354,flow (v),2003,FLOW
 1356,waterfall,943,WATERFALL
 1358,shore,113,SHORE
-1359,bank,,
+1359,bank,3076,SLOPE
 1361,cliff,992,CLIFF
 1362,rocky mountain,,
 1364,wave,978,WAVE
@@ -768,16 +768,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1368,stone,857,STONE
 1370,rock,668,ROCK
 1372,sand,671,SAND
-1374,earth,,
+1374,earth,1228,EARTH (SOIL)
 1375,red clay,,
 1377,mud,640,MUD
 1379,clay,1399,CLAY
 1381,iron,621,IRON
-1382,stain,,
+1382,stain,3064,RUST
 1384,gold,1369,GOLD
 1386,silver,759,SILVER
 1388,copper,1825,COPPER
-1390,lead,,
+1390,lead,627,LEAD (CHEMICAL ELEMENT)
 1391,brass,,
 1394,juniper,,
 1395,pine,1740,PINE
@@ -785,7 +785,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1398,grass,606,GRASS
 1400,trunk,344,TREE TRUNK
 1402,bark,1204,BARK
-1404,stem,,
+1404,stem,2628,PLANT STEM
 1406,branch,1531,BRANCH
 1408,leaf,628,LEAF
 1409,leaf,628,LEAF
@@ -801,7 +801,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1428,mushroom,641,MUSHROOM
 1431,animal,619,ANIMAL
 1433,quadruped,,
-1434,beast,,
+1434,beast,958,WILD ANIMAL
 1435,pack animal,,
 1436,livestock,631,LIVESTOCK
 1438,bird,937,BIRD
@@ -826,7 +826,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1464,argali sheep,,
 1466,goat,1502,GOAT
 1468,pig,1337,PIG
-1470,"hen, cock",,
+1470,"hen, cock",1318,CHICKEN
 1472,tiger,846,TIGER
 1474,bear,1820,BEAR
 1476,wolf,522,WOLF
@@ -842,9 +842,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1495,eagle,1905,EAGLE
 1497,crane,1830,CRANE
 1499,swallow,3077,SWALLOW (BIRD)
-1500,little cuckoo,,
-1502,pigeon,,
-1503,pigeon,,
+1500,little cuckoo,2934,CUCKOO
+1502,pigeon,1853,DOVE
+1503,pigeon,1853,DOVE
 1505,crow,913,CROW
 1506,crow,913,CROW
 1507,owl,735,OWL
@@ -860,10 +860,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1527,snake,730,SNAKE
 1529,lizard,632,LIZARD
 1530,frog,503,FROG
-1532,horn,,
+1532,horn,1393,HORN (ANATOMY)
 1534,hair,,
 1535,mane,1918,MANE
-1537,"skin, fur",2678,HAIR OR FUR
+1537,"skin, fur",580,FUR
 1539,claw,72,CLAW
 1540,hoof,152,HOOF
 1542,tail,1220,TAIL
@@ -874,12 +874,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1551,scales of fish,266,SCALE
 1552,scales of snake,,
 1554,nest,539,NEST
-1556,fly (v),,
+1556,fly (v),1441,FLY (MOVE THROUGH AIR)
 1558,swim (v),1439,SWIM
 1560,cry (v),,
 1562,lay an egg (v),2464,LAY EGGS
 1564,raise (v),,
-1567,shape,,
+1567,shape,2134,RAISE (A CHILD)
 1569,round,1395,ROUND
 1570,round,1395,ROUND
 1572,sharp,1396,SHARP
@@ -898,14 +898,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1594,thing,738,THING
 1596,big,1202,BIG
 1598,tall,711,TALL
-1600,little,,
+1600,little,1246,SMALL
 1602,fine (meshes),,
 1604,large (meshes),,
 1606,long,1203,LONG
 1608,short,1645,SHORT
 1610,thick (and round),,
 1612,thin,2308,THIN
-1613,lean,,
+1613,lean,2219,LEAN (MEAT)
 1615,thick (and flat),,
 1617,thin (and flat),,
 1618,"weak, lightly seasoned",,
@@ -916,18 +916,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1628,yellow,1424,YELLOW
 1630,green,1425,GREEN
 1632,white,1335,WHITE
-1633,gray,,
+1633,gray,153,GREY
 1635,black,163,BLACK
 1637,paint (v),3122,PAINT (SOMETHING)
 1639,dye it (v),157,DYE
 1641,"sound, noise",1811,SOUND OR NOISE
 1643,a smell,,
 1646,"wild, rude",1412,RUDE
-1647,bad-tempered/bad (quality),,
+1647,bad-tempered/bad (quality),1292,BAD
 1649,gentle,1954,GENTLE
 1651,kind,,
-1653,courageous,,
-1654,courageous,,
+1653,courageous,3,BRAVE
+1654,courageous,3,BRAVE
 1656,stingy/stingy (小气，小心眼),1774,STINGY
 1658,honest,1120,HONEST
 1660,cunning,2335,CUNNING
@@ -935,12 +935,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1663,lazy,1564,LAZY
 1665,strong,785,STRONG
 1666,strong (politically),,
-1667,strong (quality),785,STRONG
+1667,strong (quality),,
 1669,weak,1601,WEAK
 1670,weak (politically),,
 1671,of bad quality,,
 1673,correct,1725,CORRECT (RIGHT)
-1675,good [in general sense],,
+1675,good [in general sense],1035,GOOD
 1676,appropriate,,
 1677,of a good quality,,
 1678,famous,,
@@ -956,7 +956,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1696,coarse,2151,COARSE
 1698,old,1229,OLD
 1700,new,1231,NEW
-1702,"pretty, cute",,
+1702,"pretty, cute",2410,GOOD-LOOKING
 1703,beautiful,1427,BEAUTIFUL
 1704,"poor, pitiful",1674,POOR
 1706,ugly,1548,UGLY
@@ -964,9 +964,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1710,dirty,1230,DIRTY
 1712,hard,1884,HARD
 1714,soft,1856,SOFT
-1717,place,,
-1719,front,,
-1721,back,,
+1717,place,723,PLACE (POSITION)
+1719,front,2194,FRONT (PART)
+1721,back,2323,BACK (PART)
 1723,side,682,SIDE
 1725,between,689,BETWEEN
 1727,middle,1093,MIDDLE
@@ -974,16 +974,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1730,up,1591,UP
 1731,upward,,
 1733,under,,
-1734,down,1326,DOWN
-1735,down,1326,DOWN
-1736,down,1326,DOWN
-1737,down,1326,DOWN
-1738,downward,,
+1734,down,,
+1735,down,,
+1736,down,,
+1737,down,,
+1738,downward,1326,DOWN
 1740,inside,1606,INSIDE
 1742,outside,762,OUTSIDE
 1744,right,1019,RIGHT
 1746,left,244,LEFT
-1748,tip,,
+1748,tip,2992,TIP (OF OBJECT)
 1749,"edge, tip",863,EDGE
 1750,"edge, hem",,
 1752,surroundings,,
@@ -1012,7 +1012,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1795,dawn,729,DAWN
 1797,morning,1339,MORNING
 1799,noon,2490,NOON
-1801,daytime,,
+1801,daytime,1225,DAY (NOT NIGHT)
 1803,evening,1629,EVENING
 1805,night,1233,NIGHT
 1806,night/night (0-3AM),,
@@ -1032,7 +1032,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1833,tomorrow,1329,TOMORROW
 1834,the day after tomorrow,1179,DAY AFTER TOMORROW
 1836,everyday,,
-1838,day,,
+1838,day,1260,DAY (24 HOURS)
 1839,date,,
 1840,date,,
 1842,week,1469,WEEK
@@ -1040,7 +1040,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1846,year,1226,YEAR
 1847,calendar,1967,CALENDAR
 1849,age,1789,AGE
-1851,spring,,
+1851,spring,1537,SPRINGTIME
 1853,summer,1342,SUMMER
 1855,autumn,1276,AUTUMN
 1857,winter,1471,WINTER
@@ -1099,7 +1099,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1966,first,728,FIRST
 1968,second,1384,SECOND
 1970,third,1859,THIRD
-1972,last,,
+1972,last,1529,LAST (FINAL)
 1974,alone,1964,ALONE
 1976,all,98,ALL
 1977,all,98,ALL
@@ -1113,20 +1113,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1990,scale,,
 1991,scale,,
 1993,heavy,1210,HEAVY
-1995,light,,
+1995,light,1052,LIGHT (WEIGHT)
 1997,"many, much",1198,MANY
 1999,"few, little",2924,A LITTLE
 2001,increase (v),1041,INCREASE
 2003,decrease (v),2864,DECREASE
-2006,"I, me",,
-2008,"we, us [plural]",,
-2009,"we, us [dual]",,
-2011,you (sg.),,
+2006,"I, me",1209,I
+2008,"we, us [plural]",1130,WE
+2009,"we, us [dual]",2634,WE TWO
+2011,you (sg.),1215,THOU
 2013,you [plural],1213,YOU
 2014,you two [dual],2111,YOU TWO
-2016,"he, him",,
-2018,"she, her",,
-2020,"they, them [plural]",,
+2016,"he, him",1211,HE
+2018,"she, her",1834,SHE
+2020,"they, them [plural]",817,THEY
 2021,they two [dual],2635,THEY TWO
 2023,oneself,,
 2025,this,1214,THIS
