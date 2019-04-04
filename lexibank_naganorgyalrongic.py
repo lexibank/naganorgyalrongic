@@ -102,8 +102,7 @@ class Dataset(NonSplittingDataset):
             for idx, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
                 for form in split_text(entry['value'], separators=',;/'):
                     # manual fixes not possible or difficult with profile
-                    form = form.replace('ˋ dʑ', 'ˋdʑ')
-                    form = form.replace('tɯɕe ?', 'tɯɕe')
+                    form = self.lexemes.get(form, form)
 
                     # tokenize
                     segments = self.tokenizer(None, '^' + form + '$',
