@@ -20,7 +20,6 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Concepts:** 1,256
 - **Lexemes:** 10,685
 - **Synonymy:** 1.06
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 92,176
 - **Segments:** 590 (0 BIPA errors, 0 CTLS sound class errors, 589 CLTS modified)
