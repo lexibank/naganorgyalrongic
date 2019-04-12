@@ -4,6 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "naganorgyalrongic",
     "dcat:accessURL": "https://github.com/lexibank/naganorgyalrongic",
     "rdf:ID": "naganorgyalrongic",

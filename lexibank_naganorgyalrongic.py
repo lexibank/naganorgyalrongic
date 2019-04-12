@@ -76,6 +76,8 @@ class Dataset(NonSplittingDataset):
 
         # add information to the dataset
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
+
             # add languages to the dataset
             lang_map = {}
             for language in self.languages:
