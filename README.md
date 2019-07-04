@@ -6,6 +6,8 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+Available online at https://htq.minpaku.ac.jp/databases/rGyalrong/
+
 ## Statistics
 
 
