@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Nagano, Yasuhiko and Prins, Marielle (eds.). 2013. rGyalrongic Languages Database. Minpaku.",
+    "dc:bibliographicCitation": "Nagano, Yasuhiko and Prins, Marielle (2013): rGyalrongic Languages Database. Osaka: National Museum of Ethnology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
     "dc:identifier": "https://htq.minpaku.ac.jp/databases/rGyalrong/",
@@ -9,7 +9,7 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "naganorgyalrongic",
+    "dc:title": "rGyalrongic Languages Database",
     "rdf:ID": "naganorgyalrongic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v4.0-12-ge90a2e37f4",
+                "concepticon_version": "v2.0-30-gcea4c63"
             }
         }
     ],
