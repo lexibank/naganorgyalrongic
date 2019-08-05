@@ -24,6 +24,6 @@ Available online at https://htq.minpaku.ac.jp/databases/rGyalrong/
 - **Sources:** 1
 - **Synonymy:** 1.06
 - **Invalid lexemes:** 0
-- **Tokens:** 92,176
-- **Segments:** 590 (0 BIPA errors, 0 CTLS sound class errors, 589 CLTS modified)
-- **Inventory size (avg):** 117.30
+- **Tokens:** 92,173
+- **Segments:** 589 (0 BIPA errors, 0 CTLS sound class errors, 588 CLTS modified)
+- **Inventory size (avg):** 117.10
