@@ -6,6 +6,7 @@ from clldutils.text import split_text
 from pylexibank.dataset import Concept, Language
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
+import attr
 
 # Define minimum coverage in order to include a doculect
 MIN_COVERAGE = 500
@@ -13,12 +14,19 @@ MIN_COVERAGE = 500
 # Define glossing languages not be included
 SKIP_LANGS = ["Tibetan (Script)", "Chinese (Hanzi)", "Japanese"]
 
+@attr.s
+class HLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default='Rgyalrong')
+    Family = attr.ib(default='Sino-Tibetan')
+
 
 class Dataset(NonSplittingDataset):
     id = "naganorgyalrongic"
     dir = Path(__file__).parent
-    concept_class = Concept
-    language_class = Language
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         # nothing to do, as the raw data is in the repository
@@ -72,8 +80,8 @@ class Dataset(NonSplittingDataset):
                 ds.add_language(
                     ID=language["SHORT_NAME"],
                     Name=language["NAME"],
-                    # Latitude=language['LATITUDE'],
-                    # Longitude=language['LONGITUDE'],
+                    Latitude=language['LATITUDE'],
+                    Longitude=language['LONGITUDE'],
                     Glottocode=language["GLOTTOCODE"],
                 )
                 lang_map[language["NAME"]] = language["SHORT_NAME"]

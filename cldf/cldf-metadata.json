@@ -178,6 +178,14 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ChineseName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [
