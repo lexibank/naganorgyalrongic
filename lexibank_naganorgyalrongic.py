@@ -30,6 +30,7 @@ class Dataset(NonSplittingDataset):
     separators = ';,/'
     brackets = {"(": ")", "[": "]"}
     missing_data = ['?']
+    strip_inside_brackets = True
 
     def cmd_download(self, **kw):
         # nothing to do, as the raw data is in the repository
