@@ -27,6 +27,9 @@ class Dataset(NonSplittingDataset):
     id = "naganorgyalrongic"
     dir = Path(__file__).parent
     language_class = HLanguage
+    separators = ';,/'
+    brackets = {"(": ")", "[": "]"}
+    missing_data = ['?']
 
     def cmd_download(self, **kw):
         # nothing to do, as the raw data is in the repository
@@ -78,13 +81,13 @@ class Dataset(NonSplittingDataset):
             lang_map = {}
             for language in self.languages:
                 ds.add_language(
-                    ID=language["SHORT_NAME"],
+                    ID=language["ID"],
                     Name=language["NAME"],
                     Latitude=language['LATITUDE'],
                     Longitude=language['LONGITUDE'],
                     Glottocode=language["GLOTTOCODE"],
                 )
-                lang_map[language["NAME"]] = language["SHORT_NAME"]
+                lang_map[language["NAME"]] = language["ID"]
 
             # add concepts to the dataset
             for concept in self.concepts:
@@ -97,18 +100,9 @@ class Dataset(NonSplittingDataset):
 
             # add lexemes
             for idx, entry in tqdm(enumerate(raw_entries), desc="make-cldf"):
-                for form in split_text(entry["value"], separators=",;/"):
-                    # manual fixes not possible or difficult with profile
-                    form = self.lexemes.get(form, form)
-
-                    # tokenize
-                    segments = self.tokenizer(None, "^" + form + "$", column="IPA")
-
-                    # add form
-                    ds.add_lexemes(
+                forms = ds.add_forms_from_value(
                         Language_ID=lang_map[entry["language"]],
                         Parameter_ID=entry["srcid"],
-                        Value=form.strip(),
-                        Segments=segments,
-                        Source=["Nagano2013"],
-                    )
+                        Value=entry["value"],
+                        Source=["Nagano2013"]
+                        )
