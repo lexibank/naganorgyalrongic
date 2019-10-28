@@ -3,7 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Nagano, Yasuhiko and Prins, Marielle (2013): rGyalrongic Languages Database. Osaka: National Museum of Ethnology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Nagano-2013-1256"
+    ],
     "dc:identifier": "https://htq.minpaku.ac.jp/databases/rGyalrong/",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -11,24 +13,51 @@
     "dc:source": "sources.bib",
     "dc:title": "rGyalrongic Languages Database",
     "dcat:accessURL": "https://github.com/lexibank/naganorgyalrongic",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/naganorgyalrongic",
+            "dc:created": "v1.1.1-13-g1681057"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.1.0-109-g408e9f8"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.7.4"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "naganorgyalrongic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0-78-gd7e234b"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10089,
+            "dc:extent": 10085,
             "tableSchema": {
                 "columns": [
                     {
@@ -182,11 +211,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "ChineseName"
+                        "name": "SubGroup"
                     },
                     {
                         "datatype": "string",
-                        "name": "SubGroup"
+                        "name": "Source_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Short_Name"
                     }
                 ],
                 "primaryKey": [
@@ -219,6 +252,14 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SrcId"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
                     }
                 ],
                 "primaryKey": [
