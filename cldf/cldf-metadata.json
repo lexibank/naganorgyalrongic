@@ -10,6 +10,7 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "rGyalrongic Languages Database",
+    "dcat:accessURL": "https://github.com/lexibank/naganorgyalrongic",
     "rdf:ID": "naganorgyalrongic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -20,14 +21,14 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0"
+                "concepticon_version": "v2.1.0-78-gd7e234b"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10685,
+            "dc:extent": 10089,
             "tableSchema": {
                 "columns": [
                     {

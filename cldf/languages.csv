@@ -1,11 +1,11 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup
-20xinl,Nyagrong Minyag (Ganzi Xinlong),muya1239,,,,30.932449,100.326871,Sino-Tibetan,,Rgyalrong
-06muna,rGyalrong (Ganzi Danba Badi Munashan),situ1238,,,,31.060903,101.855001,Sino-Tibetan,,Rgyalrong
-28erka,rGyalrong (Jinchuan Erkai),shan1274,,,,31.464691,101.341027,Sino-Tibetan,,Rgyalrong
-30wobz,rGyalrong (Jinchuan Guaninqiao Wobzi),eree1240,,,,31.639053,101.445432,Sino-Tibetan,,Rgyalrong
-48jiem,rGyalrong (Lixian Xuecheng Jiamizhai),lixi1238,,,,31.617273,103.276061,Sino-Tibetan,,Rgyalrong
-51bola,rGyalrong (Maerkang Bola (A)),maer1238,,,,31.915985,102.212059,Sino-Tibetan,,Rgyalrong
-52bolb,rGyalrong (Maerkang Bola (B)),maer1238,,,,31.915985,102.212059,Sino-Tibetan,,Rgyalrong
-55caob,rGyalrong (Maerkang Caodeng (B)),tsho1240,,,,32.209102,101.832718,Sino-Tibetan,,Rgyalrong
-59shab,rGyalrong (Maerkang Japhug Shaerzong (B)),gdon1234,,,,32.159653,102.159643,Sino-Tibetan,,Rgyalrong
-65soma,rGyalrong (Maerkang Soman),maer1238,,,,31.864114,102.484959,Sino-Tibetan,,Rgyalrong
+NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),muya1239,,,,30.932449,100.326871,Sino-Tibetan,,Rgyalrong
+GanziDanbarGyalrong,rGyalrong (Ganzi Danba Badi Munashan),situ1238,,,,31.060903,101.855001,Sino-Tibetan,,Rgyalrong
+JinchuanErkairGyalrong,rGyalrong (Jinchuan Erkai),shan1274,,,,31.464691,101.341027,Sino-Tibetan,,Rgyalrong
+JinchuanGuaninqiaorGyalrong,rGyalrong (Jinchuan Guaninqiao Wobzi),eree1240,,,,31.639053,101.445432,Sino-Tibetan,,Rgyalrong
+LixianXuechengrGyalrong,rGyalrong (Lixian Xuecheng Jiamizhai),lixi1238,,,,31.617273,103.276061,Sino-Tibetan,,Rgyalrong
+MaerkangBolarGyalrongA,rGyalrong (Maerkang Bola (A)),maer1238,,,,31.915985,102.212059,Sino-Tibetan,,Rgyalrong
+MaerkangBolarGyalrongB,rGyalrong (Maerkang Bola (B)),maer1238,,,,31.915985,102.212059,Sino-Tibetan,,Rgyalrong
+MaerkangCaodengrGyalrong,rGyalrong (Maerkang Caodeng (B)),tsho1240,,,,32.209102,101.832718,Sino-Tibetan,,Rgyalrong
+MaerkangJaphugrGyalrong,rGyalrong (Maerkang Japhug Shaerzong (B)),gdon1234,,,,32.159653,102.159643,Sino-Tibetan,,Rgyalrong
+MaerkangSomanrGyalrong,rGyalrong (Maerkang Soman),maer1238,,,,31.864114,102.484959,Sino-Tibetan,,Rgyalrong

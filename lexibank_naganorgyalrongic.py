@@ -3,7 +3,7 @@ import csv
 import lingpy
 from clldutils.path import Path
 from clldutils.text import split_text
-from pylexibank.dataset import Concept, Language
+from pylexibank.models import Concept, Language
 from pylexibank.dataset import NonSplittingDataset
 from tqdm import tqdm
 import attr
