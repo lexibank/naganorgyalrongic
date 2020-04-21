@@ -1,1071 +1,1071 @@
-Grapheme	IPA
-!	NULL
-“	NULL
-”	NULL
-$	NULL
-ˈ	NULL
-ˌ	NULL
-.	NULL
-…	NULL
-^	NULL
-|	NULL
-₀	⁰
-1	¹
-¹	¹
-₁	¹
-11	¹¹
-¹¹	¹¹
-21	²¹
-²¹	²¹
-31	³¹
-³¹	³¹
-41	⁴¹
-⁴¹	⁴¹
-51	⁵¹
-⁵¹	⁵¹
-111	¹¹¹
-¹¹¹	¹¹¹
-121	¹²¹
-¹²¹	¹²¹
-131	¹³¹
-¹³¹	¹³¹
-141	¹⁴¹
-¹⁴¹	¹⁴¹
-151	¹⁵¹
-¹⁵¹	¹⁵¹
-211	²¹¹
-²¹¹	²¹¹
-221	²²¹
-²²¹	²²¹
-231	²³¹
-²³¹	²³¹
-241	²⁴¹
-²⁴¹	²⁴¹
-251	²⁵¹
-²⁵¹	²⁵¹
-311	³¹¹
-³¹¹	³¹¹
-321	³²¹
-³²¹	³²¹
-331	³³¹
-³³¹	³³¹
-341	³⁴¹
-³⁴¹	³⁴¹
-351	³⁵¹
-³⁵¹	³⁵¹
-411	⁴¹¹
-⁴¹¹	⁴¹¹
-421	⁴²¹
-⁴²¹	⁴²¹
-431	⁴³¹
-⁴³¹	⁴³¹
-441	⁴⁴¹
-⁴⁴¹	⁴⁴¹
-451	⁴⁵¹
-⁴⁵¹	⁴⁵¹
-511	⁵¹¹
-⁵¹¹	⁵¹¹
-521	⁵²¹
-⁵²¹	⁵²¹
-531	⁵³¹
-⁵³¹	⁵³¹
-541	⁵⁴¹
-⁵⁴¹	⁵⁴¹
-551	⁵⁵¹
-⁵⁵¹	⁵⁵¹
-2	²
-²	²
-₂	²
-12	¹²
-¹²	¹²
-22	²²
-²²	²²
-32	³²
-³²	³²
-42	⁴²
-⁴²	⁴²
-52	⁵²
-⁵²	⁵²
-112	¹¹²
-¹¹²	¹¹²
-122	¹²²
-¹²²	¹²²
-132	¹³²
-¹³²	¹³²
-142	¹⁴²
-¹⁴²	¹⁴²
-152	¹⁵²
-¹⁵²	¹⁵²
-212	²¹²
-²¹²	²¹²
-222	²²²
-²²²	²²²
-232	²³²
-²³²	²³²
-242	²⁴²
-²⁴²	²⁴²
-252	²⁵²
-²⁵²	²⁵²
-312	³¹²
-³¹²	³¹²
-322	³²²
-³²²	³²²
-332	³³²
-³³²	³³²
-342	³⁴²
-³⁴²	³⁴²
-352	³⁵²
-³⁵²	³⁵²
-412	⁴¹²
-⁴¹²	⁴¹²
-422	⁴²²
-⁴²²	⁴²²
-432	⁴³²
-⁴³²	⁴³²
-442	⁴⁴²
-⁴⁴²	⁴⁴²
-452	⁴⁵²
-⁴⁵²	⁴⁵²
-512	⁵¹²
-⁵¹²	⁵¹²
-522	⁵²²
-⁵²²	⁵²²
-532	⁵³²
-⁵³²	⁵³²
-542	⁵⁴²
-⁵⁴²	⁵⁴²
-552	⁵⁵²
-⁵⁵²	⁵⁵²
-3	³
-³	³
-₃	³
-13	¹³
-¹³	¹³
-23	²³
-²³	²³
-33	³³
-³³	³³
-43	⁴³
-⁴³	⁴³
-53	⁵³
-⁵³	⁵³
-113	¹¹³
-¹¹³	¹¹³
-123	¹²³
-¹²³	¹²³
-133	¹³³
-¹³³	¹³³
-143	¹⁴³
-¹⁴³	¹⁴³
-153	¹⁵³
-¹⁵³	¹⁵³
-213	²¹³
-²¹³	²¹³
-223	²²³
-²²³	²²³
-233	²³³
-²³³	²³³
-243	²⁴³
-²⁴³	²⁴³
-253	²⁵³
-²⁵³	²⁵³
-313	³¹³
-³¹³	³¹³
-323	³²³
-³²³	³²³
-333	³³³
-³³³	³³³
-343	³⁴³
-³⁴³	³⁴³
-353	³⁵³
-³⁵³	³⁵³
-413	⁴¹³
-⁴¹³	⁴¹³
-423	⁴²³
-⁴²³	⁴²³
-433	⁴³³
-⁴³³	⁴³³
-443	⁴⁴³
-⁴⁴³	⁴⁴³
-453	⁴⁵³
-⁴⁵³	⁴⁵³
-513	⁵¹³
-⁵¹³	⁵¹³
-523	⁵²³
-⁵²³	⁵²³
-533	⁵³³
-⁵³³	⁵³³
-543	⁵⁴³
-⁵⁴³	⁵⁴³
-553	⁵⁵³
-⁵⁵³	⁵⁵³
-4	⁴
-⁴	⁴
-₄	⁴
-14	¹⁴
-¹⁴	¹⁴
-24	²⁴
-²⁴	²⁴
-34	³⁴
-³⁴	³⁴
-44	⁴⁴
-⁴⁴	⁴⁴
-54	⁵⁴
-⁵⁴	⁵⁴
-114	¹¹⁴
-¹¹⁴	¹¹⁴
-124	¹²⁴
-¹²⁴	¹²⁴
-134	¹³⁴
-¹³⁴	¹³⁴
-144	¹⁴⁴
-¹⁴⁴	¹⁴⁴
-154	¹⁵⁴
-¹⁵⁴	¹⁵⁴
-214	²¹⁴
-²¹⁴	²¹⁴
-224	²²⁴
-²²⁴	²²⁴
-234	²³⁴
-²³⁴	²³⁴
-244	²⁴⁴
-²⁴⁴	²⁴⁴
-254	²⁵⁴
-²⁵⁴	²⁵⁴
-314	³¹⁴
-³¹⁴	³¹⁴
-324	³²⁴
-³²⁴	³²⁴
-334	³³⁴
-³³⁴	³³⁴
-344	³⁴⁴
-³⁴⁴	³⁴⁴
-354	³⁵⁴
-³⁵⁴	³⁵⁴
-414	⁴¹⁴
-⁴¹⁴	⁴¹⁴
-424	⁴²⁴
-⁴²⁴	⁴²⁴
-434	⁴³⁴
-⁴³⁴	⁴³⁴
-444	⁴⁴⁴
-⁴⁴⁴	⁴⁴⁴
-454	⁴⁵⁴
-⁴⁵⁴	⁴⁵⁴
-514	⁵¹⁴
-⁵¹⁴	⁵¹⁴
-524	⁵²⁴
-⁵²⁴	⁵²⁴
-534	⁵³⁴
-⁵³⁴	⁵³⁴
-544	⁵⁴⁴
-⁵⁴⁴	⁵⁴⁴
-554	⁵⁵⁴
-⁵⁵⁴	⁵⁵⁴
-5	⁵
-⁵	⁵
-₅	⁵
-15	¹⁵
-¹⁵	¹⁵
-25	²⁵
-²⁵	²⁵
-35	³⁵
-³⁵	³⁵
-45	⁴⁵
-⁴⁵	⁴⁵
-55	⁵⁵
-⁵⁵	⁵⁵
-115	¹¹⁵
-¹¹⁵	¹¹⁵
-125	¹²⁵
-¹²⁵	¹²⁵
-135	¹³⁵
-¹³⁵	¹³⁵
-145	¹⁴⁵
-¹⁴⁵	¹⁴⁵
-155	¹⁵⁵
-¹⁵⁵	¹⁵⁵
-215	²¹⁵
-²¹⁵	²¹⁵
-225	²²⁵
-²²⁵	²²⁵
-235	²³⁵
-²³⁵	²³⁵
-245	²⁴⁵
-²⁴⁵	²⁴⁵
-255	²⁵⁵
-²⁵⁵	²⁵⁵
-315	³¹⁵
-³¹⁵	³¹⁵
-325	³²⁵
-³²⁵	³²⁵
-335	³³⁵
-³³⁵	³³⁵
-345	³⁴⁵
-³⁴⁵	³⁴⁵
-355	³⁵⁵
-³⁵⁵	³⁵⁵
-415	⁴¹⁵
-⁴¹⁵	⁴¹⁵
-425	⁴²⁵
-⁴²⁵	⁴²⁵
-435	⁴³⁵
-⁴³⁵	⁴³⁵
-445	⁴⁴⁵
-⁴⁴⁵	⁴⁴⁵
-455	⁴⁵⁵
-⁴⁵⁵	⁴⁵⁵
-515	⁵¹⁵
-⁵¹⁵	⁵¹⁵
-525	⁵²⁵
-⁵²⁵	⁵²⁵
-535	⁵³⁵
-⁵³⁵	⁵³⁵
-545	⁵⁴⁵
-⁵⁴⁵	⁵⁴⁵
-555	⁵⁵⁵
-⁵⁵⁵	⁵⁵⁵
-ã	ã
-ç	ç
-ẽ	ẽ
-ĩ	ĩ
-õ	õ
-ɿ	z̩
-ˉç	ˉç/ç
-ʔ̚	ʔ̚
-ə̃	ə̃
-ə̥	ə̥
-ˆç	ˆç/ç
-a̟	a̟
-a̤	a̤
-ɑ̃	ɑ̃
-ɑ̈	ɑ̈
-æ̃	æ̃
-ɛ̃	ɛ̃
-i̥	i̥
-j̥	j̊
-l̥	l̥
-m̥	m̥
-n̥	n̥
-ɔ̃	ɔ̃
-p̚	p̚
-r̥	r̥
-r̩	r̩
-ɹ̩	ɹ̩
-t̚	t̚
-u̥	u̥
-ɤ̤	ɤ̤
-v̩	v̩
-w̥	w̥
-z̩	z̩
-ˉl̥	ˉl̥/l̥
-ˊr̥	ˊr̥/r̥
-ˋw̥	ˋw̥/w̥
-c‘	cʼ
-k‘	kʼ
-p‘	pʼ
-q‘	qʼ
-rʼ	r’
-t‘	tʼ
-ʈ‘	ʈ’
-ʨ‘	tɕ’
-ʧ‘	tʃʼ
-ᴺk‘	ⁿk’
-ᴺʨ‘	ⁿtɕ’
-ᴺʧ‘	ⁿtʃ’
-ɴʧ‘	ⁿtʃ’
-ts‘	tsʼ
-ᴺts‘	ⁿtsʼ
-◦	+
--	+
-əː	əː
-a:	aː
-aː	aː
-i:	iː
-u:	uː
-ʔ	ʔ
-Ɂ	ʔ
-ˉʔ	ˉʔ/ʔ
-ˊʔ	ˊʔ/ʔ
-əˀ	əˀ
-əˁ	əˤ
-ˋʔ	ˋʔ/ʔ
-ˆʔ	ˆʔ/ʔ
-aˀ	aˀ
-aˁ	aˤ
-ɐˀ	ɐˀ
-ɐˁ	ɐˤ
-eˀ	eˀ
-iˀ	iˀ
-jˀ	jˀ
-mˀ	mˀ
-oˀ	oˀ
-ɔˀ	ɔˀ
-rˀ	rˀ
-uˀ	uˀ
-wˀ	wˀ
-əˁˀ	əˀ
-ə˞ˀ	ə˞ˀ
-ɐ˞ˀ	ɐ˞ˀ
-e˞ˀ	e˞ˀ
-iˁˀ	iˀ
-ǝ	ə
-ə	ə
-ə̤	ə
-ə́	ə́/ə
-ə̂	ə̂/ə
-ə̌	ə̌/ə
-ɸ	ɸ
-ɫ	lˠ
-ɯˠ	ɯˠ
-ɑˠ	ɑˠ
-æˠ	æˠ
-eˠ	eˠ
-oˠ	oˠ
-ɪ	ɪ
-ʟ	ʟ
-N	ŋ
-ŋ	ŋ
-ˉŋ	ˉŋ/ŋ
-ˊŋ	ˊŋ/ŋ
-ˋŋ	ˋŋ/ŋ
-ˆŋ	ˆŋ/ŋ
-ˉʰŋ	ˉʰŋ/ʰŋ
-ˉʱŋ	ˉʱŋ/ʰŋ
-ˋʱŋ	ˋʱŋ/ʰŋ
-ˋʲȵ	ˋʲȵ/ʲŋ
-ɚ	ə˞
-R	ʀ
-ʀ	ʀ
-ʁ	ʁ
-ˉʀ	ˉʀ/ʀ
-ˉʁ	ˉʁ/ʁ
-ˊʀ	ˊʀ/ʀ
-ˊʁ	ˊʁ/ʁ
-ə˞	ə˞
-ɪ˞	ɪ˞
-ɯ˞	ɯ˞
-ˋʀ	ˋʀ/ʀ
-ˋʁ	ˋʁ/ʁ
-ˆʀ	ˆʀ/ʀ
-ˆʁ	ˆʁ/ʁ
-a˞	a˞
-ɐ˞	ɐ˞
-ɑ˞	ɑ˞
-e˞	e˞
-ɛ˞	ɛ˞
-ʱʁ	ʱʁ/ʰʁ
-i˞	i˞
-o˞	o˞
-u˞	u˞
-ʷʀ	ʷʀ
-ʷʁ	ʷʁ
-ˊʱʁ	ˊʱʁ/ʰʁ
-ˋᴺʁ	ˋᴺʁ/ⁿʁ
-ˋʷʁ	ˋʷʁ/ʷʁ
-ˆᴺʁ	ˆᴺʁ/ⁿʁ
-oᵘ˞	ʊ˞
-ʃ	ʃ
-ʧ	tʃ
-ˉʃ	ˉʃ/ʃ
-ˊʃ	ˊʃ/ʃ
-ᴺʧ	ⁿtʃ
-ɴʧ	ⁿtʃ
-ᶰʧ	ⁿtʃ
-tʃ	tʃ
-ˉtʃ	ˉtʃ/tʃ
-ˊtʃ	ˊtʃ/tʃ
-ˋtʃ	ˋtʃ/tʃ
-ˆtʃ	ˆtʃ/tʃ
-ʊ	ʊ
-oᵘ	ʊ
-ɯ	ɯ
-ɰ	ɰ
-ɯ́	ɯ́/ɯ
-ʒ	ʒ
-ʤ	dʒ
-ӡ	ʒ
-ᴺʒ	ⁿʒ
-ᴺʤ	ⁿdʒ
-dʒ	dʒ
-ᶰʤ	ⁿdʒ
-ˉdʒ	ˉdʒ/dʒ
-ˊdʒ	ˊdʒ/dʒ
-ˋdʒ	ˋdʒ/dʒ
-ˆdʒ	ˆdʒ/dʒ
-ʌ	ʌ
-A	ɑ
-a	a
-ɐ	ɐ
-ɑ	ɑ
-ɒ	ɒ
-á	á/a
-â	â/a
-ǎ	ǎ/a
-ɑ́	ɑ́/ɑ
-ɑ̂	ɑ̂/ɑ
-ɑ̌	ɑ̌/ɑ
-æ	æ
-ӕ	æ
-ǽ	ǽ/æ
-æ̂	æ̂/æ
-æ̌	æ̌/æ
-b	b
-β	β
-ß	β
-ˉb	ˉb/b
-ˊb	ˊb/b
-ᴺb	ⁿb
-ᶰb	ⁿb
-ʱb	ʱb/ʰb
-ᵐb	ⁿb
-ˉʱb	ˉʱb/ʰb
-ˉᵐb	ˉᵐb/ⁿb
-ˊᵐb	ˊᵐb/ⁿb
-c	c
-ɕ	ɕ
-ʨ	tɕ
-ˉc	ˉc/c
-ˉɕ	ˉɕ/ɕ
-ˊc	ˊc/c
-ˊɕ	ˊɕ/ɕ
-ˋc	ˋc/c
-ˋɕ	ˋɕ/ɕ
-ˆc	ˆc/c
-ˆɕ	ˆɕ/ɕ
-ʰc	ʰc
-ʰɕ	ʰɕ
-tɕ	tɕ
-ˉtɕ	ˉtɕ/tɕ
-ˊtɕ	ˊtɕ/tɕ
-ˋʰc	ˋʰc/ʰc
-ˋtɕ	ˋtɕ/tɕ
-ˆʰc	ˆʰc/ʰc
-ˆtɕ	ˆtɕ/tɕ
-ˉʰtɕ	ˉʰtɕ/ʰtɕ
-ˉᶳtɕ	ˉᶳtɕ/tɕ
-d	d
-ɖ	ɖ
-ˉd	ˉd/d
-ˊd	ˊd/d
-ᴺd	ⁿd
-ᴺɖ	ⁿɖ
-ˋd	ˋd/d
-ˆd	ˆd/d
-ᶯɖ	ⁿɖ
-ᶰd	ⁿd
-ᶰɖ	ⁿɖ
-ʰd	ʰd
-ʱd	ʰd
-ᵐɖ	ⁿɖ
-ⁿd	ⁿd
-ˉᶯɖ	ˉᶯɖ/ⁿɖ
-ˉʱd	ˉʱd/ʰd
-ˉᵐd	ˉᵐd/ⁿd
-ˊᶯɖ	ˊᶯɖ/ⁿɖ
-ˊʱd	ˊʱd/ʰd
-ˋʱd	ˋʱd/ʰd
-ˆʱd	ˆʱd/ʰd
-ˆᵐɖ	ˆᵐɖ/ⁿɖ
-ᴇ	ɛ
-e	e
-ɛ	ɛ
-ɜ	ɜ
-é	é/e
-ê	ê/e
-ě	ě/e
-f	f
-g	g
-ɡ	g
-ɢ	ɢ
-ɣ	ɣ
-ˉɣ	ˉɣ/ɣ
-ˊg	ˊg/g
-ˊɣ	ˊɣ/ɣ
-ᴺg	ⁿg
-ᴺɢ	ⁿɢ
-ˋg	ˋg/g
-ˋɣ	ˋɣ/ɣ
-ˆɣ	ˆɣ/ɣ
-ᵑg	ⁿg
-ᵑɣ	ⁿɣ
-ᶰg	ⁿg
-ʱg	ʰg
-ᵐg	ⁿg
-ˉᴺɢ	ˉᴺɢ/ⁿɢ
-ˉᵑg	ˉᵑg/ⁿg
-ˉʱɣ	ˉʱɣ/ʰɣ
-ˊᵑg	ˊᵑg/ⁿg
-ˊʱg	ˊʱg/ʰg
-ˊᵐg	ˊᵐg/ⁿg
-ˋᵑg	ˋᵑg/ⁿg
-ˋʱg	ˋʱg/ʰg
-ˋʱɣ	ˋʱɣ/ʰɣ
-ˆᵑg	ˆᵑg/ⁿg
-h	h
-ɦ	ɦ
-ˉɦ	ˉɦ/ɦ
-ˊɦ	ˊɦ/ɦ
-ˋɦ	ˋɦ/ɦ
-ˆɦ	ˆɦ/ɦ
-cʰ	cʰ
-çʰ	çʰ
-ɕʰ	ɕʰ
-kʰ	kʰ
-ɬʰ	ɬʰ
-pʰ	pʰ
-qʰ	qʰ
-rh	rʰ
-rʰ	rʰ
-sʰ	sʰ
-ʂʰ	ʂʰ
-ʨʰ	tɕʰ
-ʧʰ	tʃʰ
-tʰ	tʰ
-ʈʰ	ʈʰ
-ʦʰ	tsʰ
-xʰ	xʰ
-ˉɕʰ	ˉɕʰ/ɕʰ
-ˉkh	ˉkʰ/kʰ
-ˉkʰ	ˉkʰ/kʰ
-ˉχʰ	ˉχʰ/χʰ
-ˉɬʰ	ˉɬʰ/ɬʰ
-ˉpʰ	ˉpʰ/pʰ
-ˉqʰ	ˉqʰ/qʰ
-ˉsʰ	ˉsʰ/sʰ
-ˉtʰ	ˉtʰ/tʰ
-ˉʈʰ	ˉʈʰ/ʈʰ
-ˉxʰ	ˉxʰ/xʰ
-ˊcʰ	ˊcʰ/cʰ
-ˊɕʰ	ˊɕʰ/ɕʰ
-ˊkʰ	ˊkʰ/kʰ
-ˊpʰ	ˊpʰ/pʰ
-ˊqʰ	ˊqʰ/qʰ
-ˊsʰ	ˊsʰ/sʰ
-ˊtʰ	ˊtʰ/tʰ
-ᴺpʰ	ⁿpʰ
-ˋcʰ	ˋcʰ/cʰ
-ˋçʰ	ˋçʰ/çʰ
-ˋɕʰ	ˋɕʰ/ɕʰ
-ˋkʰ	ˋkʰ/kʰ
-ˋpʰ	ˋpʰ/pʰ
-ˋqʰ	ˋqʰ/qʰ
-ˋsʰ	ˋsʰ/sʰ
-ˋtʰ	ˋtʰ/tʰ
-ˋʈʰ	ˋʈʰ/ʈʰ
-ˋxʰ	ˋxʰ/xʰ
-ˆkʰ	ˆkʰ/kʰ
-ˆpʰ	ˆpʰ/pʰ
-ˆqʰ	ˆqʰ/qʰ
-ˆsʰ	ˆsʰ/sʰ
-kʲʰ	kʲʰ
-l̥ʰ	l̥ʰ
-ɴʧʰ	ⁿtʃʰ
-ᶰpʰ	ⁿpʰ
-pjʰ	pʲʰ
-qχʰ	qχʰ
-r̥ʰ	r̥ʰ
-tʼʰ	t’ʰ
-tʃʰ	tʃʰ
-tɕʰ	tɕʰ
-tsʰ	tsʰ
-tʂʰ	ʈʂʰ
-ʈʂʰ	ʈʂʰ
-ˉtɕʰ	ˉtɕʰ/tɕʰ
-ˉtsʰ	ˉtsʰ/tsʰ
-ˊtɕʰ	ˊtɕʰ/tɕʰ
-ˊtsʰ	ˊtsʰ/tsʰ
-ˋtɕʰ	ˋtɕʰ/tɕʰ
-ˋtsʰ	ˋtsʰ/tsʰ
-ˋʈʂʰ	ˋʈʂʰ/ʈʂʰ
-i	i
-ɨ	ɨ
-í	í/i
-î	î/i
-ǐ	ǐ/i
-j	j
-ɟ	ɟ
-ʝ	ʝ
-ˉj	ˉj/j
-ˊj	ˊj/j
-ˋj	ˋj/j
-ˋɟ	ˋɟ/ɟ
-bʲ	bʲ
-gʲ	gʲ
-ʱɟ	ʱɟ/ʰɟ
-ᶮɟ	ⁿɟ
-kʲ	kʲ
-ᵐɟ	ⁿɟ
-pʲ	pʲ
-tʲ	tʲ
-ˉʱɟ	ˉʱɟ/ʰɟ
-ˉᵐɟ	ˉᵐɟ/ⁿɟ
-ˊʱj	ˊʱj/ʰj
-ˋʱɟ	ˋʱɟ/ʰɟ
-ˋᶮɟ	ˋᶮɟ/ⁿɟ
-ˋᵐɟ	ˋᵐɟ/ⁿɟ
-ˆʱɟ	ˆʱɟ/ʰɟ
-ˆᶮɟ	ˆᶮɟ/ⁿɟ
-kj‘	k’ʲ
-k	k
-ˉk	ˉk/k
-ˊk	ˊk/k
-ᴺk	ⁿk
-ˋk	ˋk/k
-ˆk	ˆk/k
-ʰk	ʰk
-ˉʰk	ˉʰk/ʰk
-ˋʰk	ˋʰk/ʰk
-χ	χ
-ˉχ	ˉχ/χ
-ˊχ	ˊχ/χ
-ˋχ	ˋχ/χ
-ˆχ	ˆχ/χ
-q͡χ	qχ
-l	l
-ɬ	ɬ
-ɭ	ɭ
-ˉl	ˉl/l
-ˉɬ	ˉɬ/ɬ
-ˊl	ˊl/l
-ˠl	ˠl/l
-ᴺl	ⁿl
-ˋl	ˋl/l
-ˋɬ	ˋɬ/ɬ
-ˆl	ˆl/l
-ˆɭ	ˆɭ/ɭ
-ʱl	ʰl
-ᶰl	ⁿl
-ʷl	ʷl
-ˉʷl	ˉʷl/ʷl
-ˊˠl	ˊˠl/l
-ˊʲl	ˊʲl/ʲl
-ˊⁿl	ˊⁿl/ⁿl
-ˊʷl	ˊʷl/ʷl
-ˋʷl	ˋʷl/ʷl
-ˆʷl	ˆʷl/ʷl
-ɮ	ɮ
-ˊɮ	ˊɮ/ɮ
-ˠɮ	ɮ
-ʲɮ	ʲɮ
-ʷɮ	ʷɮ/ɮ
-ˉˠɮ	ˉˠɮ/ɮ
-ˉʷɮ	ˉʷɮ/ʷɮ
-ˊˠɮ	ˊˠɮ/ɮ
-ˊʷɮ	ˊʷɮ/ʷɮ
-ˋˠɮ	ˋˠɮ/ɮ
-ˋʲɮ	ˋʲɮ/ʲɮ
-ˆˠɮ	ˆˠɮ/ɮ
-m	m
-ɱ	ɱ
-ˉm	ˉm/m
-ˊm	ˊm/m
-ˠm	ˠm/m
-ˋm	ˋm/m
-ˆm	ˆm/m
-ʷm	ʷm
-ˉʰm	ˉʰm/ʰm
-ˉʱm	ˉʱm/ʰm
-ˉˡm	ˉˡm/m
-ˋˠm	ˋˠm/m
-ˋʰm	ˋʰm/ʰm
-ˋʷm	ˋʷm/ʷm
-n	n
-ñ	ɲ
-ȵ	ɲ
-ɲ	ɲ
-ɳ	ɳ
-ɴ	ɴ
-ˉn	ˉn/n
-ˉȵ	ˉȵ/ɲ
-ˊn	ˊn/n
-ˊȵ	ˊȵ/ɲ
-ˠn	ˠn/n
-ˋn	ˋn/n
-ˋȵ	ˋȵ/ɲ
-ˆn	ˆn/n
-ˆȵ	ˆȵ/ɲ
-ʰn	ʰn
-ʱȵ	ʰɲ
-ᵐȵ	ⁿɲ
-ʷn	ʷn
-ˉʱȵ	ˉʱȵ/ʰɲ
-ˉᵐȵ	ˉᵐȵ/ⁿɲ
-ˉʷn	ˉʷn/n
-ˊʷn	ˊʷn/ʷn
-ˋˠn	ˋˠn/n
-ˋʱȵ	ˋʱȵ/ʰɲ
-ˋʱn	ʰn
-ˋʷn	ˋʷn/ʷn
-o	o
-ø	ø
-ɔ	ɔ
-ó	ó/o
-ô	ô/o
-ǒ	ǒ/o
-p	p
-ˉp	ˉp/p
-ˊp	ˊp/p
-ᴺp	ⁿp
-ˋp	ˋp/p
-ˆp	ˆp/p
-ʰp	ʰp
-ᶰp	ⁿp
-ˉʰp	ʰp
-ˊʰp	ˊʰp/ʰp
-ˋʰp	ˋʰp/ʰp
-q	q
-ˉq	ˉq/q
-ᴺq	ⁿq
-ˋq	ˋq/q
-ʰq	ʰq
-ˊʰq	ˊʰq/ʰq
-r	r
-ɹ	ɹ
-ɽ	ɽ
-ɾ	ɾ
-ˉr	ˉr/r
-ˊr	ˊr/r
-ˋr	ˋr/r
-ˆr	ˆr/r
-s	s
-ʂ	ʂ
-ʦ	ts
-ˉs	ˉs/s
-ˉʂ	ˉʂ/ʂ
-ˊs	ˊs/s
-ˊʂ	ˊʂ/ʂ
-ˋs	ˋs/s
-ˆs	ˆs/s
-ʰs	ʰs
-ts	ts
-tʂ	ʈʂ
-ˉts	ˉts/ts
-ˉtʂ	ˉtʂ/ʈʂ
-ˊts	ˊts/ts
-ˊtʂ	ˊtʂ/ʈʂ
-ˋts	ˋts/ts
-ˋtʂ	ˋtʂ/ʈʂ
-ˆʰs	ˆʰs/ʰs
-ˆts	ˆts/ts
-ˆtʂ	ˆtʂ/ʈʂ
-ʰʈʂ	ʰʈʂ
-ˉʰts	ˉʰts/ʰts
-ˉᶳts	ˉᶳts/ʈʂ
-ˊʰts	ˊʰts/ʰts
-ˊᶳts	ˊᶳts/ʈʂ
-t	t
-ʈ	ʈ
-ˉt	ˉt/t
-ˉʈ	ˉʈ/ʈ
-ˊt	ˊt/t
-ˊʈ	ˊʈ/ʈ
-ᴺt	ⁿt
-ˋt	ˋt/t
-ˋʈ	ˋʈ/ʈ
-ˆt	ˆt/t
-ˆʈ	ˆʈ/ʈ
-ʰt	ʰt
-ʰʈ	ʰʈ
-ˉʰt	ˉʰt/ʰt
-ˊᶳk	ˊᶳk/ʈ
-ˋʰt	ˋʰt/ʰt
-u	u
-ɤ	ɤ
-ʉ	ʉ
-ú	ú/u
-û	û/u
-ǔ	ǔ/u
-v	v
-ˉv	ˉv/v
-ˊv	ˊv/v
-ˋv	ˋv/v
-ˆv	ˆv/v
-ˉʱv	ˉʱv/ʰv
-ˉʲv	ˉʲv/ʲv
-ˊʷv	ˊʷv/ʷv
-w	w
-ˉw	ˉw/w
-ˊw	ˊw/w
-ˋw	ˋw/w
-ˆw	ˆw/w
-ɡʷ	gʷ
-ˉʱw	ˉʱw/ʰw
-x	x
-ˉx	ˉx/x
-ü	y
-y	y
-ǳ	dz
-ʣ	dz
-ʥ	dʑ
-z	z
-ʐ	ʐ
-ʑ	ʑ
-ˉz	ˉz/z
-ˉʑ	ˉʑ/ʑ
-ˊz	ˊz/z
-ˊʑ	ˊʑ/ʑ
-ᴺǳ	ⁿdz
-ᴺʥ	ⁿdʑ
-ˋz	ˋz/z
-ˋʑ	ˋʑ/ʑ
-ˆʑ	ˆʑ/ʑ
-dz	dz
-dʐ	ɖʐ
-dʑ	dʑ
-ᶰǳ	ⁿdz
-ᶰʥ	ⁿdʑ
-ˉdz	ˉdz/dz
-ˉdʐ	ˉdʐ/ɖʐ
-ˉdʑ	ˉdʑ/dʑ
-ˊdz	ˊdz/dz
-ˊdʐ	ˊdʐ/ɖʐ
-ˊdʑ	ˊdʑ/dʑ
-ᴺdz	ⁿdz
-ˋdz	ˋdz/dz
-ˋdʐ	ˋdʐ/ɖʐ
-ˋdʑ	ˋdʑ/dʑ
-ˋᵐz	ˋᵐz/ⁿz
-ˋʷz	ˋʷz/ʷz
-ˋʷʑ	ˋʷʑ/ʷʑ
-ˆdz	ˆdz/dz
-ˆdʐ	ˆdʐ/ɖʐ
-ˆdʑ	ˆdʑ/dʑ
-ᶰdz	ⁿdz
-ʱdʑ	ʰdʑ
-ʱɖʐ	ʰɖʐ
-ʷdʑ	ʷdʑ
-ˉˡdʑ	ˉˡdʑ/dʑ
-ˉᵐdz	ˉᵐdz/ⁿdz
-ˊᵐdʑ	ˊᵐdʑ/ⁿdʑ
-ˋᵐdz	ˋᵐdz/ⁿdz
-ˋⁿdz	ˋⁿdz/ⁿdz
-ǝᵏ	ə k
-ǝᴺ	ə n
-ǝᵖ	ə p
-ǝᵗ	ə t
-əᵘ	ə w
-ʊᴺ	ʊ n
-ɯᵏ	ɯ k
-ӕɴ	æ ŋ
-ӕᵏ	æ k
-æᴺ	æ n
-æᵗ	æ t
-aᵏ	a k
-aᴺ	a n
-ɑᴺ	ɑ n
-aᵖ	a p
-ɑᵖ	ɑ p
-aᵗ	a t
-ɑᵘ	ɑ w
-ᵇd	b d
-ˊᵇd	ˊᵇd/b d
-ˉᵐᵇɖ	ˉᵐᵇɖ/ⁿb ɖ
-ᵇg	b g
-ᵇɟ	b ɟ
-ˋᵇɟ	b ɟ
-ˆᵇɟ	ˆᵇɟ/b ɟ
-eᵏ	e k
-ᴇᶰ	ɛ n
-ᴇᴺ	ɛ n
-eᴺ	e n
-ɛᴺ	ɛ n
-eᵖ	e p
-eᵗ	e t
-ᶠɕ	f ɕ
-ˉᶠɕ	ˉᶠɕ/f ɕ
-ˋᶠɕ	ˋᶠɕ/f ɕ
-ᶠɕʰ	f ɕʰ
-ᶠkʰ	f kʰ
-ᶠsʰ	f sʰ
-ˉᶠɬʰ	ˉᶠɬʰ/f ɬʰ
-ˉᶠsʰ	ˉᶠsʰ/f sʰ
-ˋᶠɬʰ	ˋᶠɬʰ/f ɬʰ
-ˋᶠsʰ	ˋᶠsʰ/f sʰ
-ᶠk	f k
-ᶠq	f q
-ᶠs	f s
-ˉᶠʈ	ˉᶠʈ/f ʈ
-iᵏ	i k
-iᴺ	i n
-iᵖ	i p
-ɨᵗ	ɨ t
-ᵏpʰ	k pʰ
-ᵏʈʰ	k ʈʰ
-ᵏs	k s
-ˉᵏs	ˉᵏs/k s
-ᵏt	k t
-ˡm	l m
-ˉˡv	ˉˡv/l v
-ˊˡv	ˊˡv/l v
-ˋˡv	ˋˡv/l v
-ᵐʧ‘	m tʃʼ
-ᵐn	m n
-ˉⁿd	ˉⁿd/n d
-oᵉ	o e
-oᵏ	o k
-ɔᵏ	ɔ k
-oᶰ	o n
-oᴺ	o n
-ɔᴺ	ɔ n
-oᵖ	o p
-ɔᵖ	ɔ p
-oᵗ	o t
-ɔᵗ	ɔ t
-ᵖc	ᵖc/p c
-ˋᵖc	ˋᵖc/p c
-ˋᵖtɕ	ˋᵖtɕ/p tɕ
-ᵖcʰ	p cʰ
-ᵖʈʰ	p ʈʰ
-ᵖtʰ	ᵖtʰ/p tʰ
-ˉᵖtʰ	ˉᵖtʰ/p tʰ
-ˉᵖʈʰ	ˉᵖʈʰ/p ʈʰ
-ˋᵖqʰ	ˋᵖqʰ/p qʰ
-ᵖtsʰ	p tsʰ
-ˉᵖtɕʰ	ˉᵖtɕʰ/p tɕʰ
-ᵖk	p k
-ᵖq	p q
-ˋᵖq	ˋᵖq/p q
-ᵖs	p s
-ᵖʈʂ	p ʈʂ
-ˉᵖts	ˉᵖts/p ts
-ˊᵖts	ˊᵖts/p ts
-ᵖt	p t
-ᵖʈ	p ʈ
-ˋᵖʈ	ˋᵖʈ/p ʈ
-ˆᵖt	ˆᵖt/p t
-ˋʳb	ˋʳb/r b
-ʳd	r d
-ʳg	r g
-ʳm	r m
-ʳv	r v
-ˋʳv	ˋʳv/r v
-ˉˢt	ˉˢt/s t
-uᵏ	u k
-ˊᵛg	ˊᵛg/v g
-ᵛl	v l
-ᵛɮ	v ɮ
-ᵛz	v z
-ˋᵛʑ	ˋᵛʑ/v ʑ
-ˆᵛz	ˆᵛz/v z
-ˋᵛdz	ˋᵛdz/v dz
-ˣɕ	x ɕ
-ˋˣɕ	ˋˣɕ/x ɕ
-ˋˣtɕ	ˋˣtɕ/x tɕ
-ˣcʰ	x cʰ
-ˣsʰ	x sʰ
-ˣtʰ	x tʰ
-ˉˣsʰ	ˉˣsʰ/x sʰ
-ˋˣʈʰ	ˋˣʈʰ/x ʈʰ
-ˣtɕʰ	x tɕʰ
-ˋˣtɕʰ	ˋˣtɕʰ/x tɕʰ
-ˣk	x k
-ˋˣq	ˋˣq/x q
-ˋˣs	ˋˣs/x s
-ˆˣs	ˆˣs/x s
-ˣt	x t
-ˉᶻd	ˉᶻd/z d
-ˊᶻd	ˊᶻd/z d
-ˊʱzd	ˊʱzd/z dʰ
-mukʰu?	m u kʰ u
-tiʰa	t i h a
+Grapheme	IPA	SCA	FREQUENCY	EXAMPLES
+^	NULL		10086	ˊtɐ ku;ˊkə ze˞;ˊtɐ ko ˊji ɕu;ˊtə rnok;ˊtə mto
+$	NULL		10085	ˊtɐ ku;ˊkə ze˞;ˊtɐ ko ˊji ɕu;ˊtə rnok;ˊtə mto
+!	NULL		2	la liᴇ na pᴇ!;sɤrma je !
+.	NULL		59	ˊkə n.nej;ˊkə n.ke;... ɕes44;... ɕes44;... ɕes44
+|	NULL		13	ˉŋɐ |moˀŋ;rŋa22 |mu44;wu22 koŋ44 |kǝ22 ktsi42;kə22 mɜ22 |ȵot44;wu44 koŋ33 |kǝ22 ɴbat33
+ˈ	NULL		200	ɕiˈnɑnˈbubɑsi;ɕiˈnɑnˈbubɑsi;zɪˈkouʔ;jɑzˈpiɑt̚;kʰɯˈtsɯ˞t̚
+ˌ	NULL		31	ˈtɕɑqpʰonɑˌlɛt̚;ɡəsˌkʰəˈtɕin;ɑˌləˈlʊəʔ;χɑˈwudufˌtʰæt̚;ˈkətʰekəˌtsʰɪɡə əzɡən
+“	NULL		1	wu22 mɜ44 kǝ22 “ŋa44 so44 ji44 ven” na22 tɕɜs44
+”	NULL		1	wu22 mɜ44 kǝ22 “ŋa44 so44 ji44 ven” na22 tɕɜs44
+…	NULL		1	...kǝ44 ma22 …
+11	¹¹	1	3	kə22 ndzə44 wu11 spɜ44;kə22 nəm22 cça11 ra44;kor11
+22	²²	1	2859	kǝp22 gi44;kə22 pram44;ɟʝam22 kɨ44;ser22 po44;ləm22 kər44
+²²	²²	1	0	
+¹¹	¹¹	1	0	
+12	¹²	2	0	
+13	¹³	2	2	ba13;kar13
+14	¹⁴	2	0	
+15	¹⁵	2	0	
+23	²³	2	11	na44 tɕi23;sɑ22 zdem23;ɴbro23;ʔa23 rgja44 ᴺk‘ǝ33;wɑŋ23
+24	²⁴	2	138	tǝ22 rȵje24;kʰǝ22 ɕna44 jɜ24 bjam22;ki24;kǝ22 ɟʝo24;kǝ22 mbru24
+25	²⁵	2	0	
+34	³⁴	2	11	ti34;te33 lop34;sɑ34 ʧʰɐ55;ka22 ŋge34;sa44 t‘a55 zgre34
+35	³⁵	2	0	
+45	⁴⁵	2	3	sa44 xje45;sʨɔ45;ska45 ʃne44
+²³	²³	2	0	
+²⁴	²⁴	2	0	
+²⁵	²⁵	2	0	
+³⁴	³⁴	2	0	
+³⁵	³⁵	2	0	
+¹²	¹²	2	0	
+¹³	¹³	2	0	
+¹⁴	¹⁴	2	0	
+¹⁵	¹⁵	2	0	
+⁴⁵	⁴⁵	2	0	
+21	²¹	3	0	
+31	³¹	3	0	
+32	³²	3	0	
+41	⁴¹	3	0	
+42	⁴²	3	88	kǝ22 tɕʰjem42;ki22 pkam42;mə22 ŋam42 cçok44;kǝ22 ʂtsʰǝr42;sɜm22 scçan42
+43	⁴³	3	20	tǝ22 mɲak43;tǝ22 mɲak43 mɒ22 rtsɨ44;tǝ22 mɲak43 mɒ22 rtsɨ44;tǝ22 mɲak43 ʤi44;kɑ22 mis43
+51	⁵¹	3	4	tə-pʰə51;ka-po51;kə-jam51;kə-jo51
+52	⁵²	3	0	
+53	⁵³	3	4	kɑ22 ɲi:53;kǝ33 ŋeɴ53;tǝ22 naɴ53;ʃkɔ44 tǝm53
+54	⁵⁴	3	25	tǝ22 snam54;tǝ33 mɲak54 ku22 su44 ʤu33;kǝ22 sɒ44 kʃot54;dzɑ33 ji54;ro44 ro44 ri44 ʧhen54
+²¹	²¹	3	0	
+³²	³²	3	0	
+³¹	³¹	3	0	
+⁴²	⁴²	3	0	
+⁴³	⁴³	3	0	
+⁴¹	⁴¹	3	0	
+⁵²	⁵²	3	0	
+⁵³	⁵³	3	0	
+⁵¹	⁵¹	3	0	
+⁵⁴	⁵⁴	3	0	
+33	³³	4	1447	tǝ22 ŋgǝm33 kǝ44 lǝt44;kʰǝ22 pri33 wu33 r̥kʰo22;kʰǝ22 pri33 wu33 r̥kʰo22;tʰe33 mbak44;nǝ22 ni33 ɕjet24
+³³	³³	4	0	
+44	⁴⁴	5	3825	kǝp22 gi44;kə22 pram44;ɟʝam22 kɨ44;ser22 po44;ləm22 kər44
+55	⁵⁵	5	300	ŋa22 kʰo55 no44 ɴdzor44;wa22 kʰo55 nɑ22 ɴkʰriŋ33;ta33 ko44 rɲe55;tǝ33 wu44 rnoᵏ55;tǝ22 sna55
+⁴⁴	⁴⁴	5	9	ta-ro⁴⁴;kǝ-jo⁴⁴ pʰʃᴇ;ka-po⁴⁴;kə-ʧor⁴⁴;tə-lo⁴⁴
+⁵⁵	⁵⁵	5	0	
+1	¹	6	0	
+2	²	6	6	kǝ2 tsi44 tsi44;kɑ2 ʈak44;kǝ2 rgu33;ɽɔ2 pʃe44;to22 mde44 ka2 laᵗ44
+3	³	6	1	ŋa22 kto44 no 44 mo3
+4	⁴	6	3	ka22 sɨ33 ja22 ᴺdzur4;ka33 ma4 ʨi44 rɣe44;tǝ4 mʧɯ33 mǝ22 t‘a55 tǝ33 wa55 ra55
+5	⁵	6	1	kǝ5 xse33
+²	²	6	0	
+³	³	6	0	
+¹	¹	6	0	
+⁴	⁴	6	0	
+⁵	⁵	6	0	
+₀	⁰	6	0	
+₁	¹	6	0	
+₂	²	6	0	
+₃	³	6	0	
+₄	⁴	6	0	
+₅	⁵	6	0	
+112	¹¹²	6	0	
+113	¹¹³	6	0	
+114	¹¹⁴	6	0	
+115	¹¹⁵	6	0	
+121	¹²¹	6	0	
+122	¹²²	6	0	
+131	¹³¹	6	0	
+132	¹³²	6	0	
+133	¹³³	6	0	
+141	¹⁴¹	6	0	
+142	¹⁴²	6	0	
+143	¹⁴³	6	0	
+144	¹⁴⁴	6	0	
+151	¹⁵¹	6	0	
+152	¹⁵²	6	0	
+153	¹⁵³	6	0	
+154	¹⁵⁴	6	0	
+155	¹⁵⁵	6	0	
+211	²¹¹	6	0	
+212	²¹²	6	0	
+213	²¹³	6	0	
+214	²¹⁴	6	0	
+215	²¹⁵	6	0	
+221	²²¹	6	0	
+223	²²³	6	0	
+224	²²⁴	6	0	
+225	²²⁵	6	0	
+231	²³¹	6	0	
+232	²³²	6	0	
+233	²³³	6	0	
+241	²⁴¹	6	0	
+242	²⁴²	6	0	
+243	²⁴³	6	0	
+244	²⁴⁴	6	0	
+251	²⁵¹	6	0	
+252	²⁵²	6	0	
+253	²⁵³	6	0	
+254	²⁵⁴	6	0	
+255	²⁵⁵	6	0	
+311	³¹¹	6	0	
+312	³¹²	6	0	
+313	³¹³	6	0	
+314	³¹⁴	6	0	
+315	³¹⁵	6	0	
+322	³²²	6	0	
+323	³²³	6	0	
+324	³²⁴	6	0	
+325	³²⁵	6	0	
+331	³³¹	6	0	
+332	³³²	6	0	
+334	³³⁴	6	0	
+335	³³⁵	6	0	
+341	³⁴¹	6	0	
+342	³⁴²	6	0	
+343	³⁴³	6	0	
+344	³⁴⁴	6	0	
+345	³⁴⁵	6	0	
+351	³⁵¹	6	0	
+352	³⁵²	6	0	
+353	³⁵³	6	0	
+354	³⁵⁴	6	0	
+355	³⁵⁵	6	0	
+411	⁴¹¹	6	0	
+412	⁴¹²	6	0	
+413	⁴¹³	6	0	
+414	⁴¹⁴	6	0	
+415	⁴¹⁵	6	0	
+422	⁴²²	6	0	
+423	⁴²³	6	0	
+424	⁴²⁴	6	0	
+425	⁴²⁵	6	0	
+433	⁴³³	6	0	
+434	⁴³⁴	6	0	
+435	⁴³⁵	6	0	
+441	⁴⁴¹	6	0	
+442	⁴⁴²	6	0	
+443	⁴⁴³	6	0	
+445	⁴⁴⁵	6	0	
+451	⁴⁵¹	6	0	
+452	⁴⁵²	6	0	
+453	⁴⁵³	6	0	
+454	⁴⁵⁴	6	0	
+455	⁴⁵⁵	6	0	
+511	⁵¹¹	6	0	
+512	⁵¹²	6	0	
+513	⁵¹³	6	0	
+514	⁵¹⁴	6	0	
+515	⁵¹⁵	6	0	
+522	⁵²²	6	0	
+523	⁵²³	6	0	
+524	⁵²⁴	6	0	
+525	⁵²⁵	6	0	
+533	⁵³³	6	0	
+534	⁵³⁴	6	0	
+535	⁵³⁵	6	0	
+544	⁵⁴⁴	6	0	
+545	⁵⁴⁵	6	0	
+551	⁵⁵¹	6	0	
+552	⁵⁵²	6	0	
+553	⁵⁵³	6	0	
+554	⁵⁵⁴	6	0	
+²²³	²²³	6	0	
+²²¹	²²¹	6	0	
+²²⁴	²²⁴	6	0	
+²²⁵	²²⁵	6	0	
+²³²	²³²	6	0	
+²³³	²³³	6	0	
+²³¹	²³¹	6	0	
+²¹²	²¹²	6	0	
+²¹³	²¹³	6	0	
+²¹¹	²¹¹	6	0	
+²¹⁴	²¹⁴	6	0	
+²¹⁵	²¹⁵	6	0	
+²⁴²	²⁴²	6	0	
+²⁴³	²⁴³	6	0	
+²⁴¹	²⁴¹	6	0	
+²⁴⁴	²⁴⁴	6	0	
+²⁵²	²⁵²	6	0	
+²⁵³	²⁵³	6	0	
+²⁵¹	²⁵¹	6	0	
+²⁵⁴	²⁵⁴	6	0	
+²⁵⁵	²⁵⁵	6	0	
+³²²	³²²	6	0	
+³²³	³²³	6	0	
+³²⁴	³²⁴	6	0	
+³²⁵	³²⁵	6	0	
+³³²	³³²	6	0	
+³³¹	³³¹	6	0	
+³³⁴	³³⁴	6	0	
+³³⁵	³³⁵	6	0	
+³¹²	³¹²	6	0	
+³¹³	³¹³	6	0	
+³¹¹	³¹¹	6	0	
+³¹⁴	³¹⁴	6	0	
+³¹⁵	³¹⁵	6	0	
+³⁴²	³⁴²	6	0	
+³⁴³	³⁴³	6	0	
+³⁴¹	³⁴¹	6	0	
+³⁴⁴	³⁴⁴	6	0	
+³⁴⁵	³⁴⁵	6	0	
+³⁵²	³⁵²	6	0	
+³⁵³	³⁵³	6	0	
+³⁵¹	³⁵¹	6	0	
+³⁵⁴	³⁵⁴	6	0	
+³⁵⁵	³⁵⁵	6	0	
+¹²²	¹²²	6	0	
+¹²¹	¹²¹	6	0	
+¹³²	¹³²	6	0	
+¹³³	¹³³	6	0	
+¹³¹	¹³¹	6	0	
+¹¹²	¹¹²	6	0	
+¹¹³	¹¹³	6	0	
+¹¹⁴	¹¹⁴	6	0	
+¹¹⁵	¹¹⁵	6	0	
+¹⁴²	¹⁴²	6	0	
+¹⁴³	¹⁴³	6	0	
+¹⁴¹	¹⁴¹	6	0	
+¹⁴⁴	¹⁴⁴	6	0	
+¹⁵²	¹⁵²	6	0	
+¹⁵³	¹⁵³	6	0	
+¹⁵¹	¹⁵¹	6	0	
+¹⁵⁴	¹⁵⁴	6	0	
+¹⁵⁵	¹⁵⁵	6	0	
+⁴²²	⁴²²	6	0	
+⁴²³	⁴²³	6	0	
+⁴²⁴	⁴²⁴	6	0	
+⁴²⁵	⁴²⁵	6	0	
+⁴³³	⁴³³	6	0	
+⁴³⁴	⁴³⁴	6	0	
+⁴³⁵	⁴³⁵	6	0	
+⁴¹²	⁴¹²	6	0	
+⁴¹³	⁴¹³	6	0	
+⁴¹¹	⁴¹¹	6	0	
+⁴¹⁴	⁴¹⁴	6	0	
+⁴¹⁵	⁴¹⁵	6	0	
+⁴⁴²	⁴⁴²	6	0	
+⁴⁴³	⁴⁴³	6	0	
+⁴⁴¹	⁴⁴¹	6	0	
+⁴⁴⁵	⁴⁴⁵	6	0	
+⁴⁵²	⁴⁵²	6	0	
+⁴⁵³	⁴⁵³	6	0	
+⁴⁵¹	⁴⁵¹	6	0	
+⁴⁵⁴	⁴⁵⁴	6	0	
+⁴⁵⁵	⁴⁵⁵	6	0	
+⁵²²	⁵²²	6	0	
+⁵²³	⁵²³	6	0	
+⁵²⁴	⁵²⁴	6	0	
+⁵²⁵	⁵²⁵	6	0	
+⁵³³	⁵³³	6	0	
+⁵³⁴	⁵³⁴	6	0	
+⁵³⁵	⁵³⁵	6	0	
+⁵¹²	⁵¹²	6	0	
+⁵¹³	⁵¹³	6	0	
+⁵¹¹	⁵¹¹	6	0	
+⁵¹⁴	⁵¹⁴	6	0	
+⁵¹⁵	⁵¹⁵	6	0	
+⁵⁴⁴	⁵⁴⁴	6	0	
+⁵⁴⁵	⁵⁴⁵	6	0	
+⁵⁵²	⁵⁵²	6	0	
+⁵⁵³	⁵⁵³	6	0	
+⁵⁵¹	⁵⁵¹	6	0	
+⁵⁵⁴	⁵⁵⁴	6	0	
+111	¹¹¹	?	0	
+123	¹²³	?	0	
+124	¹²⁴	?	0	
+125	¹²⁵	?	0	
+134	¹³⁴	?	0	
+135	¹³⁵	?	0	
+145	¹⁴⁵	?	0	
+222	²²²	?	0	
+234	²³⁴	?	0	
+235	²³⁵	?	0	
+245	²⁴⁵	?	0	
+321	³²¹	?	0	
+333	³³³	?	0	
+421	⁴²¹	?	0	
+431	⁴³¹	?	0	
+432	⁴³²	?	0	
+444	⁴⁴⁴	?	0	
+521	⁵²¹	?	0	
+531	⁵³¹	?	0	
+532	⁵³²	?	0	
+541	⁵⁴¹	?	0	
+542	⁵⁴²	?	0	
+543	⁵⁴³	?	0	
+555	⁵⁵⁵	?	0	
+²²²	²²²	?	0	
+²³⁴	²³⁴	?	0	
+²³⁵	²³⁵	?	0	
+²⁴⁵	²⁴⁵	?	0	
+³²¹	³²¹	?	0	
+³³³	³³³	?	0	
+¹²³	¹²³	?	0	
+¹²⁴	¹²⁴	?	0	
+¹²⁵	¹²⁵	?	0	
+¹³⁴	¹³⁴	?	0	
+¹³⁵	¹³⁵	?	0	
+¹¹¹	¹¹¹	?	0	
+¹⁴⁵	¹⁴⁵	?	0	
+⁴²¹	⁴²¹	?	0	
+⁴³²	⁴³²	?	0	
+⁴³¹	⁴³¹	?	0	
+⁴⁴⁴	⁴⁴⁴	?	0	
+⁵²¹	⁵²¹	?	0	
+⁵³²	⁵³²	?	0	
+⁵³¹	⁵³¹	?	0	
+⁵⁴²	⁵⁴²	?	0	
+⁵⁴³	⁵⁴³	?	0	
+⁵⁴¹	⁵⁴¹	?	0	
+⁵⁵⁵	⁵⁵⁵	?	0	
+A	ɑ	A	0	
+a	a	A	4814	ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉlə˞ wɔ;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;tʰi ˉɕna mdzar
+á	á/a	A	55	jɑ́ɣrpʰá;fsámə̂;rpʰə́lá;mátsə́;jáŋjú
+â	â/a	A	23	rtâ;pʰjâ;scâ;měmdâ;ɲǎdírŋâ
+ã	ã	A	4	ˋtɕʰã ra;ˉʱməj lã ˊnə ȵe tsə;ˉʰmã;ˊʱdã tsʰo
+ǎ	ǎ/a	A	16	mɑ́ɣɲǎ;tʰǎχpê;ntɕátɕǎ;rvîrŋǎ;ɲǎdírŋâ
+ɑ	ɑ	A	814	zedɑlmdəndɑʔ;zedɑlmdəndɑʔ;ndvɑʔ;tʰətpɑ;ʑɑɾɑʔ
+a:	aː	A	1	tǝ33 za:44
+aˀ	aˀ	A	11	ˊɕɐl daˀm;ˊkə mwaˀ j;ˊkə mwaˀj;ˉwə tsʰe mɐ kə ˊmə naˀn;ˊrə laˀ n
+aˁ	aˤ	A	1	aˁjix
+aː	aː	A	1	tɕɨ44 laː44 vək44
+a˞	a˞	A	3	ˊko pʰa˞;a˞jæt̚;a˞jɛ
+a̟	a̟	A	1	pi22 ma̟44
+a̤	a̤	A	2	wa̤jit̚;ɯdəˈtʰa̤ʔ
+ɑ˞	ɑ˞	A	13	zɑ˞ɾæt;ziɑ˞t̚;ˈɑ˞jiχɕɛ˞t̚;ɑ˞ɟɪpkʰot̚;ˈkəmˌbɑ˞sit̚
+ɑˠ	ɑˠ	A	6	ɹ̩rtʰɑˠʔ;qɑˠ;lɑˠɬˈtʰən;nəŋzɑˠ;stɑˠʔ
+ɑ́	ɑ́/ɑ	A	134	mɑ́ɣ;mɑ́ɣɲǎ;mɑ́ɣdzə̌;mɑ́ɣrtsə̂;mɑ́rbə́
+ɑ̂	ɑ̂/ɑ	A	58	rtsʰə́kʰə́jɑ̂;χǽtʰjɑ̂ɣví;sjɑ̂r;ɟɑ̂ɣ;rcɑ̌pɑ̂
+ɑ̃	ɑ̃	A	7	wɑ̃ɕɛ̃n;nəɟɑ̃ʔ;dəˈpɕiɑ̃ʔ;tɕʰɑ̃;nəbəˈtɑ̃ʔ
+ɑ̈	ɑ̈	A	1	ˈndɑbɑ̈ʔ
+ɑ̌	ɑ̌/ɑ	A	39	ʁɑ̌◦rmə̂;tʰǽpɑ̌;ɲǽrtsɑ̌;sʰémtʰɑ̌;rnə́mɕʰɑ̌rə̌
+f	f	B	96	ˊkə fsɐk;ˊkə fsɐk;kə ˊnə fsoˀ;kʰɑfsɯt̚;χɑˈwudufˌtʰæt̚
+v	v	B	347	ˆɕȵa ja vjet;ˊwə vri ˊkwə lit;ˊtə vej;ˊtɕʰə rveˀ;ˊɕa vrə
+ß	β	B	11	ta33 ßgju33;kɑ22 ra44 ßra33;ka44 ßra33;kǝ55 ßra44;ka22 ra44 ßdzo44
+ɸ	ɸ	B	32	ˊtə ɸɕi;ka33 ɸse55;ɸʃe33 ma55 ka33 ra44;t‘a33 ɸke44;ka55 ɸke44
+β	β	B	59	βzaŋ42 ser44 po22;βzaŋ42;tɯɕnaβ;tɯ◦ɕpɤβ;taqaβ
+v̩	v̩	B	2	dərv̩ɡedɑ;dəkʰv̩tsət̚
+ˆv	ˆv/v	B	2	kə ˆvrɐ tɕʰi;ˆva le
+ˉv	ˉv/v	B	2	ˉvu ɣo;ˉvo va
+ˊv	ˊv/v	B	22	kə ˊvɐ wu;sa ˊvja ruˀ;ko ˊve ze˞;ko ˊvə rwɐk;ko ˊvɐ lek
+ˋv	ˋv/v	B	2	ˋvo zoŋ;ˋvo zoŋ ˊȵa ȵa
+ˉʱv	ˉʱv/ʰv	B	1	ˉʱvu
+ˉʲv	ˉʲv/ʲv	B	0	
+ˊʷv	ˊʷv/ʷv	B	0	
+c	c	C	130	kɪfciɛt̚;dənciət̚;jəkomoskʰə̥cit̚;rcɑ̌pɑ̂;súrcɑ̌pɑ̂
+ç	ç	C	47	çɲɕʰə̂r;çsû;çsǔçsú;çsǔçsú;çtə̂
+ǳ	dz	C	0	
+ɟ	ɟ	C	151	əɟæt;nɟæmbɑʔ;nɟæmɾɑt̚;r̥ɟɑɾiʔ;ɑɾˈɟæp̚
+ʣ	dz	C	31	tɛ-ja nʣu;tɛ-ja nʣu rkʰua;tə-mʣu;ʣə sŋu kə ra ʂi;jɛ nʣu tʂʰu
+ʥ	dʑ	C	116	ka-mə rʥuʔ;ʥa ʂkrᴇ;ʥa pgrᴇ;ʥa pgrᴇ;ʥao ʂɿ
+ʦ	ts	C	156	tə-mȵa mə rʦɿ;tə-mȵa mə rʦɿ;tə-ʂȵi ʦu;tə-ʂȵi ʦu;tə-ʂʦu
+ʨ	tɕ	C	164	tə-mʨi;tə-mʨi;tə-mʨi ʦi ru;ta-ja mʨi;ta-rʨi
+cʰ	cʰ	C	38	cʰæloɣo;əcʰɪn;əcʰɪn;rcʰê;fkə̌scʰɑ̂
+c‘	cʼ	C	1	tǝ44 naŋ44 c‘u44
+dz	dz	C	124	tʰi ˉɕna mdzar;ˊko rdzə;ˊko rdzə;ˊtə mdzuˀ;ˊmdze ji
+dʐ	ɖʐ	C	73	dʐə˞ˈdʐɑʔ;dʐə˞ˈdʐɑʔ;ˈdʐə˞ʁjuʔ;ŋændʐoŋ;ndʐəvɾə
+dʑ	dʑ	C	136	ˊtə mdʑ e;ˊtə mdʑo ˉmo ɕu;ˊkə dʑeˀ;ˊkə dʑeˀ;ˊkə dʑər
+ts	ts	C	356	ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;tə ˉrə tsɐk;ˊtɐ r̥tsejˀ;ˊkʰom tseˀ
+tɕ	tɕ	C	248	tɕə ˆmə ɕtʰej;tə ˊbok tɕɔˀ;ˊtə tɕə;ˊtə tɕə;ˆkə tɕɐk
+tʂ	ʈʂ	C	172	tʂə˞mɑʔ;r̥xtʂiˈʐomɑʔ;ˈnəmˌtʂuɑsi;tʂə˞;nəptʂəlɪt̚
+çʰ	çʰ	C	9	kə22 ncçʰak44;te22 cçʰu44;tə22 li44 cçʰə24;cçʰə42;tə22 kʰə44 scçʰok44
+ʦʰ	tsʰ	C	76	tə-rna pʦʰi;tə-rʦʰɛ;tə-rʦʰɛ;tə-rʦʰɛ kə-pjᴇ;tə-rʦʰɛ
+ʨʰ	tɕʰ	C	39	ʨʰyn ʦɿ;ma gan ʨʰəu;ʨʰək ʨʰək;ʨʰək ʨʰək;kə-nə nʨʰᴇ
+ʨ‘	tɕ’	C	17	tǝ33 pɔ55 ʨ‘a44;mʨ‘u55 ʃt‘u44;kǝ22 ʨ‘e44;ma22 kǝ44 ʨ‘e44;tǝ22 ja33 ʨ‘e44
+ʰc	ʰc	C	1	ˋpo ʰco
+ʱɟ	ʱɟ/ʰɟ	C	1	ˉrɣi ʱɟa ti
+ˆc	ˆc/c	C	7	ˆce ti;ˆcɛ ɕʰu;ˆcɛ xtɕə;ˆcɛ mɖi;ˆcɛ m̥tʰu
+ˆç	ˆç/ç	C	1	ˆçe ma
+ˉc	ˉc/c	C	5	ˉcɛ χtɕi;ˉcɛ fɕʰu;ˉca;ˉcɛ ᵖʈi;ˉcɛ ʰtɕi
+ˉç	ˉç/ç	C	2	ˉçe;ˉçe ʰtõ
+ˊc	ˊc/c	C	7	ˊcɛ ʷɮu;ˊcu;ˊcɛ cʰe;ˊcɛ ʀə;ˊcɛ cʰe
+ˋc	ˋc/c	C	13	ˋcɛ r̥tə;ˋce ˉtɕʰo;ˋce pə qə ˊnõ ŋə;ˋcɛ jdʑi;ˋce ɕʰu
+ˋɟ	ˋɟ/ɟ	C	1	ˋɟe
+ᵐɟ	ⁿɟ	C	1	ˋᵐɟa ᵐɟa
+ᶮɟ	ⁿɟ	C	1	ˋtʰa dʑu ˊmə ᶮɟo
+tsʰ	tsʰ	C	120	ˊwə r̥tsʰes;ˊkə tsʰuˀ;ˊtə jɐk ˊko tsʰok;ˉwə tsʰe mɐ kə ˊmə naˀn;ˈkətʰekəˌtsʰɪɡə əzɡən
+tɕʰ	tɕʰ	C	139	ˊkə tɕʰə;tɐ ˊr̥tɕʰɔ ˊko lit;nɐ ˊkə tɕʰas;mɐ ˊkə tɕʰeˀ;ˊlə mtɕʰəŋ
+tʂʰ	ʈʂʰ	C	63	wɑŋˈtʂʰɑʔ;ˈtʂʰe˞vɑ;tʂʰunˈku;biˈtʂʰɑʔ;ləˈtʂʰɔn
+ʈʂʰ	ʈʂʰ	C	1	ˉsɐ xsə ʈʂʰə
+ʰʈʂ	ʰʈʂ	C	1	ˆkwə ʰʈʂɐ
+ʱdʑ	ʰdʑ	C	1	ˆpə ʱdʑo
+ʱɖʐ	ʰɖʐ	C	1	ˉⁿdə ʱɖʐə ˊsejˀ
+ʷdʑ	ʷdʑ	C	1	ˉkə ʷdʑu la
+ˆdz	ˆdz/dz	C	0	
+ˆdʐ	ˆdʐ/ɖʐ	C	0	
+ˆdʑ	ˆdʑ/dʑ	C	0	
+ˆts	ˆts/ts	C	0	
+ˆtɕ	ˆtɕ/tɕ	C	0	
+ˆtʂ	ˆtʂ/ʈʂ	C	0	
+ˆʰc	ˆʰc/ʰc	C	1	ˆʰcõ mo
+ˆʱɟ	ˆʱɟ/ʰɟ	C	1	ˆʱɟa ʰke
+ˆᶮɟ	ˆᶮɟ/ⁿɟ	C	2	ˆᶮɟi ʑi;ˆᶮɟo ᵐba
+ˉdz	ˉdz/dz	C	1	ˉdzə ʰke
+ˉdʐ	ˉdʐ/ɖʐ	C	0	
+ˉdʑ	ˉdʑ/dʑ	C	1	ˉdʑoˀ
+ˉts	ˉts/ts	C	0	
+ˉtɕ	ˉtɕ/tɕ	C	8	ˉtɕəŋ juˀ;ˉtɕəŋ juˀ;ˉtɕə ᵐbɐ ˉtɕək;ˉtɕə ᵐbɐ ˉtɕək;ˉtɕə ti ˉjeˀ
+ˉtʂ	ˉtʂ/ʈʂ	C	0	
+ˉʱɟ	ˉʱɟ/ʰɟ	C	2	ˉʱɟi;ˉᵐba lẽˉʱɟa
+ˉᵐɟ	ˉᵐɟ/ⁿɟ	C	1	ˉᵐɟa
+ˊcʰ	ˊcʰ/cʰ	C	1	ˊcʰa ⁿdu
+ˊdz	ˊdz/dz	C	0	
+ˊdʐ	ˊdʐ/ɖʐ	C	0	
+ˊdʑ	ˊdʑ/dʑ	C	3	ˊdʑa roŋ ˊwe;ˊdʑoˀ;ˊdʑɑ χpu
+ˊts	ˊts/ts	C	7	wu ˊtsə kək ˊko peˀ;mə ˊtsa pɔ;ko se ˊtsə r̥kwet;kɐ vɐ ˊtsa let;ˊtsə leˀ
+ˊtɕ	ˊtɕ/tɕ	C	9	ˊtɕem;ˊtɕem;ˊtɕem;ˊtɕem go ˊwə r̥keˀ;ˊko sʰe ˊtɕe lut
+ˊtʂ	ˊtʂ/ʈʂ	C	0	
+ˋcʰ	ˋcʰ/cʰ	C	3	ˋcʰo ʱgo;ˋcʰo ᶠɕi;ˋcʰje
+ˋdz	ˋdz/dz	C	0	
+ˋdʐ	ˋdʐ/ɖʐ	C	0	
+ˋdʑ	ˋdʑ/dʑ	C	2	ˋdʑuk;ˋdʑõᵐbo
+ˋts	ˋts/ts	C	3	ˋtso vo;ˋtso vo;ˋtse
+ˋtɕ	ˋtɕ/tɕ	C	6	ˋtɕi;ˋtɕi po;ˋtɕa ra;ˋtɕu kʰe;ˋtɕe
+ˋtʂ	ˋtʂ/ʈʂ	C	0	
+ˋçʰ	ˋçʰ/çʰ	C	2	ˋçʰe po;ˋçʰɛ ʱgo
+ˋʰc	ˋʰc/ʰc	C	1	ˋʰci χpa
+ˋʱɟ	ˋʱɟ/ʰɟ	C	2	ˋʱɟə ᵇdo;ˋʱɟa m̥tse
+ˋᵐɟ	ˋᵐɟ/ⁿɟ	C	1	ˋᵐɟa ᵐɟa
+ˋᶮɟ	ˋᶮɟ/ⁿɟ	C	1	ˋᶮɟə ᵇdo
+ˉtsʰ	ˉtsʰ/tsʰ	C	6	ˉtsʰaj neˀ;ˉtsʰeˀ;ˉtsʰaj ˉwɐ steˀ;ˉtsʰu;ˉtsʰu
+ˉtɕʰ	ˉtɕʰ/tɕʰ	C	7	ˉtɕʰa pʰsɐŋ;ˉtɕʰa me ˉneˀ;ˉtɕʰa met;ˉtɕʰes;ˊkə tɕi tə ˉtɕʰas ˊkə ⁿdu
+ˉˡdʑ	ˉˡdʑ/dʑ	C	1	ˉˡdʑoŋ kʰə
+ˉᶳts	ˉᶳts/ʈʂ	C	1	ˉᶳtsam beˀ
+ˉᶳtɕ	ˉᶳtɕ/tɕ	C	1	ˉᶳtɕɐŋ kʰɔˀ
+ˊtsʰ	ˊtsʰ/tsʰ	C	6	ˊtsʰaw tʰuˀ;ˊtsʰe;ˊtsʰə ˊʰpa ˣtʰə ˊsa;ˊtsʰo ma;ˊtsʰo ma
+ˊtɕʰ	ˊtɕʰ/tɕʰ	C	2	ˊtɕʰen tʰɔ;ˊtɕʰə rveˀ
+ˊᶳts	ˊᶳts/ʈʂ	C	1	ˊᶳtsen tɐw
+ˋtsʰ	ˋtsʰ/tsʰ	C	5	ˋtsʰo;ˋtsʰə;ˋtsʰo zẽ cʰi;ˉmo mu ˋtsʰa;ˋtsʰe ʰpa
+ˋtɕʰ	ˋtɕʰ/tɕʰ	C	6	ˋtɕʰe;ˋtɕʰe to;ˋtɕʰã ra;ˋtɕʰə vo;ˋtɕʰe tsə
+ˋʈʂʰ	ˋʈʂʰ/ʈʂʰ	C	0	
+e	e	E	1366	ˊtə ɕne;ˊtə rne;ˊtə swe;tɕə ˆmə ɕtʰej;ˊwə r̥tsʰes
+æ	æ	E	114	snæp;ʁonæt;uvjæt;əɟæt;kʰɑ◦snæp
+é	é/e	E	59	tʰǽmé;rdzé;sʰémtʰɑ̌;fsé;rbé
+ê	ê/e	E	48	rkê;jɑ́ɣrkê;tê;χsjê;ɕjêr
+ě	ě/e	E	14	ɣə́mkʰě;měmdâ;fɕjízěr;měmdátsʰə́;kə̌nlrɑ́lə̌lě
+ǝ	ə	E	1755	kǝp22 gi44;kǝ22 ŋgrɯŋ44 ŋgrɯŋ44;kǝ22 nǝ44 ȵa44 mkʲʰi22;kǝ22 nǝ44 ȵa44 mkʲʰi22;kǝ22 tɕʰjem42
+ǽ	ǽ/æ	E	133	tʰǽpɑ̌;snǽ;vǔlǽ;sɣǽj;χǽtʰjɑ̂ɣví
+ɐ	ɐ	E	726	ˊtɐ ku;ˊtɐ ko ˊji ɕu;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˉpɐ moŋ;ˊwɐ hɐm
+ə	ə	E	3420	ˊkə ze˞;ˊtə rnok;ˊtə mto;ˊnə mȵək;ˊnə mȵək
+ɚ	ə˞	E	3	ˉpə tse ˉɦɚ;ɚskɯʔ;ɚdzɯt̚
+ɛ	ɛ	E	305	viɛt̚;lɑŋɛɾt̚;ˈtɕɑqpʰonɑˌlɛt̚;nkotɕʰɛt̚;tɕɛʔ
+ɜ	ɜ	E	119	we22 mɜ44;wei22 mɜ44;wə22 stsɜ44;kʰǝ22 ɕna44 jɜ24 bjam22;tǝ22 stɕos44 kɜ22 ntɕʰi44 wu22 kǝ22 tsa22
+ɤ	ɤ	E	399	i˞zɡɤt;kəɾəbɤ;vɑɤt̚;ɑrŋɤʔ;spɤʔ
+ʌ	ʌ	E	1	moᵘzblʌʔ
+ӕ	æ	E	0	
+ᴇ	ɛ	E	421	tə-rmi kə-tsɿ ma kə-rə ŋȵᴇ;tə-rȵᴇ;tə-cʰᴇ;tə-syᴇ;tə-syᴇ kə-lu
+ẽ	ẽ	E	7	ˋᵛdzə zẽ;ˉtɕẽ dʑẽ ˊȵu ɣə;ˉtɕẽ dʑẽ ˊȵu ɣə;ˉᵐba lẽˉʱɟa;ˋtsʰo zẽ cʰi
+eˀ	eˀ	E	68	ˊtə skeˀ;wu ˊtsə kək ˊko peˀ;ˊwə grak ˊko peˀ;kə ˊrən ŋeˀ;ˊtə ᵏtseˀ
+e˞	e˞	E	4	ˊkə ze˞;ko ˊve ze˞;ˊwɐ ro ˊkə ze˞;ˈtʂʰe˞vɑ
+eˠ	eˠ	E	1	sɲeˠ
+æˠ	æˠ	E	1	r̥tsæˠ
+æ̂	æ̂/æ	E	20	lɑ́pɑ́ɕʰæ̂v;tɕʰæ̂v;tsʰæ̂j;sɣæ̂j;kʰæ̌jæ̂v
+æ̃	æ̃	E	1	nəʟˈŋæ̃ʔ
+æ̌	æ̌/æ	E	53	rcɑ̌pɑ́læ̌;mjæ̌nfə̂n;kʰæ̌jæ̂v;tʰæ̌fkɑ́;χótsʰæ̌j
+ɐˀ	ɐˀ	E	6	ˊkə ɕpɐˀ;ˊɕɐ wɐˀ;ˊkə ʑdɐˀr;ˊtə tɕə ˊsa stɐˀ;ˊkə jɐˀ
+ɐˁ	ɐˤ	E	2	ˊnə pɐˁ;ˉpɐˁ ŋaj
+ɐ˞	ɐ˞	E	4	ˊtə we ˊwəm ˊkə kʰwɐ˞;ˊkə wɐ˞;ˆnɐ ŋkɐ˞;ˊkə wɐ˞
+əˀ	əˀ	E	8	ˊkə ɕəˀ;kwə ˊra rgəˀ;ˉpəˀ;ˊpe ɕnəˀ;ˊpʰje ɕnəˀ
+əˁ	əˤ	E	1	ˊtɐ pʰəˁ ˊkwə lit
+əː	əː	E	1	nə22 ləː44 nə44 lə44
+ə˞	ə˞	E	20	ˊtə mȵa ˉlə˞ wɔ;kə ˉʷlə˞ ʷlə˞;kə ˉʷlə˞ ʷlə˞;ˊwə zə˞ ˊsə puk;notsə˞t̚
+ə́	ə́/ə	E	176	mɑ́rbə́;mtɕʰə́;rtsʰə́kʰə́jɑ̂;rtsʰə́kʰə́jɑ̂;sɣə́mví
+ə̂	ə̂/ə	E	101	ʁɑ̌◦rmə̂;mɑ́ɣrtsə̂;lʁə̂m;rtsʰə̂;rtsʰə̂ví
+ə̃	ə̃	E	1	ˊdə tsə̃
+ə̌	ə̌/ə	E	109	mɑ́ɣdzə̌;ɲúrpə̌;tʰɑ́mtɕʰə̌;tʰɑ́mtɕʰə̌;mɑ́rmə̌
+ə̤	ə	E	1	donikə̤
+ə̥	ə̥	E	1	jəkomoskʰə̥cit̚
+ɛ˞	ɛ˞	E	5	ˈɑ˞jiχɕɛ˞t̚;lɛspʊdɛmˈɕɛ˞t̚;ˈzo˞ɾɡɪˌtʰiɛ˞ɾɤt̚;dəmɕɛ˞t̚;dəmɕɛ˞t̚
+ɛ̃	ɛ̃	E	2	wɑ̃ɕɛ̃n;smɛ̃22 jok44
+ɤ̤	ɤ̤	E	1	ɤ̤ˈvæʔ
+e˞ˀ	e˞ˀ	E	2	ˉse˞ˀ;ˉke˞ˀ
+ɐ˞ˀ	ɐ˞ˀ	E	1	ˊko ŋmɐ˞ˀ
+əˁˀ	əˀ	E	3	ˉtə məˁˀ;ˉtə jməˁˀ;ˉtə jməˁˀ
+ə˞ˀ	ə˞ˀ	E	1	ˉʔa sto kə tɕə˞ˀ
+x	x	G	160	ˉsɐ xsə ʈʂʰə;kə ˊʈɐ xɕi;r̥xtseˈbʊt̚;xɕit̚;aˁjix
+ɣ	ɣ	G	310	ɑzjinəɣənətsʰi;ɣɯlŋɑ;ɣəlæ;ɣətʰət̚;ˈnəvɣziɛsi
+χ	χ	G	126	χɕɪt̚;ˈɑ˞jiχɕɛ˞t̚;χɑˈwudufˌtʰæt̚;ˈχsɪnbə;ɑˈjɑχˌpʊt̚
+xʰ	xʰ	G	1	ˊʱgɛ xʰa
+ˆɣ	ˆɣ/ɣ	G	3	ˆɣə ᶠɕʰi;ˆɣə ᶠɕe;ˆɣu ᶠɕe
+ˆχ	ˆχ/χ	G	1	ˆχlɑ ɣa
+ˉx	ˉx/x	G	2	ˉxtɕa ⁿdzə;ˉxpu
+ˉɣ	ˉɣ/ɣ	G	2	ˉɣu la;ˉɣə ˊjɮo
+ˉχ	ˉχ/χ	G	3	ˉχko;ˉχsʰu;ˉχtsu
+ˊɣ	ˊɣ/ɣ	G	6	ˊɣɑ ˣtoŋ ˣtə;ˊɣʑə;ˊɣu ɕʰu;ˊɣu ʷɮe;ˊɣə χtɕə kə
+ˊχ	ˊχ/χ	G	1	ˊχse
+ˋɣ	ˋɣ/ɣ	G	5	ˋɣrə;ˋɣzer;ˋɣrə tʰoŋ tʰo;ˋɣrə;ˋɣrə
+ˋχ	ˋχ/χ	G	3	ˋχaj tsə;ˋχo ko;ˋχse
+ᵑɣ	ⁿɣ	G	1	ˋlo ᵑɣu
+ˉxʰ	ˉxʰ/xʰ	G	1	ˉxʰɑ ˊtə za ȵi
+ˉʱɣ	ˉʱɣ/ʰɣ	G	1	ˉʱɣo pu
+ˉχʰ	ˉχʰ/χʰ	G	0	
+ˋxʰ	ˋxʰ/xʰ	G	0	
+ˋʱɣ	ˋʱɣ/ʰɣ	G	0	
+h	h	H	254	ˊwɐ hɐm;hɑtʰiot;huˈmə;hu̥tɕʰoʔ;tɕɑ hr̥tɕil
+Ɂ	ʔ	H	1	tǝ44 ko44 mᴇɁ44
+ɦ	ɦ	H	49	ˋkə ti ɦe;ˉkə ɕʈʂə ti ɦe;oɦbɤʔ;nəz zrɦə;ɦləunəvən
+ʔ	ʔ	H	331	ʔa ˉʰtɕam ʰtɕam;ʔa ˊna ɕe;ʔa ˊtɐ ɕe;ʔa ˊdə ɕe;ʔa ˊlɐ ɕe
+ʔ̚	ʔ̚	H	5	ləvɑʔ̚;tʰɑmɑʔ̚;ləzpʰʊʔ̚;uztʰɑʔ̚;ɯztʰɑʔ̚
+ˆɦ	ˆɦ/ɦ	H	1	ˆɦjuŋ
+ˆʔ	ˆʔ/ʔ	H	1	ˆʔa rɑ
+ˉɦ	ˉɦ/ɦ	H	1	ˉpə tse ˉɦɚ
+ˉʔ	ˉʔ/ʔ	H	9	ˉʔɐ wɔˀ;ˉʔɐ veˀ;ˉʔa sto kə loˀm;ˉʔa sto kə tɕə˞ˀ;ˉʔa ba
+ˊɦ	ˊɦ/ɦ	H	6	ˊɦɐ dɔ;ˊɦɐ kə ˉsaˀn;ˊɦɐ dɔ tʰiˀ;ˊɦɐ dɔ tʰiˀ;ˊɦa ʰtɕi ka
+ˊʔ	ˊʔ/ʔ	H	13	ˊʔɐ ʑo;ˊʔɐ nə;ˊʔɐ ʑo ˊʔɐ nə;ˊʔɐ ʑo ˊʔɐ nə;ˊʔɐ ʑo ˊkə ktiŋ
+ˋɦ	ˋɦ/ɦ	H	1	ˉnə ʰqe ˋɦa tsə
+ˋʔ	ˋʔ/ʔ	H	16	ˋʔa qɑ se ʈi;ˋʔa me;ˋʔa dʑo;ˋʔa kə;ˋʔa wo
+i	i	I	1860	ˊtɐ ko ˊji ɕu;tʰi ˉɕna mdzar;ˊtə ɕni;ˊtə ɸɕi;ˋtə pʰɕi
+í	í/i	I	54	snív;sɲí;fɕjí;rtsʰə̂ví;χǽtʰjɑ̂ɣví
+î	î/i	I	31	jzî;rpî;rtsî;pʰǽlʁárə̌vî;svî
+ĩ	ĩ	I	2	ˉsʰĩ;ˉʱȵĩ mo
+ǐ	ǐ/i	I	16	zɑ̌mɑ́vǐpɑ̌;rjérǐ;sʰájǐ;smǽnvǐ;smǽnvǐ
+ɨ	ɨ	I	150	tsʰɨ;ɯsɨsiɛt̚;stɨse;tsɨləʔ;æltsɨtsɨ
+ɪ	ɪ	I	43	tɕʰɪʔ;tɕʰɪdʑəʔ;zɪˈkouʔ;omdɪt̚;χɕɪt̚
+ɯ	ɯ	I	656	ɕɯt̚;ɑɾvɯk;ɚskɯʔ;kʰɑfsɯt̚;ɚdzɯt̚
+i:	iː	I	1	kɑ22 ɲi:53
+iˀ	iˀ	I	18	ˊtə ɕ miˀ;ˊtə skriˀ;ˊwə ᵑgriˀ;ˉʃiˀ;ˊko ɕiˀ
+i˞	i˞	I	1	i˞zɡɤt
+i̥	i̥	I	2	uvˈjɑsi̥;zɑ˞ɾvdəfɕi̥t̚
+ɪ˞	ɪ˞	I	1	nɑŋˈtɕɪ˞t̚
+ɯ˞	ɯ˞	I	1	kʰɯˈtsɯ˞t̚
+ɯˠ	ɯˠ	I	1	ɑˈdɯˠ
+ɯ́	ɯ́/ɯ	I	1	mɯ́jnaχtɕɯɣ
+iˁˀ	iˀ	I	1	ˊwə zɐ ˊkə giˁˀ
+j	j	J	1070	ˊtə ᶯɖaj;ˊtə ᶯɖaj;tɕə ˆmə ɕtʰej;ˆɕȵa ja vjet;ˆɕȵa ja vjet
+ɰ	ɰ	J	1	ˈɰuˌlɑkɑ
+jˀ	jˀ	J	13	ˉstɐk pəjˀ;ˊtɐ r̥tsejˀ;ˊzejˀ;ˉⁿdə ʱɖʐə ˊsejˀ;ˊᵐbo lejˀ
+j̥	j̊	J	1	j̥ɑᵘ
+ˉj	ˉj/j	J	3	ˉjɐŋ tiŋ;ˉjoˀ;ˉtɕə ti ˉjeˀ
+ˊj	ˊj/j	J	22	ˊtɐ ko ˊji ɕu;tɐ ˊjɐŋ mkʰə;tɐ ˊjɐk pe;tɐ ˊjɐŋ moˀ;ˊjɐŋ ju
+ˋj	ˋj/j	J	0	
+ˊʱj	ˊʱj/ʰj	J	1	ˊʱja ʰka
+g	g	K	332	ˊwə grak ˊko peˀ;ˊtɐ zgɐ;ˊwə zɐ ˊkə giˁˀ;ˆtə rgɐk;ˆtə rgɐk
+k	k	K	4570	ˊtɐ ku;ˊtɐ ko ˊji ɕu;ˊtə rnok;ˊnə mȵək;ˊtə skeˀ
+q	q	K	177	ˈtɕɑqpʰonɑˌlɛt̚;ˈqoq͡χən;ˈtsɑŋtsʰu ˈqoq͡χsɪn;nənˈqʟən;məsˈqɾe
+ɡ	g	K	184	i˞zɡɤt;ɡioʔ;ʟɡɯʔ;ɡrænʑit̚;ɡɑp̚
+ɢ	ɢ	K	10	ka33 ɢǝ33 ᴺdɯ44;ka22 saj44 ji33 ɢɔ44;kǝ22 ɢǝ44 ᴺdza44;ka22 ɢda44;kǝ22 ra44 ɢjɔ44
+gʲ	gʲ	K	2	stoŋ22 tso44 kǝ22 rgʲi22;kʰr̥ɨ22 tso44 kǝ22 rgʲi22
+kʰ	kʰ	K	422	ˊta kʰrɔ;tɐ ˊjɐŋ mkʰə;ˊtə we ˊwɐ kʰrek;ˊtə we ˊwəm ˊkə kʰwɐ˞;ˊtɐ kʰɔ
+kʲ	kʲ	K	1	kǝ22 na44 skʲar42
+k‘	kʼ	K	57	tǝ33 k‘e55;kǝ33 ʃk‘ɔ44;rŋa22 k‘oᵏ55;tǝ33 zqɑ44 k‘ɯ33;ta33 rk‘e44
+qʰ	qʰ	K	31	ɬqʰet̚;qʰɑʔ;ˈdoŋɑ˞ɾˌqʰən;ˈnəsqʰɑʔ;xtɕʰə˞sqʰɑʔ
+q‘	qʼ	K	2	ka22 na22 ʂq‘ɔ44;ʃwar22 ʃi44 rgja22 ka44 q‘o33 ᴺbrir33 ʤoŋ44 ka22 ʃa33 k‘u33 ma44 ʃte33
+ɡʷ	gʷ	K	2	skɑtɕɑɟɡʷən;ɕɑᵘɡʷərtɕʰin
+ʰk	ʰk	K	13	ˊrə ʰka;ˊrə ʰkə;ˊᵇdu ʰka;ˋʱna ʰkõ;ˋse ʰke
+ʰq	ʰq	K	2	ˉpʰa ʰqə re;ˉnə ʰqe ˋɦa tsə
+ʱg	ʰg	K	5	ˊpa ʱgom;ˋcʰo ʱgo;ˋçʰɛ ʱgo;ˊji ʱgi;ˋnə ʱgwo
+ˆk	ˆk/k	K	15	ˆkə tɕɐk;ˆwə mȵəwˀ ˆko jɔs;ˆkə pʰoˀ;ˆkwə ʰʈʂɐ;ˆko ɕti
+ˉk	ˉk/k	K	28	ˉkə joˀ pʰɕi;ˉkə ja ˉsmɐk;ˉkə tɕʰə;ˊŋɐ pɔ ˉkə tɕʰə;tə ˉkə tɕʰə
+ˉq	ˉq/q	K	1	ˉqo vu
+ˊg	ˊg/g	K	3	wə ˊgɐ wu ɕe;ˊgə re;ˉɬso qə ˊge w̥tɕi
+ˊk	ˊk/k	K	242	ˊkə ze˞;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;wu ˊtsə kək ˊko peˀ;ˊwə grak ˊko peˀ;ˊwə pʰɕi ˊko lit
+ˋg	ˋg/g	K	3	ˊɕɐk pe ˋgjək;ˋgə ɬso qə;ˋgɛ
+ˋk	ˋk/k	K	13	ˋkom;ˋkə r̥tsə ˆku;ˋkə r̥tsɔˀ;ˋkə ti ɦe;ˋkə sti
+ˋq	ˋq/q	K	2	ˋqo qu ˋqo qu;ˋqo qu ˋqo qu
+ᴺg	ⁿg	K	29	tǝ22 ᴺgam33;tǝ22 ᴺgo44;tǝ22 ᴺgo44 kǝ22 ŋɒ44 sʨǝ44 sʨi44;tsǝ44 ᴺgri44;ri44 ᴺgu44
+ᴺk	ⁿk	K	2	kǝ22 ᴺka44;kǝ22 ᴺke44
+ᴺq	ⁿq	K	2	ka22 sǝ44 ᴺqo44;na44 ᴺqe33
+ᴺɢ	ⁿɢ	K	1	ʃwer44 ᴺɢe33
+ᵐg	ⁿg	K	0	
+ᵑg	ⁿg	K	14	ˊwə ᵑgriˀ;ˊtə mɔ ˊɕɐ ᵑgriˀ;ˊtsə ᵑgrə;ˊwɐ ᵑgrəs;ˊrə ᵑgu
+ᶰg	ⁿg	K	2	wu22 ᶰgra44;kǝ22 nǝ44 ᶰgle44
+kj‘	k’ʲ	K	1	kǝᴺ22 sǝ44 kj‘i33
+kʲʰ	kʲʰ	K	2	kǝ22 nǝ44 ȵa44 mkʲʰi22;ɕu22 kʲʰi44
+q͡χ	qχ	K	2	ˈqoq͡χən;ˈtsɑŋtsʰu ˈqoq͡χsɪn
+qχʰ	qχʰ	K	1	ɑ˞ˈqχʰəsi
+ˆkʰ	ˆkʰ/kʰ	K	1	ˆkʰa kʰi
+ˆqʰ	ˆqʰ/qʰ	K	1	ˆqʰə
+ˆᵑg	ˆᵑg/ⁿg	K	1	ˆᵑgo χqʰe
+ˉkh	ˉkʰ/kʰ	K	0	
+ˉkʰ	ˉkʰ/kʰ	K	6	ta ˉkʰrak stoˀ;ˉkʰo;ˉkʰo;ˉkʰɔˀ;ˉkʰəŋ
+ˉqʰ	ˉqʰ/qʰ	K	2	ˉqʰa ˠɮi;ˉqʰa ˠɮi
+ˉʰk	ˉʰk/ʰk	K	1	ˉʰke
+ˉᴺɢ	ˉᴺɢ/ⁿɢ	K	1	ˉᴺɢə rə
+ˉᵑg	ˉᵑg/ⁿg	K	3	ˉᵑgwə ʱleˀ;ˉᵑgə jɔ;ˉᵑge
+ˊkʰ	ˊkʰ/kʰ	K	13	ˊkʰom tseˀ;ˊkʰa mo;ˊkʰɐ zən ˊko peˀ;ˊkʰɐ lə;ˊkʰə r̥pi
+ˊqʰ	ˊqʰ/qʰ	K	1	ˊqʰə re
+ˊʰq	ˊʰq/ʰq	K	1	ˊʰqə jpə
+ˊʱg	ˊʱg/ʰg	K	4	ˊʱgɛ xʰa;ˊʱgo;ˊʱgo;ˊʱgo mo ˊtə ʷne tsə
+ˊᵐg	ˊᵐg/ⁿg	K	1	ˊᵐge ʰse ʰɕe re
+ˊᵑg	ˊᵑg/ⁿg	K	1	kə ˊᵑgə ɕi
+ˋkʰ	ˋkʰ/kʰ	K	5	ˋkʰɔ rɐk;ˋkʰe çpə;ˋkʰə lu;ˋkʰə;ˋkʰu
+ˋqʰ	ˋqʰ/qʰ	K	3	ˋqʰa mo;ˋqʰa;ˋqʰu ɦo
+ˋʰk	ˋʰk/ʰk	K	3	ˋʰke;ˋʰke;ˋʰke
+ˋʱg	ˋʱg/ʰg	K	2	ˋʱgəŋ ŋu;ˋʱgu
+ˋᵑg	ˋᵑg/ⁿg	K	1	ˋᵑgo
+ᴺk‘	ⁿk’	K	1	ʔa23 rgja44 ᴺk‘ǝ33
+l	l	L	942	ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˊtə luˀ;ˊtɐ wlu;ˊwə pʰɕi ˊko lit;ˊwə vri ˊkwə lit
+ɫ	lˠ	L	2	kəɫzbɑ;ɪɫˈdzə
+ɬ	ɬ	L	29	ɲiəɬpʊt;ɬqʰet̚;vɑɬiæʔ;lɑˠɬˈtʰən;nəɬtʰun
+ɭ	ɭ	L	1	ˋme ɭu
+ɮ	ɮ	L	6	ə˞ɮˈpit̚;ə˞ɮbinɑˈlæt̚;ɮɔ22;wu22 ɮɔ44;ˉɣə ˊjɮo
+ʟ	ʟ	L	13	ʟɡɯʔ;nənˈqʟən;dərˈdzæʟ;uˈmuʟtɕʰɛt̚;ˈnəʟ◦ŋɑʔ
+l̥	l̥	L	5	ʔɑl̥tsɑsi;jɛl̥tɕʰin;ɟʝam22 l̥e44;tʰǝm42 l̥a22 sa44 mɜ22 rǝ22 ɟʝa22 kar44 kǝ22 tɕʰe22 mɜ22 no44 kʰu24;ŋa44 l̥a22 sa44  tɕʰǝŋ22 no22 la44
+ɬʰ	ɬʰ	L	1	ˆɭo ɬʰõ
+ʱl	ʰl	L	2	ˉᵑgwə ʱleˀ;ˊkə ʱlə
+ʲɮ	ʲɮ	L	1	ˋcɛ ʲɮə
+ʷl	ʷl	L	3	kə ˉʷlə˞ ʷlə˞;ˊʷla ʷla;ˉʷlɛ ʷlɛ
+ʷɮ	ʷɮ/ɮ	L	2	ˊcɛ ʷɮu;ˊɣu ʷɮe
+ˆl	ˆl/l	L	1	ˆlo ʁvɛ
+ˆɭ	ˆɭ/ɭ	L	1	ˆɭo ɬʰõ
+ˉl	ˉl/l	L	4	ˊtə mȵa ˉlə˞ wɔ;kə ˉlɐ leˀ;ˉle;ˉlu tu
+ˉɬ	ˉɬ/ɬ	L	1	ˉɬso qə ˊge w̥tɕi
+ˊl	ˊl/l	L	8	ˊli tʰu;ˊlə mtɕʰəŋ;ˊlə mtɕʰəŋ ˊkə lit;ˋti ˊleˀ;ʔa ˊlɐ ɕe
+ˊɮ	ˊɮ/ɮ	L	3	ˊɮa;ˊɮi;ˊɮu χke le
+ˋl	ˋl/l	L	6	ˋlɛ çpõ;ˋlu qʰə;ˋlvə;ˋle;ˋle wo ˊˠla ˠla
+ˋɬ	ˋɬ/ɬ	L	0	
+ˠl	ˠl/l	L	1	ˋle wo ˊˠla ˠla
+ˠɮ	ɮ	L	4	ˋwə ˠɮa;ˉwu ˠɮə;ˉqʰa ˠɮi;ˉqʰa ˠɮi
+ᴺl	ⁿl	L	2	sa44 ᴺlɔ55;kǝ22 ᴺlo33
+ᶰl	ⁿl	L	0	
+l̥ʰ	l̥ʰ	L	1	tə22 kl̥ʰa33
+ˆʷl	ˆʷl/ʷl	L	0	
+ˆˠɮ	ˆˠɮ/ɮ	L	1	ˆˠɮe χqʰe
+ˉl̥	ˉl̥/l̥	L	0	
+ˉɬʰ	ˉɬʰ/ɬʰ	L	3	ˉɬʰə;ˉɬʰə;ˉɬʰõ
+ˉʷl	ˉʷl/ʷl	L	3	kə ˉʷlə˞ ʷlə˞;ˉʷla ˊwu tɕʰe;ˉʷlɛ ʷlɛ
+ˉʷɮ	ˉʷɮ/ʷɮ	L	1	ˉʷɮe
+ˉˠɮ	ˉˠɮ/ɮ	L	1	ˉˠɮə
+ˊʲl	ˊʲl/ʲl	L	1	ˋwbu ˊʲla
+ˊʷl	ˊʷl/ʷl	L	1	ˊʷla ʷla
+ˊʷɮ	ˊʷɮ/ʷɮ	L	0	
+ˊˠl	ˊˠl/l	L	1	ˋle wo ˊˠla ˠla
+ˊˠɮ	ˊˠɮ/ɮ	L	0	
+ˊⁿl	ˊⁿl/ⁿl	L	1	ˊⁿlɛ mo
+ˋʲɮ	ˋʲɮ/ʲɮ	L	1	ˋʲɮe
+ˋʷl	ˋʷl/ʷl	L	5	ˋʷlɛ ŋvə nə;ˋʷlo;ˋʷle;ˋʷla ˋw̥ka;ˋʷla xo ˆʰse va
+ˋˠɮ	ˋˠɮ/ɮ	L	1	ˋˠɮɛ
+m	m	M	2377	ˊtə mto;ˊnə mȵək;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉlə˞ wɔ
+ɱ	ɱ	M	2	ˆʁa ɱne;ˆʁa ɱȵe
+mˀ	mˀ	M	2	ˊtɐ rnɐmˀ;ˉɕo ˉwɐ jomˀ
+m̥	m̥	M	4	ˊkə m̥pɔˀ;ˆcɛ m̥tʰu;ˋʱɟa m̥tse;ˆcɛ m̥tʰu
+ʷm	ʷm	M	0	
+ˆm	ˆm/m	M	5	tɕə ˆmə ɕtʰej;ˆmi ʰtsi;ˆmə kʰõ;ˆme to;ˉȵa ˆmə ᵑgo
+ˉm	ˉm/m	M	12	ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;ˊtə mdʑo ˉmo ɕu;tə ˉmȵɔ pɐk;ta ˉmɐk tu
+ˊm	ˊm/m	M	17	kə ˊmɐ ɕi;kə ˊmə ro;tə ˊmtsa mtsɐ ˊko peˀ;ˊmo kwə ˊnɐ sɔˀ;kə ˊmtɕe mtɕeˀ
+ˋm	ˋm/m	M	13	ˋme;ˋme çpə;ˋmo;ˋmo;ˋmo
+ˠm	ˠm/m	M	1	ˊwu ˠmo
+ˉʰm	ˉʰm/ʰm	M	2	ˉʰmã;ˉʰmi
+ˉʱm	ˉʱm/ʰm	M	2	ˉʱməj la;ˉʱməj lã ˊnə ȵe tsə
+ˉˡm	ˉˡm/m	M	0	
+ˋʰm	ˋʰm/ʰm	M	2	ˋʰmi;ˋʰmi ʈõ
+ˋʷm	ˋʷm/ʷm	M	4	ˋʷmə;ˋʷmo ɣə ʂʰə ʑə;ˋʷmə;ˋʷme ˣtʰu
+ˋˠm	ˋˠm/m	M	1	ˋˠmen ˉʱdi vu
+N	ŋ	N	1	N
+n	n	N	1896	ˊtə rnok;ˊtə ɕne;tʰi ˉɕna mdzar;ˊtə rne;ˊtə ɕnəs
+ñ	ɲ	N	1	ka-ñə rɡa
+ŋ	ŋ	N	1038	ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˉpɐ moŋ;tɐ ˊjɐŋ mkʰə;tɐ ˊjɐŋ moˀ;tʰe ˉɕɐm ɕəŋ
+ȵ	ɲ	N	240	ˊnə mȵək;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉlə˞ wɔ;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs
+ɲ	ɲ	N	177	ɲiət;ɲiəɬpʊt;sɲioʔ;ɲɑʔ;dɪsˈɲiɑʔ
+ɳ	ɳ	N	24	ke22 ɳɖot44;wu22 ɳɖi44;ɕik22 pʰu44 wu22 ɳɖi44;na44 ɳɖi24;ma22 ɳɖa44
+ɴ	ɴ	N	167	ɴqlɑ́ɣ;ʁɴjí;ʁɴcʰû;ʁɴdʑə́mdʑə̌m;ʁɴvjǽslě
+n̥	n̥	N	2	ˊkwə n̥set;ˊwə n̥tsu
+ʰn	ʰn	N	1	ˋma ʰna
+ʱȵ	ʰɲ	N	0	
+ʷn	ʷn	N	4	ˊʱgo mo ˊtə ʷne tsə;ˊʷno ʷno;ˋne ʷne;ˆte ʷne
+ˆn	ˆn/n	N	5	ˆnɐ ʑes;ˆnɐ ŋkɐ˞;ˆne ro ŋu;ˆna χtɕa;ˆni χqʰa
+ˆŋ	ˆŋ/ŋ	N	3	ˆŋo χpɑ;ˆŋa ᶯɖo;ˆŋa ˠne
+ˆȵ	ˆȵ/ɲ	N	2	ˆȵa ɣə;ˆȵe rɛ
+ˉn	ˉn/n	N	6	ˉnə ŋwa pʰɕi;ˉtɕʰa me ˉneˀ;ˉnə ʰqe ˋɦa tsə;ˉne vɟe;ˉnə ˣkə
+ˉŋ	ˉŋ/ŋ	N	8	ˉŋɐ |moˀŋ;ˉŋoˀ;ˉŋo;ˉŋo ʰtɕe;ˉŋu
+ˉȵ	ˉȵ/ɲ	N	4	ˉȵoˀ;ˊwu jo ˉȵiˀ;ˉȵa ˆmə ᵑgo;ˉȵa ȵa
+ˊn	ˊn/n	N	39	ˊnə mȵək;ko ˊnə wam;ˊnə skrɔˀ;ˊnɐ mtoŋ;kə ˊnɐ re
+ˊŋ	ˊŋ/ŋ	N	5	ˊŋɐ pɔ ˉkə tɕʰə;ˊŋə mdɔˀ;no ˊŋəs tɐk;ˊŋi;ˊŋa
+ˊȵ	ˊȵ/ɲ	N	5	ˊȵa;ˊȵa;ˉtɕẽ dʑẽ ˊȵu ɣə;ˊȵa;ˋvo zoŋ ˊȵa ȵa
+ˋn	ˋn/n	N	7	ˋnə ɕʰi;ˋnɑ xtsʰõ;ˋnu wa;ˋnəw;ˋne ᶯɖo
+ˋŋ	ˋŋ/ŋ	N	2	ˋŋə mɟe;ˋŋə mɟe
+ˋȵ	ˋȵ/ɲ	N	1	ˋȵo ˉta qɛ
+ˠn	ˠn/n	N	1	ˆŋa ˠne
+ᵐȵ	ⁿɲ	N	1	ˉᵐȵə ᵐȵə
+ˉʰŋ	ˉʰŋ/ʰŋ	N	3	ˉʰŋo ma;ˉʰŋo;ˉʰŋõ nə
+ˉʱŋ	ˉʱŋ/ʰŋ	N	0	
+ˉʱȵ	ˉʱȵ/ʰɲ	N	2	ˉʱȵe ᵐba;ˉʱȵĩ mo
+ˉʷn	ˉʷn/n	N	1	ˉʷnu mɛ
+ˉᵐȵ	ˉᵐȵ/ⁿɲ	N	1	ˉᵐȵə ᵐȵə
+ˊʷn	ˊʷn/ʷn	N	1	ˊʷno ʷno
+ˋʱn	ʰn	N	1	ˋʱna ʰkõ
+ˋʱŋ	ˋʱŋ/ʰŋ	N	2	ˋʱŋə ʈə;ˋʱŋə
+ˋʱȵ	ˋʱȵ/ʰɲ	N	2	ˋʱȵə χə;ˋʱȵe χqʰe
+ˋʲȵ	ˋʲȵ/ʲŋ	N	1	ˋʲȵe
+ˋʷn	ˋʷn/ʷn	N	0	
+ˋˠn	ˋˠn/n	N	2	ˋˠne;ˋˠne te
+ɒ	ɒ	O	53	tǝ22 mɲak43 mɒ22 rtsɨ44;tǝ22 mɲak43 mɒ22 rtsɨ44;ʃim33 mɒ33 ner44;kɑ22 wɒ44 ʃki44;su22 lɒ44
+b	b	P	420	ˊtə ʑbe;ˆtə bri;ˉᶳtsam beˀ;ˊtɐ zbro ˊkwə lit;ˊkə bjowk
+p	p	P	1125	wu ˊtsə kək ˊko peˀ;ˊwə grak ˊko peˀ;ˊtɐ r̥pjok;tɐ ˊjɐk pe;ˋtə pu
+bʲ	bʲ	P	3	ɡəzbʲæn;ɡɑŋbʲæsi;vɟuŋbʲɑᵘ
+pʰ	pʰ	P	211	ˋtə pʰɕi;ˉkə joˀ pʰɕi;ˉnə ŋwa pʰɕi;ˉᵐbo ra pʰɕi;ˊwə pʰɕi ˊko lit
+pʲ	pʲ	P	1	spʲæn
+p̚	p̚	P	7	ɑɾˈɟæp̚;ɡɑp̚;ˈkeɕiop̚;ɕæp̚;rjɛp̚
+p‘	pʼ	P	27	ka22 mp‘a44 ri44;sa55 mo33 p‘u44 ʧ‘ɯ55;xp‘e44;p‘jan44 p‘jan33;p‘jan44 p‘jan33
+ʰp	ʰp	P	6	ˊtɐ ʰpeˀ;ˉᵖʈʰa ʰpa;ˊrə ʰpa ˉʈa mo;ˋtə ʰpu;ˋʰtsə ʰpo
+ʱb	ʱb/ʰb	P	1	ˊje ʱbə
+ˆp	ˆp/p	P	4	ˆpe ˡmi;ˆpə se tsə;ˆpə se tsə;ˆpə ʱdʑo
+ˉb	ˉb/b	P	0	
+ˉp	ˉp/p	P	11	ˉpɐ moŋ;ˊʃi kə ˉpan pan;ˉpɐˁ ŋaj;ˉpɐk;ˉpweˀ
+ˊb	ˊb/b	P	1	tə ˊbok tɕɔˀ
+ˊp	ˊp/p	P	20	ˊtɐ lɐ ˊpə ɕtʰjɔk;ˊpa ʱgom;ˊpan den;ˊtə mtsa ˊpɔ;ˊtə mtsa ˊpɔ wu ˉkə tɕʰə
+ˋp	ˋp/p	P	6	ˋpər;ˋpo ʰco;ˋpə r̥ka;ˋpa pa ɕa le;ˋpɑ χpa
+ᴺb	ⁿb	P	8	ka33 ᴺbi44;tʰe44 ᴺbaʔ44;tǝ22 ᴺbre44;ʧ‘a44 ᴺbe44;kǝ22 ᴺbjim43
+ᴺp	ⁿp	P	1	kǝ22 ᴺpu44
+ᵐb	ⁿb	P	5	ˊtɐ ᵐbɐr;ˉtɕə ᵐbɐ ˉtɕək;ˉʱȵe ᵐba;ˆᶮɟo ᵐba;ˋdʑõᵐbo
+ᶰb	ⁿb	P	1	wu22 ʃne kǝ33 ᶰbro55
+ᶰp	ⁿp	P	0	
+pjʰ	pʲʰ	P	1	kɑ22 pjʰis44
+ˆpʰ	ˆpʰ/pʰ	P	1	ˆpʰə rə
+ˉpʰ	ˉpʰ/pʰ	P	4	ˉpʰo pʰək ˉsɐʰteˀ;ˉpʰə swiˀ;ˉpʰa ʰqə re;ˉpʰo ʰsa
+ˉʰp	ʰp	P	3	ˉʰpə ʈə;ˉʰpə;ˉʰpə
+ˉʱb	ˉʱb/ʰb	P	2	ˉʱbə;ˉʱbo mɛ
+ˉᵐb	ˉᵐb/ⁿb	P	4	ˉᵐbo ra pʰɕi;ˉᵐbo roˀ;ˉᵐba lẽˉʱɟa;ˉᵐbre
+ˊpʰ	ˊpʰ/pʰ	P	4	ko ˊpʰɕət;ˊpʰɐ pʰɔˀ;wə ˊpʰɕe jeˀ;ˊpʰje ɕnəˀ
+ˊʰp	ˊʰp/ʰp	P	1	ˊtsʰə ˊʰpa ˣtʰə ˊsa
+ˊᵐb	ˊᵐb/ⁿb	P	5	ˊᵐbras;ˊᵐbras ˊwə jnoˀ;ˊᵐbo li;ˊᵐbo lejˀ;ˊᵐbə ʂtsət
+ˋpʰ	ˋpʰ/pʰ	P	1	ˋpʰo me
+ˋʰp	ˋʰp/ʰp	P	0	
+ᴺpʰ	ⁿpʰ	P	1	kɑ33 ᴺpʰar55
+ᶰpʰ	ⁿpʰ	P	0	
+R	ʀ	R	1	ʃǝ44 Rǝ44 pɑ44 tsɑ44
+r	r	R	2502	ˊtə rnok;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə;tʰi ˉɕna mdzar;ˊtə rne
+ɹ	ɹ	R	3	zoˈkʰɹɑʔ;tʂʰɹobˈtʂʰɹoʔ;tʂʰɹobˈtʂʰɹoʔ
+ɽ	ɽ	R	1	ɽɔ2 pʃe44
+ɾ	ɾ	R	65	ʁo˞ɾmit;ʑɑɾɑʔ;ɑɾvɯk;zɑ˞ɾæt;kəɾəbɤ
+ʀ	ʀ	R	4	ˊcɛ ʀə;ˉtə ɴʀwə;ˊʀə ʀə;ˊcɛ ʀə
+ʁ	ʁ	R	237	ʁoʔ;ʁodoŋoʔ;ʁo˞ɾmit;ʁonæt;loʁot
+rh	rʰ	R	1	rhtɕʰɑ
+rʰ	rʰ	R	1	kə22 ŋkrʰǝŋ44
+rʼ	r’	R	1	ɑrʼjɛwutsun
+rˀ	rˀ	R	2	ˊko kwərˀ;kə ˊnə mɐrˀ
+r̥	r̥	R	70	ˊwə r̥tsʰes;ˊtɐ r̥pjok;ˊtɐ r̥tə;ˊtə r̥pɔ;ˊtɐ r̥tsejˀ
+r̩	r̩	R	3	r̩tsʰəʔ;kr̩;zərdzɑr̩dzɑʔ
+ɹ̩	ɹ̩	R	2	ɹ̩rtʰɑˠʔ;ɹ̩rtəʟ
+ʱʁ	ʱʁ/ʰʁ	R	1	ˋʈʰə hwi ʱʁo
+ʷʀ	ʷʀ	R	1	ˉtə ʷʀo
+ʷʁ	ʷʁ	R	0	
+ˆr	ˆr/r	R	3	ˆrə ra;ˆre ˣkə;ˆrə kʰo
+ˆʀ	ˆʀ/ʀ	R	1	ˆʀə po
+ˆʁ	ˆʁ/ʁ	R	8	ˆʁa vre;ˆʁa ɱne;ˆʁa fsu;ˆʁa vɮɛ;ˆʁa w̥tɕʰə
+ˉr	ˉr/r	R	5	tə ˉrə tsɐk;ˉtɐ ⁿdzə ˉroˀ;wə ˉrgajˀ riˀ;ˉrɣi ʱɟa ti;ˉrŋa |mru
+ˉʀ	ˉʀ/ʀ	R	4	ˉʀə;ˉʀa lu;ˉʀɛ;ˉʀe
+ˉʁ	ˉʁ/ʁ	R	2	ˉʁə çpə;ˉʁo ʑa
+ˊr	ˊr/r	R	28	kə ˊrən ŋeˀ;ˊres;kə ˊrɐ je;kwə ˊra rgəˀ;ˊra le
+ˊʀ	ˊʀ/ʀ	R	2	ˊʀo;ˊʀə ʀə
+ˊʁ	ˊʁ/ʁ	R	3	ˊʁɛ;ˊʁɑ ʰko;ˊʁa mʁvɛ
+ˋr	ˋr/r	R	2	ˋro ʁva;ˋre
+ˋʀ	ˋʀ/ʀ	R	1	ˋʀo ˉmə za
+ˋʁ	ˋʁ/ʁ	R	0	
+r̥ʰ	r̥ʰ	R	7	kə22 rɨ44 kr̥ʰe;kə22 rə22 kr̥ʰok44;kr̥ʰɨŋ22 kr̥ʰi44 kə22 pa44;kr̥ʰɨŋ22 kr̥ʰi44 kə22 pa44;səl22 mə22 kr̥ʰi44
+ˆᴺʁ	ˆᴺʁ/ⁿʁ	R	1	ˆᴺʁvɛ χqʰe
+ˊr̥	ˊr̥/r̥	R	1	tɐ ˊr̥tɕʰɔ ˊko lit
+ˊʱʁ	ˊʱʁ/ʰʁ	R	1	ˊʱʁa
+ˋʷʁ	ˋʷʁ/ʷʁ	R	1	ˋʷʁo
+ˋᴺʁ	ˋᴺʁ/ⁿʁ	R	1	ˋᴺʁvɛ
+s	s	S	1962	ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˊtə ɕnəs;ˊtə swe;ˊtə skeˀ;ˊwə r̥tsʰes
+z	z	S	447	ˊkə ze˞;ˊtɐ zgɐ;ˊwə zɐ ˊkə giˁˀ;ˊtə ze;ˊtə ze ˊkə peˀ
+ɕ	ɕ	S	412	ˊtɐ ko ˊji ɕu;ˊtə ɕne;ˊtə ɕnəs;ˊtə ɕ miˀ;tɕə ˆmə ɕtʰej
+ɿ	z̩	S	152	tə-rmi kə-tsɿ ma kə-rə ŋȵᴇ;tə-mȵa mə rʦɿ;tə-mȵa mə rʦɿ;tə-mtʂʰɿ;saŋ sɿ
+ʂ	ʂ	S	315	ˊko ʈʂup;ˊko ɕʈʂoˀ;ˊtə ʈʂes;ˊko ʈʂɐk;ˊtə ʈʂɔ
+ʃ	ʃ	S	424	skɑʃ;doʃdʑuŋdə;tǝ22 ʃnol44;ka22 rǝ22 jo33 ma22 kǝ22 ʃi44 pɑ33;tǝ33 mʤɑ44 ʃo44
+ʐ	ʐ	S	31	ˊko jɖʐə;ʐə˞ɾɑʔ;r̥xtʂiˈʐomɑʔ;ʐeʔ;ʐɟyæ
+ʑ	ʑ	S	99	ˊtə ʑbe;ˊja ʑo;ˊʔɐ ʑo;ˊʔɐ ʑo ˊʔɐ nə;ˊʔɐ ʑo ˊkə ktiŋ
+ʒ	ʒ	S	34	ʒɐ22 lɐ44;kǝ22 mʒir44;kǝ22 sǝ44 mʒir44;khɑ22 bʒe33 kɑ44 pɑ33;kɑ22 ʒik33
+ʝ	ʝ	S	64	rʝi;dəɦəᵘʝɑdə;mənetʰiɾe kətʰəzɯʝi;ɟʝam22 kɨ44;ɟʝo22 nɟʝak44
+ӡ	ʒ	S	3	tǝ-ӡba;tə-lo ӡɐks;ӡo
+sʰ	sʰ	S	40	ˊko sʰe ˊtɕe lut;sʰit̚;sʰɪt̚;sʰit̚;sʰit̚
+z̩	z̩	S	3	z̩bɾon;z̩di;z̩gər24
+ɕʰ	ɕʰ	S	39	ˊkə ᵏtɕʰen;ˊkə ɕʰwo;rnə́mɕʰɑ̌rə̌;çɲɕʰə̂r;ɕʰɑ́rə́
+ʂʰ	ʂʰ	S	1	ˋʷmo ɣə ʂʰə ʑə
+ʰs	ʰs	S	4	ˊtɐ ʰsu;ˊtɐ rge ˊko ʰsɔ;ˉpʰo ʰsa;ˊᵐge ʰse ʰɕe re
+ʰɕ	ʰɕ	S	3	kə ˊɕnə ʰɕi;və ˊrja ʰɕi;ˊᵐge ʰse ʰɕe re
+ˆs	ˆs/s	S	2	kə ˆsa ʰtɔw;ˆsa ru
+ˆɕ	ˆɕ/ɕ	S	4	ˆɕȵa ja vjet;ˆɕɐ ro;ˆɕa tjuk;ˆɕõ
+ˆʑ	ˆʑ/ʑ	S	1	ˆʑe ȵi
+ˉs	ˉs/s	S	14	ˉkə ja ˉsmɐk;ˉstɐk pəjˀ;ˉpʰo pʰək ˉsɐʰteˀ;ˊko tʰu tə ko ˉsə mtsoˀ;ˉsa nɐk
+ˉz	ˉz/z	S	2	ˉzə;ˉzə ᵑge
+ˉɕ	ˉɕ/ɕ	S	11	tʰi ˉɕna mdzar;tʰe ˉɕɐm ɕəŋ;ˉɕa kʰɔˀ;ˉɕo ˉwɐ jomˀ;ˉɕam tuˀ
+ˉʂ	ˉʂ/ʂ	S	1	ˉpə tsɐ ˉʂku
+ˉʃ	ˉʃ/ʃ	S	2	ˉʃiˀ;ˉʃal
+ˉʑ	ˉʑ/ʑ	S	2	ˉʑa;ˉʑa
+ˊs	ˊs/s	S	22	ko nɐ ˊsən sən;wə ˊsməs sməs kwə ˊsə peˀ;wə ˊsməs sməs kwə ˊsə peˀ;ˊsa rme;kə ˊsʉ su
+ˊz	ˊz/z	S	8	ˊzɐ grək;ˊzejˀ;ˊza;ˊza;ˊzo ɣju
+ˊɕ	ˊɕ/ɕ	S	28	ˊɕɐ pu;ˊɕɐ pu;ˊɕə ku;ˊɕa vrə;ˊko ˊɕti
+ˊʂ	ˊʂ/ʂ	S	1	ˊvɐ ʳvɐ ˊʂto ʂto
+ˊʃ	ˊʃ/ʃ	S	2	ˊʃə r̥keˀ;ˊʃi kə ˉpan pan
+ˊʑ	ˊʑ/ʑ	S	2	tə ˊʑɐ ᵖtɕe;ˊʑɐ leˀ
+ˋs	ˋs/s	S	3	ˋsan ne;ˋstɔ ˊwə ŋkʰɐj;ˋse ʰke
+ˋz	ˋz/z	S	1	ˋza ᵇɟe
+ˋɕ	ˋɕ/ɕ	S	7	ˋɕom;ˋɕɐk;ˋɕə;ˋɕʰo wo ˋɕə;ˋɕə
+ˋʑ	ˋʑ/ʑ	S	1	ˋʑə
+ᴺʒ	ⁿʒ	S	4	kaj22 ᴺʒe33;ka22 ᴺʒɨ44 zdaŋ44;ᴺʒɨ33 zdaŋ33 kǝ22 xte44;kǝ22 ᴺʒüj33
+ˆsʰ	ˆsʰ/sʰ	S	1	ˆsʰe tsə
+ˆʰs	ˆʰs/ʰs	S	1	ˋʷla xo ˆʰse va
+ˉsʰ	ˉsʰ/sʰ	S	6	ˉsʰĩ;ˉsʰe;ˉsʰe;ˉsʰe mo;ˉsʰə
+ˉɕʰ	ˉɕʰ/ɕʰ	S	2	ˉɕʰə;ˉɕʰa vu
+ˊsʰ	ˊsʰ/sʰ	S	1	ˊsʰə mɖe
+ˊɕʰ	ˊɕʰ/ɕʰ	S	1	ˊɕʰə
+ˋsʰ	ˋsʰ/sʰ	S	5	ˋsʰa ᵑge;ˋsʰe ʳgo;ˋsʰo tɕʰu;ˋsʰo;ˋsʰa ʱdi
+ˋɕʰ	ˋɕʰ/ɕʰ	S	6	ˋɕʰə ʰtsə;ˋɕʰo wo ˋɕə;ˋɕʰo;ˋɕʰə;ˋɕʰo wo
+ˋʷz	ˋʷz/ʷz	S	1	ˋʷza
+ˋʷʑ	ˋʷʑ/ʷʑ	S	0	
+ˋᵐz	ˋᵐz/ⁿz	S	0	
+d	d	T	665	ˊkə mdok;ˊpan den;ˊɕɐl daˀm;ˊtɐ dok;ˊŋə mdɔˀ
+t	t	T	2779	ˊtə mto;ˆɕȵa ja vjet;ta ˉkʰrak stoˀ;ta ˉkʰrak stoˀ;tɐ ˊjɐŋ mkʰə
+ɖ	ɖ	T	48	ˊtə ɖə;ˊko jɖʐə;ˊtə ɖə;ke22 ɳɖot44;kǝ22 ɖa44 ɖa44
+ʈ	ʈ	T	63	ˊko ʈʂup;ˊko ɕʈʂoˀ;ˊtə ʈʂes;ˊko ʈʂɐk;ˊko ʈi
+ʤ	dʒ	T	101	tǝ22 mɲak43 ʤi44;tǝ33 kʰa44 ʤi44;tǝ22 mʤɑ44;te22 ʤo44;tǝ22 ʤo44
+ʧ	tʃ	T	214	tǝ33 poᵏ44 ʧu44;ka22 nǝm44 ʧa44 rɐ44;ʥeɴ22 ʧhɐ44;kǝ22 ʧor44;nǝ44 kʧis33
+dʒ	dʒ	T	0	
+tʃ	tʃ	T	1	lak-tʃɐ
+tʰ	tʰ	T	247	tʰi ˉɕna mdzar;tɕə ˆmə ɕtʰej;tʰe ˉɕɐm ɕəŋ;ˊtɕʰen tʰɔ;ˊtə mtʰjɔk
+tʲ	tʲ	T	1	mɑᵘnətʲər
+t̚	t̚	T	120	ɕɯt̚;mæntsit̚;kʰɑfsɯt̚;nɟæmɾɑt̚;viɛt̚
+t‘	tʼ	T	31	ʔa33 t‘iɔ44;ʔa33 t‘iɔ44 kǝ22 wi44;tǝ44 mt‘ɛ33;t‘uk33 pe44;ka44 t‘i33
+ɴʧ	ⁿtʃ	T	0	
+ʈʰ	ʈʰ	T	8	tə ˉkwɐ ʈʰɔˀ;wa22 ka22 ʈʰu44;nɜ22 ʈʰi44 ro44 kǝ22 tsi44 tsi44 ro22 tɕʰen22;ka22 ʈʰoᵖ44;ʈʰɑ33
+ʈ‘	ʈ’	T	5	ʈ‘o33 we44;kǝ22 ʃmɯ33 ʈ‘ɔ44;kǝ22 ʃmɯ33 ʈ‘ɔ44;kǝ22 sna44 ʈ‘e44 ʈ‘e44;kǝ22 sna44 ʈ‘e44 ʈ‘e44
+ʧʰ	tʃʰ	T	51	waŋ22 ʧʰa44;tǝ22 mkʰas44 ʧʰok44;ʧʰir33 wɐ44;ʧʰɐ44;kǝ33 nǝ33 ʧʰɐ33
+ʧ‘	tʃʼ	T	37	tǝ33 mʧ‘i55;tǝ55 mʧ‘u33;tǝ33 mʧ‘i55;ʧ‘aᵏ44 ke44;ka44 ʧ‘a33
+ʰd	ʰd	T	1	ku22 ʰdi44 wu22 ŋgui22 kǝ22 te44 ɕuk22
+ʰt	ʰt	T	22	ˊko ʰtɕep;ˉpʰo pʰək ˉsɐʰteˀ;ˉmo ʰtsaj;ˊko ʰtɕup;ʔa ˉʰtɕam ʰtɕam
+ʰʈ	ʰʈ	T	1	ˊkə ʰʈe
+ʱd	ʰd	T	4	ˋsʰa ʱdi;ˉʔə ʱdɛ;ˉʔə ʱdu;ˉʔə ʱdu ŋo
+ˆd	ˆd/d	T	0	
+ˆt	ˆt/t	T	13	ˆtə bri;ˆtə pʰe;ˆtə rgɐk;ˆtə rgɐk;ˆtɐ mjar
+ˆʈ	ˆʈ/ʈ	T	2	ˆʈu po;ˆʈu po
+ˉd	ˉd/d	T	0	
+ˉt	ˉt/t	T	22	ˉtə mkə;ˉtɐ kep;ˉtə məˁˀ;ˉta jmoˀ;ˉtɐ rɔˀ
+ˉʈ	ˉʈ/ʈ	T	2	ˉʈə;ˊrə ʰpa ˉʈa mo
+ˊd	ˊd/d	T	8	ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˊwə mȵa ˊdə rus;ˊdɐ tʰɐ ˉɕiˀ;ʔa ˊdə ɕe;ˊdə tsə̃
+ˊt	ˊt/t	T	155	ˊtɐ ku;ˊtɐ ko ˊji ɕu;ˊtə rnok;ˊtə mto;ˊtə mȵa ˉmo rtsə
+ˊʈ	ˊʈ/ʈ	T	2	kə ˊʈɐ xɕi;ˊʈə mə ɕʰi
+ˋd	ˋd/d	T	0	
+ˋt	ˋt/t	T	11	ˋtə pu;ˋtə pʰɕi;ˋtɐ kʰe ˊko peˀ;ˋti ˊleˀ;ˋto
+ˋʈ	ˋʈ/ʈ	T	1	ˋʈə sə
+ᴺd	ⁿd	T	8	ta22 ᴺdoʔ44;ᴺdɔ22 ʁdzɨ33 ka22 laᵗ44;kǝ55 ᴺdi33;ka33 ɢǝ33 ᴺdɯ44;ka22 smǝ44 ᴺdi33
+ᴺt	ⁿt	T	4	tǝ33 ᴺtjü54;kǝ55 ᴺta33;gǝ33 kǝ44 ᴺta33;tǝ33 ᴺta33 ro55 ʨi22
+ᴺǳ	ⁿdz	T	2	tɑ22 yak55 ᴺǳo44 ᴺǳo44;tɑ22 yak55 ᴺǳo44 ᴺǳo44
+ᴺɖ	ⁿɖ	T	1	kǝ22 ᴺɖɯ44
+ᴺʤ	ⁿdʒ	T	7	ka33 ᴺʤɨ44 ʁe44;ka33 ᴺʤɨ44 zde44;ᴺʤe22;kǝ22 ᴺʤam44;tǝ44 ᴺʤi33
+ᴺʥ	ⁿdʑ	T	3	tǝ44 ᴺʥi33;ᴺʥɔ22;ᴺʥa22 ɲi44
+ᴺʧ	ⁿtʃ	T	3	kɑ33 ᴺʧar44;kǝ22 ᴺʧi44 qe33;kǝ22 ᴺʧi44 mnoᵏ33
+ᵐɖ	ⁿɖ	T	1	ˊte ᵐɖo
+ᶯɖ	ⁿɖ	T	5	ˊtə ᶯɖaj;ˊtə ᶯɖaj;ˊtə ᶯɖaj ˊkwə pʰɕət;ˆŋa ᶯɖo;ˋne ᶯɖo
+ᶰd	ⁿd	T	0	
+ᶰǳ	ⁿdz	T	1	mi22 ʃer44 tǝ22 mor44 ŋa33 kǝ22 nǝ44 ᶰǳa44 ʤi44 ʦoᶰ33
+ᶰɖ	ⁿɖ	T	1	ɖa44 mǝ22 ᶰɖǝ44
+ᶰʤ	ⁿdʒ	T	1	kǝ22 ᶰʤo44
+ᶰʥ	ⁿdʑ	T	0	
+ᶰʧ	ⁿtʃ	T	0	
+ⁿd	ⁿd	T	8	ˊta ⁿdi;ˊkə tɕi tə ˉtɕʰas ˊkə ⁿdu;ˉtɐ ⁿdzə ˉroˀ;ˉso ⁿdajˀ;ˉxtɕa ⁿdzə
+ts‘	tsʼ	T	22	tǝ33 rts‘om54;ts‘aj33;ts‘e55;ta55 ts‘ɔ33;ts‘e55 kǝ33 sʨe44
+tʃʰ	tʃʰ	T	1	ji-tʃʰə
+tʼʰ	t’ʰ	T	1	jɛtʼʰə
+ɴʧʰ	ⁿtʃʰ	T	2	kɐ22 ɴʧʰak44;kɑ22 ɴʧʰe44
+ɴʧ‘	ⁿtʃ’	T	1	kǝ22 ɴʧ‘e44
+ˆdʒ	ˆdʒ/dʒ	T	0	
+ˆtʃ	ˆtʃ/tʃ	T	0	
+ˆʱd	ˆʱd/ʰd	T	1	ˆʱdu mo
+ˆᵐɖ	ˆᵐɖ/ⁿɖ	T	1	ˆᵐɖu ᵑgə
+ˉdʒ	ˉdʒ/dʒ	T	0	
+ˉtʃ	ˉtʃ/tʃ	T	0	
+ˉtʰ	ˉtʰ/tʰ	T	1	ˉtʰa
+ˉʈʰ	ˉʈʰ/ʈʰ	T	1	ˉʈʰə
+ˉʰt	ˉʰt/ʰt	T	2	ˋˣɕe ˣɕe ˉʰta;ˉʰtɑ
+ˉʱd	ˉʱd/ʰd	T	6	ˋˠmen ˉʱdi vu;ˉʱde wo;ˉʱdu mə;ˉʱdu mə;ˉʱdu mo
+ˉᵐd	ˉᵐd/ⁿd	T	1	ˉᵐda
+ˉᶯɖ	ˉᶯɖ/ⁿɖ	T	1	ˉᶯɖri
+ˊdʒ	ˊdʒ/dʒ	T	0	
+ˊtʃ	ˊtʃ/tʃ	T	0	
+ˊtʰ	ˊtʰ/tʰ	T	2	ˉwu dɔ ˊtʰiˀ;ˉwu dɔ ˊtʰiˀ
+ˊʱd	ˊʱd/ʰd	T	2	ˊʱdã tsʰo;ˊni χqʰa ˊʱda
+ˊᶯɖ	ˊᶯɖ/ⁿɖ	T	2	ˊᶯɖej lək;ˊᶯɖa
+ˊᶳk	ˊᶳk/ʈ	T	1	ˊᶳkom neˀ
+ˋdʒ	ˋdʒ/dʒ	T	0	
+ˋtʃ	ˋtʃ/tʃ	T	0	
+ˋtʰ	ˋtʰ/tʰ	T	10	ˋtʰoŋ;ˋtʰə;ˋtʰə də ˉᵏsaˀn;ˋtʰe pa;ˋtʰu
+ˋʈʰ	ˋʈʰ/ʈʰ	T	2	ˋʈʰə hwi ʱʁo;ˋʈʰə ᵇɟə
+ˋʰt	ˋʰt/ʰt	T	6	ˋʰte ɣa;ˋʰtsa ʰtsa;ˋʰtsə ʰpo;ˋʰtsoŋ ma;ˋʰtu po
+ˋʱd	ˋʱd/ʰd	T	1	ˋʱde rə
+ᴺdz	ⁿdz	T	23	kǝ22 ᴺdzɑ44;ta22 ᴺdzor44;ʨʰim55 ᴺdzǝ55;ʃi22 ᴺdzu44 ᴺdzu44;ʃi22 ᴺdzu44 ᴺdzu44
+ᴺʧ‘	ⁿtʃ’	T	1	ka22 ᴺʧ‘ɨ44
+ᴺʨ‘	ⁿtɕ’	T	1	ka22 ᴺʨ‘ɑ44 jɔ44
+ᶰdz	ⁿdz	T	0	
+ˉʰts	ˉʰts/ʰts	T	1	ˊkʰɐ rdʑa ˉʰtsə lejˀ
+ˉʰtɕ	ˉʰtɕ/ʰtɕ	T	1	ʔa ˉʰtɕam ʰtɕam
+ˉᵐdz	ˉᵐdz/ⁿdz	T	1	ˉᵐdzə
+ˊʰts	ˊʰts/ʰts	T	1	ˊʰtsə ʰtsə
+ˊᵐdʑ	ˊᵐdʑ/ⁿdʑ	T	1	ˊᵐdʑu
+ˋᵐdz	ˋᵐdz/ⁿdz	T	1	ˋᵐdza xtse
+ˋⁿdz	ˋⁿdz/ⁿdz	T	2	ˋⁿdzo xə;ˋⁿdzu re
+ᴺts‘	ⁿtsʼ	T	4	kǝ22 ᴺts‘we44;kǝ22 ᴺts‘we44;kǝ22 sɑ44 ᴺts‘ar44;kǝ22 sa44 ᴺts‘e44
+o	o	U	2298	ˊtɐ ko ˊji ɕu;ˊtə rnok;ˊtə mto;ˊtə mȵa ˉmo rtsə;ˊtə mȵa ˉmo rtsə
+ó	ó/o	U	46	kʰópɑ̌;ʁdójú;mó;χótsʰæ̌j;χótsʰæ̌j
+ô	ô/o	U	39	mbô;jmô;ɲcô;kʰô;tʰô
+õ	õ	U	24	uvˈdõt̚;jõ;jonujõ;nɑkõʔ;ˆɭo ɬʰõ
+ø	ø	U	3	smøɴ44;kǝ22 nǝ22 smøɴ44;kǝ22 sǝ33 nǝ34 smøɴ44
+ǒ	ǒ/o	U	17	ɕʰáŋtǒŋ;ɕʰáŋtǒŋ;də́ndʑǒ;χóχǒ;ámǒ
+ɔ	ɔ	U	215	ˊtə mȵa ˉlə˞ wɔ;ˊta kʰrɔ;ˊtɕʰen tʰɔ;ˊtə nɔ;ˊtə mtʰjɔk
+oˀ	oˀ	U	39	ta ˉkʰrak stoˀ;tɐ ˊjɐŋ moˀ;ˉkə joˀ pʰɕi;ˊᵐbras ˊwə jnoˀ;ˊtə ɕə ˊtɔŋ goˀ
+o˞	o˞	U	8	ʁo˞ɾmit;sko˞ɾluʔ;ˈzo˞ɾɡɪˌtʰiɛ˞ɾɤt̚;no˞tsə˞rˈwæn;kʰo˞ˈlu
+oˠ	oˠ	U	1	tʰoˠ
+ɔˀ	ɔˀ	U	29	tə ˊbok tɕɔˀ;ˊnə skrɔˀ;ˊko ɕmɔˀ;ˊtɐ r̥pɔˀ;ˉɕa kʰɔˀ
+ɔ̃	ɔ̃	U	1	ˊtɔ̃
+w	w	W	969	ˊtə mȵa ˉlə˞ wɔ;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˊtə swe;wu ˊtsə kək ˊko peˀ;ko ˊnə wam
+wˀ	wˀ	W	1	ˆwə mȵəwˀ ˆko jɔs
+w̥	w̥	W	3	ˊkə w̥sʰɔ;ˉɬso qə ˊge w̥tɕi;ˆʁa w̥tɕʰə
+ˆw	ˆw/w	W	6	ˆwo re;ˆwə mȵəwˀ ˆko jɔs;ˆwo re;ˆwroŋ;ˆwu ᵖce
+ˉw	ˉw/w	W	11	ˉtsʰaj ˉwɐ steˀ;ˉɕo ˉwɐ jomˀ;ˉɕi ˉwu ruˀ;ˉwɐ r̥kʰom ˊwə ɕu;ˉwə tsʰe mɐ kə ˊmə naˀn
+ˊw	ˊw/w	W	44	ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;ˊwə r̥tsʰes;ˊwɐ hɐm;ˊwə grak ˊko peˀ;ˊwə pʰɕi ˊko lit
+ˋw	ˋw/w	W	6	ˋwbu ˊʲla;ˋwu ji toŋ;ˋwə ˠɮa;ˋwə ᵖtʰə;ˋwo rə ˉtə ᵖqe
+ˉʱw	ˉʱw/ʰw	W	1	ˉʱwõ tɕʰa
+ˋw̥	ˋw̥/w̥	W	1	ˋʷla ˋw̥ka
+u	u	Y	1679	ˊtɐ ku;ˊtɐ ko ˊji ɕu;ˊwə mȵa ˊkɐ lu ˊdə ŋwəs;wu ˊtsə kək ˊko peˀ;ˊtɐ ju
+y	y	Y	56	ʟyvit̚;ʐɟyæ;tə-syᴇ;tə-syᴇ kə-lu;tə-yᴇʔ
+ú	ú/u	Y	45	ʁú;ɲúrpə̌;stʰú;stʰú;lú
+û	û/u	Y	41	ɲû;jɑ́ɣrû;jdû;gɑ́vjdû;pjû
+ü	y	Y	6	tǝ33 ᴺtjü54;kǝ22 ᴺʒüj33;ᴺgjüe34;qa33 gjüe44;qa55 tjüe33
+ǔ	ǔ/u	Y	8	vǔlǽ;vɑ́vǔ;ŋkʰórlǔ;zgǔcʰǽ;χpə́rjǔ
+ʉ	ʉ	Y	18	kə ˊsʉ su;əndʉɡʉn;əndʉɡʉn;ɡotʰʉjo;lʉwɑ lʉwɑ
+ʊ	ʊ	Y	10	ɲiəɬpʊt;r̥xtseˈbʊt̚;pʊsit̚;ləzpʰʊʔ̚;bæ◦spʰʊʔ
+oᵘ	ʊ	Y	2	moᵘʔ;moᵘzblʌʔ
+u:	uː	Y	1	jaŋ22 ju:44
+uˀ	uˀ	Y	21	ˊtə luˀ;ˉtɕəŋ juˀ;ˊtə luˀ;ˊtsʰaw tʰuˀ;ˊtə ᵖtɕuˀ
+u˞	u˞	Y	3	sɑmu˞t̚;oˈɟu˞ʔ;oˈɟu˞ʔ
+u̥	u̥	Y	2	u̥fˈdʑɑˌlɑʔ;hu̥tɕʰoʔ
+oᵘ˞	ʊ˞	Y	2	moᵘ˞mit;moᵘ˞mit
+-	+	_	1723	ta-ku;ta-ku kə-zur;ta-ku kə-zur;tə-rmi kə-tsɿ ma kə-rə ŋȵᴇ;tə-rmi kə-tsɿ ma kə-rə ŋȵᴇ
+◦	+	_	50	kʰɑ◦snæp;bæ◦spʰʊʔ;kov◦ˈzum;joˈ◦skəʔ;ˈdək◦spɑʔ
+aᵏ	a k	A K	4	te33 gaᵏ33;ʧ‘aᵏ44 ke44;skam33 laᵏ55;laᵏ22 ʧ‘e44
+aᴺ	a n	A N	5	kǝ22 ra33 ßzjaᴺ34;ʨaᴺ44 ke44;kǝ22 ji33 daᴺ44;ne22 kǝ22 ji33 daᴺ44;kej33 daᴺ44 tsǝ33 nɔ44 ɣbaŋ44
+ɑᴺ	ɑ n	A N	1	kǝ33 tɑᴺ44
+aᵖ	a p	A P	6	kǝ22 rʤaᵖ55;kǝ22 rʤaᵖ55;χsɔl33 ve33 ka22 daᵖ44;ka22 wa33 ʨ‘aᵖ44 la33;kǝ33 mbaᵖ44
+ɑᵖ	ɑ p	A P	1	skɑᵖ44
+aᵗ	a t	A T	8	kǝ22 naᵗ33;tǝ33 pʃe44 ka33 laᵗ44;tǝ33 rǝ33 mbe44 ka44 laᵗ33;to22 mde44 ka2 laᵗ44;ᴺdɔ22 ʁdzɨ33 ka22 laᵗ44
+ɑᵘ	ɑ w	A W	26	ɕɑᵘɡʷərtɕʰin;ɡɑᵘpʰrɑᵘn;ɡɑᵘpʰrɑᵘn;mɑᵘ;mɑᵘnətʲər
+ˋᵛdz	ˋᵛdz/v dz	B C	2	ˋᵛdzi;ˋᵛdzə zẽ
+ᶠk	f k	B K	0	
+ᶠq	f q	B K	1	ˊʔa ᶠqo
+ˊᵛg	ˊᵛg/v g	B K	1	ˊkʰa kʰa ˊᵛgu
+ᶠkʰ	f kʰ	B K	1	ˉtə ᶠkʰwa
+ᵛl	v l	B L	3	ˊwɐ ᵛle ˊkə ᵏtsɐj;ko ˊnap ᵛluˀ;ˊtɐ ᵛleˀ
+ᵛɮ	v ɮ	B L	0	
+ˉᶠɬʰ	ˉᶠɬʰ/f ɬʰ	B L	2	ˉᶠɬʰa;ˉᶠɬʰe
+ˋᶠɬʰ	ˋᶠɬʰ/f ɬʰ	B L	1	ˋᶠɬʰə
+ᵛz	v z	B S	1	ˊkə ᵛzo
+ᶠs	f s	B S	1	ˊkə ᶠsan
+ᶠɕ	f ɕ	B S	3	ˋcʰo ᶠɕi;ˆɣə ᶠɕe;ˆɣu ᶠɕe
+ˆᵛz	ˆᵛz/v z	B S	1	ˆᵛza po
+ˉᶠɕ	ˉᶠɕ/f ɕ	B S	1	ˉᶠɕə
+ˋᵛʑ	ˋᵛʑ/v ʑ	B S	0	
+ˋᶠɕ	ˋᶠɕ/f ɕ	B S	1	ˋᶠɕa ʰtsə
+ᶠsʰ	f sʰ	B S	1	ˊɣə ᶠsʰa ra
+ᶠɕʰ	f ɕʰ	B S	2	ˆɣə ᶠɕʰi;ˊnə ᶠɕʰi
+ˉᶠsʰ	ˉᶠsʰ/f sʰ	B S	0	
+ˋᶠsʰ	ˋᶠsʰ/f sʰ	B S	1	ˋᶠsʰe
+ˉᶠʈ	ˉᶠʈ/f ʈ	B T	1	ˉᶠʈi və
+eᵏ	e k	E K	1	teᵏ33 pa44
+ǝᵏ	ə k	E K	1	tǝᵏ22 toʔ44
+ӕᵏ	æ k	E K	1	kǝ22 na44 nӕᵏ44
+eᴺ	e n	E N	7	xʧeᴺ55 zǝᴺ55;tʂeᴺ33 ʧ‘eᴺ44;tʂeᴺ33 ʧ‘eᴺ44;ɣleᴺ22 be44;k‘u44 k‘o33 ʂʨeᴺ44 ʃa33 ku55 ko33 par44 t‘a44
+æᴺ	æ n	E N	4	kǝ33 p‘æᴺ44;kǝ33 pæᴺ44;ji33 dæᴺ55 mɲi44;pæᴺ44 tsǝᴺ44
+ǝᴺ	ə n	E N	11	kǝ22 ʁǝᴺ33 ʤe44;kǝ22 ʁǝᴺ33 du44;kǝᴺ22 ɲam55 sɯ33;kǝᴺ22 ɲam55 k‘ɔ33;kǝ33 rǝᴺ44 bjo54
+ɛᴺ	ɛ n	E N	1	kǝ22 ɣjɛᴺ33
+ӕɴ	æ ŋ	E N	1	kǝ33 mǝ33 zkǝk33 pӕɴ44
+ᴇᴺ	ɛ n	E N	4	lᴇᴺ44 ka22 ʨ‘ɨ44;kǝ33 tʂᴇᴺ44;ka22 ʈᴇᴺ44;sem33 ʧᴇᴺ44
+ᴇᶰ	ɛ n	E N	1	phᴇᶰ44 thok44
+eᵖ	e p	E P	3	te22 pʰeᵖ44 pɑ44;tǝ55 ʃneᵖ44;ka33 zdeᵖ44
+ǝᵖ	ə p	E P	1	tǝᵖ44 jo44
+eᵗ	e t	E T	3	kǝ22 pʃeᵗ44;ka22 ɸʧ‘eᵗ44;ʨeᵗ44
+æᵗ	æ t	E T	2	næᵗ22 ŋᴇn33;ka55 p‘æᵗ44
+ǝᵗ	ə t	E T	4	ra22 skǝᵗ44;ka44 qǝᵗ33;kǝ22 mt‘ǝᵗ44;ka22 ʂtsǝᵗ44
+əᵘ	ə w	E W	17	əᵘbɑvsi;həᵘprjəᵘ;həᵘprjəᵘ;dətɕəᵘ;dətɕəᵘ
+ˣcʰ	x cʰ	G C	1	ˋtə ˣcʰe
+ˋˣtɕ	ˋˣtɕ/x tɕ	G C	1	ˋˣtɕu re
+ˣtɕʰ	x tɕʰ	G C	2	ˊje ˣtɕʰi;ˋtə ˣtɕʰu
+ˋˣtɕʰ	ˋˣtɕʰ/x tɕʰ	G C	2	ˋˣtɕʰe;ˋˣtɕʰe χqʰe
+ˣk	x k	G K	2	ˆre ˣkə;ˉnə ˣkə
+ˋˣq	ˋˣq/x q	G K	1	ˉke çtsa ˋˣqi
+ˣɕ	x ɕ	G S	1	ˋˣɕe ˣɕe ˉʰta
+ˆˣs	ˆˣs/x s	G S	1	ˆˣsi χqʰe
+ˋˣs	ˋˣs/x s	G S	3	ˋˣsɐr;ˋˣsu;ˋˣsu te
+ˋˣɕ	ˋˣɕ/x ɕ	G S	2	ˋˣɕe ˣɕe ˉʰta;ˋˣɕə ʰko
+ˣsʰ	x sʰ	G S	1	ˋmu ˣsʰe
+ˉˣsʰ	ˉˣsʰ/x sʰ	G S	1	ˉˣsʰe
+ˣt	x t	G T	3	ˊɣɑ ˣtoŋ ˣtə;ˊɣɑ ˣtoŋ ˣtə;ˋʔa ˣtɑŋ
+ˣtʰ	x tʰ	G T	3	ˋʷme ˣtʰu;ˊtsʰə ˊʰpa ˣtʰə ˊsa;ˊʔa ˣtʰi
+ˋˣʈʰ	ˋˣʈʰ/x ʈʰ	G T	1	ˋˣʈʰe
+iᵏ	i k	I K	0	
+ɯᵏ	ɯ k	I K	1	kǝ22 sɯᵏ44
+iᴺ	i n	I N	2	ʒiᴺ33 brɯ44;ʒiᴺ33 brɯ44
+iᵖ	i p	I P	1	ka22 sa44 χʃiᵖ44
+ɨᵗ	ɨ t	I T	1	kǝ22 sa33 sʨɨᵗ44
+ᵏpʰ	k pʰ	K P	1	ˊtə ᵏpʰə
+ᵏs	k s	K S	1	ˆkə ᵏsriŋ
+ˉᵏs	ˉᵏs/k s	K S	1	ˋtʰə də ˉᵏsaˀn
+ᵏt	k t	K T	8	ˊtə ᵏtseˀ;ˊkə ᵏtiŋ;ˊwɐ ᵛle ˊkə ᵏtsɐj;ˊkə ᵏtiŋ;ˊkə ᵏtsɐj
+ᵏʈʰ	k ʈʰ	K T	1	ˊnə ᵏʈʰi
+ˉˡv	ˉˡv/l v	L B	1	ˉˡvu
+ˊˡv	ˊˡv/l v	L B	1	ˊˡvo χu
+ˋˡv	ˋˡv/l v	L B	0	
+ˡm	l m	L M	1	ˆpe ˡmi
+ᵐn	m n	M N	0	
+ᵐʧ‘	m tʃʼ	M T	1	ᵐʧ‘i44 ɖe44
+ˉⁿd	ˉⁿd/n d	N T	1	ˉⁿdə ʱɖʐə ˊsejˀ
+ᵇɟ	b ɟ	P C	3	ˋza ᵇɟe;ˆʁa ᵇɟe;ˋʈʰə ᵇɟə
+ᵖc	ᵖc/p c	P C	1	ˆwu ᵖce
+ˆᵇɟ	ˆᵇɟ/b ɟ	P C	1	ˆᵇɟe χqʰe
+ˋᵇɟ	b ɟ	P C	4	ˋᵇɟa;ˋᵇɟa ᵏtɕʰa;ˋᵇɟe;ˋᵇɟə
+ˋᵖc	ˋᵖc/p c	P C	3	ˋᵖca ʰka;ˋᵖce;ˋᵖce
+ᵖcʰ	p cʰ	P C	1	ˊrə ᵖcʰi
+ᵖʈʂ	p ʈʂ	P C	1	ˊwə ᵖʈʂə ˊɕe
+ˉᵖts	ˉᵖts/p ts	P C	1	ˉᵖtsu
+ˊᵖts	ˊᵖts/p ts	P C	3	ko sɐ ˊᵖtsəp ᵖtsəp;ˊᵖtsə;ˊᵖtsə
+ˋᵖtɕ	ˋᵖtɕ/p tɕ	P C	0	
+ᵖtsʰ	p tsʰ	P C	4	ˊtɐ ᵖtsʰis;ˊkə ᵖtsʰoˀ;ˊkə ᵖtsʰoˀ;ˊkə ᵖtsʰu
+ˉᵖtɕʰ	ˉᵖtɕʰ/p tɕʰ	P C	1	ˉᵖtɕʰi
+ᵇg	b g	P K	1	ˊrə ᵇgə
+ᵖk	p k	P K	4	ˊkə ᵖke;ˊtɐ ᵖket;ˊke ᵖko;ˉto ᵖko
+ᵖq	p q	P K	1	ˋwo rə ˉtə ᵖqe
+ˋᵖq	ˋᵖq/p q	P K	0	
+ˋᵖqʰ	ˋᵖqʰ/p qʰ	P K	0	
+ᵖs	p s	P S	1	ˊko ru ˊkə ᵖsen
+ᵇd	b d	P T	6	ˊkə ᵇdiŋ;ˊkə ᵇdiŋ;ˊkə ᵇdiŋ;ˋᶮɟə ᵇdo;ˋʱɟə ᵇdo
+ᵖt	p t	P T	5	ˊtə ᵖtu;ˊtə ᵖtɕuˀ;ko ˊte ᵖtup;tə ˊʑɐ ᵖtɕe;ko sɐ ˊᵖtsəp ᵖtsəp
+ᵖʈ	p ʈ	P T	3	ˊɕa ᵖʈok;ˋᵖʈo ᵖʈu;ˉcɛ ᵖʈi
+ˆᵖt	ˆᵖt/p t	P T	1	ˆᵖtɛ χtsə
+ˊᵇd	ˊᵇd/b d	P T	2	ˊᵇdu ʰka;ˊᵇda ʰkõ
+ˋᵖʈ	ˋᵖʈ/p ʈ	P T	1	ˋᵖʈo ᵖʈu
+ᵖtʰ	ᵖtʰ/p tʰ	P T	1	ˋwə ᵖtʰə
+ᵖʈʰ	p ʈʰ	P T	1	ˉᵖʈʰu ᵖʈʰu
+ˉᵐᵇɖ	ˉᵐᵇɖ/ⁿb ɖ	P T	0	
+ˉᵖtʰ	ˉᵖtʰ/p tʰ	P T	1	ˉᵖtʰi
+ˉᵖʈʰ	ˉᵖʈʰ/p ʈʰ	P T	3	ˉᵖʈʰa ʰpa;ˉᵖʈʰi;ˉᵖʈʰu ᵖʈʰu
+ʳv	r v	R B	1	ˊvɐ ʳvɐ ˊʂto ʂto
+ˋʳv	ˋʳv/r v	R B	1	ˋʳvi
+ʳg	r g	R K	1	ˋsʰe ʳgo
+ʳm	r m	R M	1	ˊkə ʳme
+ˋʳb	ˋʳb/r b	R P	0	
+ʳd	r d	R T	2	ˊkə ʳdaj;ˊkə ʳdʑo
+ˉˢt	ˉˢt/s t	S T	1	ˉˢtoŋ ɕnəˀ
+ˉᶻd	ˉᶻd/z d	S T	2	ˉᶻdim;ˉᶻda re
+ˊᶻd	ˊᶻd/z d	S T	1	ˊᶻdoŋ groˀ
+ˊʱzd	ˊʱzd/z dʰ	S T	0	
+oᵉ	o e	U E	1	kɒn44 qa44 gjoᵉ23
+oᵏ	o k	U K	9	tǝ33 wu44 rnoᵏ55;tǝ33 poᵏ44 ʧu44;te22 stoᵏ44 tse44;rŋa22 k‘oᵏ55;ʃoᵏ33 kor55
+ɔᵏ	ɔ k	U K	4	zgɔ22 lɔᵏ44;zgɔ23 lɔᵏ44;mdeɴ22 ʧ‘ɔᵏ44;ʃɔ33 ʃɔᵏ55
+oᴺ	o n	U N	2	k‘joᴺ55;ʧ‘ǝ44 ts‘oᴺ33
+oᶰ	o n	U N	1	mi22 ʃer44 tǝ22 mor44 ŋa33 kǝ22 nǝ44 ᶰǳa44 ʤi44 ʦoᶰ33
+ɔᴺ	ɔ n	U N	6	sem44 ʧɔᴺ54 ka22 pe33;ʃɔᴺ33 ʧ‘e33;pɔᴺ33 lu44;ʈjɔᴺ44 ʈjɔᴺ44;ʈjɔᴺ44 ʈjɔᴺ44
+oᵖ	o p	U P	2	ka22 ʈʰoᵖ44;ka22 xsoᵖ44
+ɔᵖ	ɔ p	U P	1	tǝ33 ʃpɔᵖ44
+oᵗ	o t	U T	2	kǝ22 nǝ33 bʒoᵗ44;rgoᵗ22
+ɔᵗ	ɔ t	U T	1	kǝ33 mɔᵗ44
+uᵏ	u k	Y K	1	kǝ33 ruᵏ55 na55
+ʊᴺ	ʊ n	Y N	1	ne22 kʊᴺ44 t‘e33 tsom54
+mukʰu?	m u kʰ u	M Y K Y	1	tʂə ta rja nʥa na stu si ʨin ka tʂʰi mukʰu?
+tiʰa	t i h a	T I H A	0
