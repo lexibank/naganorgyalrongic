@@ -1,4 +1,4 @@
-# rGyalrongic Languages Database
+# CLDF dataset derived from Nagano and Prins' "rGyalrongic Languages Database" from 2013
 
 Cite the source dataset as
 
@@ -16,7 +16,7 @@ Conceptlists in Concepticon:
 
 [![Build Status](https://travis-ci.org/lexibank/naganorgyalrongic.svg?branch=master)](https://travis-ci.org/lexibank/naganorgyalrongic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 81%](https://img.shields.io/badge/Concepticon-81%25-yellowgreen.svg "Concepticon: 81%")
+![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -30,3 +30,14 @@ Conceptlists in Concepticon:
 - **Tokens:** 76,675
 - **Segments:** 562 (0 BIPA errors, 0 CTLS sound class errors, 560 CLTS modified)
 - **Inventory size (avg):** 113.90
+
+# Contributors
+
+Name               | GitHub user | Description | Role
+---                | ---         | --- | --- 
+Tiago Tresoldi     | @tresoldi   | patron, code, profile, language mapping | Author
+Johann-Mattis List | @LinguList  | code | Author
+STEDT | | data provider | DataCurator
+
+
+
