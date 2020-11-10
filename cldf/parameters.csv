@@ -6,7 +6,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 5_brain,brain,1583,BRAIN,0009,5
 6_forehead,forehead,123,FOREHEAD,0011,6
 7_eye,eye,1248,EYE,0013,7
-8_eyeball,eyeball,,,0014,8
+8_eyeball,eyeball,3807,EYEBALL,0014,8
 9_eyebrow,eyebrow,1173,EYEBROW,0016,9
 10_eyelash,eyelash,1540,EYELASH,0017,10
 11_tears,tears,1651,TEAR (OF EYE),0019,11
@@ -92,7 +92,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 91_testicles,testicles,797,TESTICLES,0158,91
 92_testicles,testicles,797,TESTICLES,0159,92
 93_vulva,vulva,1837,VULVA,0161,93
-94_thigh,thigh,800,THIGH,0163,94
+94_thigh,thigh,471,UPPER LEG (THIGH),0163,94
 95_knee,knee,1371,KNEE,0165,95
 96_leg,leg,1297,LEG,0167,96
 97_shin,shin,186,SHIN,0168,97
@@ -1209,7 +1209,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 1208_dontcome,Don't come.,,,2163,1208
 1209_dontspit,Don't spit.,,,2164,1209
 1210_quotativeparticle,(quotative particle),,,2166,1210
-1211_hesaidicometomorrow,"(He) said, ""I come tomorrow.""",,,2167,1211
+1211_hesaidicometomorrow,"(He) said, «I come tomorrow.»",,,2167,1211
 1212_because,because,1157,BECAUSE,2169,1212
 1213_butthough,"but, though",,,2171,1213
 1214_butthough,"but, though",,,2172,1214

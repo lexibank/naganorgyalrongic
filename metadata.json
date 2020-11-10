@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from Nagano and Prins' \"rGyalrongic Languages Database\" from 2013",
     "url": "https://htq.minpaku.ac.jp/databases/rGyalrong/",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license": "CC-BY-4.0",
     "citation": "Nagano, Yasuhiko and Prins, Marielle (2013): rGyalrongic Languages Database. Osaka: National Museum of Ethnology.",
     "conceptlist": "Nagano-2013-1256"
 }

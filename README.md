@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Nagano, Yasuhiko and Prins, Marielle (2013): rGyalrongic Languages Database. Osaka: National Museum of Ethnology.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://htq.minpaku.ac.jp/databases/rGyalrong/
 
