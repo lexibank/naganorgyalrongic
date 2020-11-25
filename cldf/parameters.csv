@@ -1,1257 +1,1257 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
-1_head,head,1256,HEAD,0003,
-2_haveaheadachev,have a headache (v),,,0004,
-3_stubbornpeoplesayhedoesnotlisten,stubborn/People say he does not listen.,,,0005,
-4_hairofthehead,hair of the head,2678,HAIR OR FUR,0007,
-5_brain,brain,1583,BRAIN,0009,
-6_forehead,forehead,123,FOREHEAD,0011,
-7_eye,eye,1248,EYE,0013,
-8_eyeball,eyeball,,,0014,
-9_eyebrow,eyebrow,1173,EYEBROW,0016,
-10_eyelash,eyelash,1540,EYELASH,0017,
-11_tears,tears,1651,TEAR (OF EYE),0019,
-12_blind,blind,1653,BLIND,0021,
-13_blind,blind,1653,BLIND,0022,
-14_nose,nose,1221,NOSE,0024,
-15_snivel,snivel,208,NASAL MUCUS (SNOT),0025,
-16_ear,ear,1247,EAR,0027,
-17_earwax,ear wax,32,EARWAX,0028,
-18_deaf,deaf,996,DEAF,0030,
-19_mouth,mouth,674,MOUTH,0032,
-20_lips,lips,478,LIP,0034,
-21_tongue,tongue,1205,TONGUE,0036,
-22_dumb,dumb,1492,DUMB,0038,
-23_tooth,tooth,1380,TOOTH,0040,
-24_decayv,decay (v),,,0041,
-25_spittle,spittle,1503,SALIVA,0043,
-26_saliva,saliva,1503,SALIVA,0044,
-27_phlegm,phlegm,3061,PHLEGM,0045,
-28_breathev,breathe (v),1407,BREATHE,0047,
-29_voice,voice,1363,VOICE,0049,
-30_cough,cough,,,0051,
-31_coughv,cough (v),879,COUGH,0053,
-32_sneeze,sneeze,,,0055,
-33_sneezev,sneeze (v),1621,SNEEZE,0057,
-34_yawn,yawn,1028,YAWN,0059,
-35_hiccupv,hiccup (v),162,HICCOUGH,0060,
-36_belchv,belch (v),2245,BELCH,0061,
-37_jawchin,"jaw, chin",1510,CHIN,0063,
-38_face,face,1560,FACE,0065,
-39_feelshamedv,feel shamed (v),1894,ASHAMED,0066,
-40_cheek,cheek,1730,CHEEK,0068,
-41_temple,temple,1604,TEMPLES,0069,
-42_mustache,mustache,1165,MOUSTACHE,0071,
-43_beard,beard,678,BEARD,0072,
-44_whiskers,whiskers,,,0073,
-45_neck,neck,1333,NECK,0075,
-46_neck,neck,1333,NECK,0076,
-47_nape,nape,1347,NAPE (OF NECK),0077,
-48_throat,throat,1346,THROAT,0079,
-49_throat,throat,1346,THROAT,0080,
-50_shoulder,shoulder,1482,SHOULDER,0082,
-51_shoulderblade,shoulder blade,172,SHOULDERBLADE,0083,
-52_arm,arm,1673,ARM,0085,
-53_elbow,elbow,981,ELBOW,0087,
-54_wrist,wrist,799,WRIST,0089,
-55_hand,hand,1277,HAND,0091,
-56_palm,palm,1183,PALM OF HAND,0093,
-57_finger,finger,1303,FINGER,0095,
-58_nail,nail,1258,FINGERNAIL,0101,
-59_fist,fist,1473,FIST,0103,
-60_breast,breast,1592,CHEST,0105,
-61_breastofwoman,breast (of woman),1402,BREAST,0106,
-62_mothersmilk,mother's milk,,,0107,
-63_rib,rib,801,RIB,0109,
-64_lungs,lungs,688,LUNG,0111,
-65_heart,heart,1223,HEART,0113,
-66_belly,belly,1251,BELLY,0115,
-67_guts,guts,1334,GUTS,0118,
-68_bowels,bowels,1991,INTESTINES,0120,
-69_stomach,stomach,819,STOMACH,0122,
-70_liver,liver,1224,LIVER,0124,
-71_kidneys,kidneys,489,KIDNEY,0126,
-72_navel,navel,1838,NAVEL,0128,
-73_back,back,1291,BACK,0130,
-74_backvsfront,back (vs. front),2323,BACK (PART),0131,
-75_waist,waist,1681,WAIST,0133,
-76_buttocks,buttocks,834,BUTTOCKS,0134,
-77_excrement,excrement,675,FAECES (EXCREMENT),0136,
-78_excrementofsheep,excrement of sheep,,,0137,
-79_excrementofcattle,excrement of cattle,,,0138,
-80_excrementofhorse,excrement of horse,,,0139,
-81_excrementofdonkey,excrement of donkey,,,0140,
-82_voidfecesvt,void feces (vt),676,SHIT (DEFECATE),0142,
-83_voidfecesvi,void feces (vi),676,SHIT (DEFECATE),0143,
-84_bladder,bladder,1746,BLADDER,0145,
-85_urine,urine,1142,URINE,0147,
-86_urinatev,urinate (v),592,PISS,0149,
-87_toilet,toilet,219,TOILET,0151,
-88_fart,fart,1159,FART,0153,
-89_penis,penis,1222,PENIS,0155,
-90_penis,penis,1222,PENIS,0156,
-91_testicles,testicles,797,TESTICLES,0158,
-92_testicles,testicles,797,TESTICLES,0159,
-93_vulva,vulva,1837,VULVA,0161,
-94_thigh,thigh,800,THIGH,0163,
-95_knee,knee,1371,KNEE,0165,
-96_leg,leg,1297,LEG,0167,
-97_shin,shin,186,SHIN,0168,
-98_calf,calf,1989,CALF,0169,
-99_foot,foot,1301,FOOT,0171,
-100_limpv,limp (v),366,LIMP,0173,
-101_body,body,1480,BODY,0175,
-102_corpse,corpse,767,CORPSE,0176,
-103_hairofskin,hair of skin,189,HAIR (BODY),0178,
-104_skin,skin,763,SKIN,0180,
-105_birthmark,birth-mark,1751,BIRTHMARK,0182,
-106_bruise,bruise,1148,BRUISE,0183,
-107_mole,mole,1907,MOLE,0185,
-108_pockmark,pockmark,530,FRECKLE,0187,
-109_aburn,a burn,,,0189,
-110_pus,pus,1808,PUS,0192,
-111_sweat,sweat,125,SWEAT (SUBSTANCE),0194,
-112_dirt,dirt,25,DIRT,0196,
-113_blood,blood,946,BLOOD,0198,
-114_bone,bone,1394,BONE,0200,
-115_marrow,marrow,1835,MARROW,0201,
-116_flesh,flesh,2259,FLESH,0203,
-117_strength,strength,202,STRENGTH,0205,
-118_powerpolitical,power (political),2526,POWER,0206,
-119_lookatvt,look at (vt),1819,LOOK,0208,
-120_seevi,see (vi),1409,SEE,0209,
-121_smellitv,smell it (v),1586,SMELL (PERCEIVE),0211,
-122_listentovt,listen to (vt),1608,LISTEN,0213,
-123_hearvi,hear (vi),1408,HEAR,0214,
-124_laughv,laugh (v),1355,LAUGH,0216,
-125_cryweepv,"cry, weep (v)",1839,CRY,0218,
-126_shoutv,shout (v),715,SHOUT,0220,
-127_clothing,clothing,,,0223,
-128_clothsingeneral,cloths in general,1895,CLOTHES,0224,
-129_tibetancloth,Tibetan cloth,,,0226,
-130_sleeve,sleeve,2953,SLEEVE,0227,
-131_clothev,clothe (v),,,0232,
-132_wearv,wear (v),976,WEAR,0232a,
-133_dresssmstgvt,dress sm stg (vt),814,DRESS UP,0234,
-134_takeoffvt,take off (vt),1755,UNDRESS,0236,
-135_naked,naked,590,NAKED,0238,
-136_hat,hat,771,HAT,0240,
-137_umbrella,umbrella,3105,UMBRELLA,0242,
-138_pagne,pagne,1965,LOINCLOTH,0244,
-139_trousers,trousers,809,TROUSERS,0246,
-140_belt,belt,772,BELT,0248,
-141_collar,collar,2012,COLLAR,0250,
-142_shoe,shoe,1381,SHOE,0252,
-143_barefooted,barefooted,,,0254,
-144_clothn,cloth (n),1616,CLOTH,0256,
-145_cotton,cotton,1850,COTTON,0258,
-146_flax,flax,916,LINEN,0260,
-147_woolwool,wool/wool (山羊毛),964,WOOL,0262,
-148_fur,fur,580,FUR,0264,
-149_tannedleather,tanned leather,629,LEATHER,0265,
-150_comb,comb,1475,COMB,0267,
-151_ringfinger,ring (finger),1374,RING,0269,
-152_necklace,necklace,1961,NECKLACE,0271,
-153_decoratev,decorate (v),1739,DECORATE,0273,
-154_scissors,scissors,356,SHEARS,0275,
-155_needle,needle,1382,NEEDLE (FOR SEWING),0277,
-156_thread,thread,1161,THREAD,0279,
-157_sewv,sew (v),1457,SEW,0281,
-158_foodfoodstuff,"food, food stuff",256,FOOD,0284,
-159_foodmeal,"food, meal",3542,PREPARED FOOD,0285,
-160_rice,rice,926,RICE,0287,
-161_riceplant,rice plant,2026,RICE PLANT,0289,
-162_wheat,wheat,1077,WHEAT,0291,
-163_barley,barley,932,BARLEY,0293,
-164_grain,grain,605,GRAIN,0295,
-165_beanpeabeanpea,"bean, pea/bean, pea (蓲豆)",2574,BEAN OR PEA,0298,
-166_flour,flour,1594,FLOUR,0300,
-167_wheatflour,wheat flour,1594,FLOUR,0301,
-168_tsampa,Tsampa,,,0302,
-169_potato,potato,593,POTATO,0304,
-170_meat,meat,634,MEAT,0306,
-171_onion,onion,2366,ONION,0308,
-172_garlic,garlic,2368,GARLIC,0309,
-173_vegetable,vegetable,924,VEGETABLES,0313,
-174_fruit,fruit,1507,FRUIT,0318,
-175_fruitoftree,fruit of tree,1507,FRUIT,0320,
-176_seed,seed,714,SEED,0322,
-177_fish,fish,227,FISH,0324,
-178_egg,egg,744,EGG,0326,
-179_salt,salt,1274,SALT,0328,
-180_sugar,sugar,862,SUGAR,0330,
-181_honey,honey,942,HONEY,0332,
-182_oilasfood,oil as food,1484,OIL (ORGANIC SUBSTANCE),0334,
-183_petroleum,petroleum,650,PETROLEUM,0335,
-184_grease,grease,,,0337,
-185_butter,butter,1245,BUTTER,0339,
-186_cheese,cheese,1569,CHEESE,0340,
-187_milk,milk,635,MILK,0342,
-188_yogurt,yogurt,,,0343,
-189_water,water,948,WATER,0345,
-190_tea,tea,1373,TEA,0347,
-191_papriceporridge,"pap, rice-porridge",2049,CONGEE,0351,
-192_wine,wine,1524,WINE,0353,
-193_liquor,liquor,842,LIQUOR,0354,
-194_getdrunkv,get drunk (v),,,0356,
-195_tobacco,tobacco,974,TOBACCO,0358,
-196_cookvt,cook (vt),1100,COOK (SOMETHING),0360,
-197_havecookedv,have cooked (v),,,0361,
-198_cookn,cook (n),2315,COOK (PERSON),0361a,
-199_getroastedvi,get roasted (vi),,,0365,
-200_fryvt,fry (vt),991,FRY,0366,
-201_havefriedvi,have fried (vi),,,0367,
-202_boilvt,boil (vt),2492,BOIL (SOMETHING),0369,
-203_getboiledvi,get boiled (vi),,,0370,
-204_raw,raw,1959,RAW,0372,
-205_ripe,ripe,178,RIPE,0374,
-206_eatvt,eat (vt),1336,EAT,0376,
-207_lickvt,lick (vt),319,LICK,0378,
-208_chewvt,chew (vt),321,CHEW,0380,
-209_masticatevt,masticate (vt),,,0381,
-210_drinkvt,drink (vt),1401,DRINK,0383,
-211_swallowvt,swallow (vt),897,SWALLOW,0384,
-212_suckvt,suck (vt),1421,SUCK,0386,
-213_vomitvtvomitvt,vomit (vt)/vomit (呕吐) (vt),1278,VOMIT,0388,
-214_spitv,spit (v),1440,SPIT,0390,
-215_gethungryv,get hungry (v),,,0392,
-216_feelhungryv,feel hungry (v),1533,BE HUNGRY,0393,
-217_feelthirstyv,feel thirsty (v),3474,BE THIRSTY,0395,
-218_taste,taste,2190,TASTE,0397,
-219_tasty,tasty,1813,TASTY,0399,
-220_sweet,sweet,717,SWEET,0401,
-221_hot,hot,1286,HOT,0403,
-222_bitter,bitter,887,BITTER,0405,
-223_sour,sour,1906,SOUR,0407,
-224_rotten,rotten,1728,ROTTEN,0409,
-225_mould,mould,1166,MOULD,0411,
-226_house,house,1252,HOUSE,0414,
-227_room,room,1450,ROOM,0415,
-228_houseresidence,"house, residence",2406,HOME,0417,
-229_residence,residence,,,0419,
-230_communitysettlement,"community, settlement",,,0420,
-231_tent,tent,1316,TENT,0423,
-232_buildahousevt,build (a house) (vt),,,0425,
-233_entrance,entrance,,,0427,
-234_exit,exit,,,0428,
-235_door,door,1567,DOOR,0430,
-236_room,room,1450,ROOM,0432,
-237_floor,floor,1632,FLOOR,0434,
-238_pillar,pillar,,,0436,
-239_beamofahouse,beam (of a house),1132,BEAM,0437,
-240_wall,wall,933,WALL (OF HOUSE),0440,
-241_mudwall,mud wall,,,0441,
-242_window,window,1375,WINDOW,0443,
-243_roof,roof,769,ROOF,0446,
-244_fireplacefireplace,fireplace/fireplace (火塘),185,FIREPLACE,0448,
-245_fire,fire,221,FIRE,0450,
-246_lightvtcatchfirev,"light (vt), catch fire (v)",737,LIGHT (IGNITE),0452,
-247_flame,flame,889,FLAME,0454,
-248_smoke,smoke,778,SMOKE (EXHAUST),0456,
-249_soot,soot,830,SOOT,0458,
-250_ashes,ashes,646,ASH,0460,
-251_cinders,cinder(s),,,0461,
-252_charcoal,charcoal,1188,CHARCOAL,0463,
-253_coal,coal,2658,COAL,0464,
-254_firewood,firewood,10,FIREWOOD,0466,
-255_matches,matches,1133,MATCH,0468,
-256_matches,matches,1133,MATCH,0469,
-257_extinguishvt,extinguish (vt),127,EXTINGUISH,0471,
-258_putoutvt,put out (vt),,,0472,
-259_gooutfadevi,"go out, fade (vi)",2704,FADE (LOOSE COLOR),0473,
-260_burnvi,burn (vi),1428,BURNING,0475,
-261_getburnedvi,get burned (vi),,,0476,
-262_setfiretovt,set fire to (vt),737,LIGHT (IGNITE),0478,
-263_table,table,1775,TABLE,0480,
-264_chair,chair,1476,CHAIR,0482,
-265_sittingmat,sitting mat,195,MAT,0483,
-266_sitstayv,"sit, stay (v)",1416,SIT,0485,
-267_sitliedownv,"sit, lie down (v)",215,LIE DOWN,0486,
-268_bed,bed,1663,BED,0488,
-269_pillow,pillow,1044,PILLOW,0490,
-270_lievi,lie (vi),1411,LIE (REST),0492,
-271_sleepvi,sleep (vi),1585,SLEEP,0494,
-272_snorevi,snore (vi),1983,SNORE,0495,
-273_feelsleepyv,feel sleepy (v),,,0497,
-274_dreamn,dream (n),2374,DREAM,0499,
-275_dreamv,dream (v),1920,DREAM (SOMETHING),0500,
-276_wakeupv,wake up (v),1602,WAKE UP,0501,
-277_wakenvt,waken (vt),825,AWAKE,0502,
-278_standuprisev,"stand up, rise (v)",570,STAND UP,0504,
-279_standv,stand (v),1442,STAND,0506,
-280_welln,well (n),954,WELL,0508,
-281_hedge,hedge,,,0510,
-282_closeshutvt,"close, shut (vt)",1046,SHUT,0512,
-283_shutoneseyesvshutoneseyesv,shut one's eyes (v)/shut one's eyes (闭眼) (v),2063,CLOSE (EYES),0513,
-284_closevi,close (vi),2000,CLOVE,0514,
-285_openvt,open (vt),1156,OPEN,0516,
-286_livev,live (v),1422,BE ALIVE,0518,
-287_stayovernightv,stay overnight (v),,,0520,
-288_tool,tool,1361,TOOL,0523,
-289_machine,machine,144,MACHINE,0525,
-290_mirror,mirror,1171,MIRROR,0527,
-291_glass,glass,604,GLASS,0529,
-292_bowl,bowl,1530,BOWL,0531,
-293_ricebowl,rice bowl,,,0532,
-294_dishplate,"dish, plate",480,PLATE,0534,
-295_spoon,spoon,1378,SPOON,0536,
-296_pot,pot,1462,POT,0538,
-297_jug,jug,270,JUG,0539,
-298_bucketbarrel,"bucket, barrel",2052,BUCKET,0543,
-299_bottle,bottle,1321,BOTTLE,0546,
-300_pan,pan,31,PAN,0548,
-301_steamer,steamer,,,0549,
-302_earthenwareteapot,earthenware teapot,,,0550,
-303_dipoutwaterv,dip out water (v),,,0552,
-304_scoopupvt,scoop up (vt),,,0553,
-305_ladle,ladle,2657,LADLE,0554,
-306_pourvt,pour (vt),1487,POUR,0556,
-307_spillitintentionallyvt,spill it (intentionally) (vt),3130,SPILL (SOMETHING),0558,
-308_spillitaccidentallyv,spill it (accidentally) (v),3130,SPILL (SOMETHING),0559,
-309_knife,knife,1352,KNIFE,0561,
-310_handlehaft,"handle, haft",1254,HANDLE,0562,
-311_cuttingedge,cutting edge,863,EDGE,0564,
-312_mortar,mortar,224,MORTAR CRUSHER,0566,
-313_pounder,pounder,2459,GRINDSTONE,0568,
-314_grindvt,grind (vt),1033,GRIND,0570,
-315_poundvt,pound (vt),354,POUND,0572,
-316_hammer,hammer,1481,HAMMER,0574,
-317_nail,nail,502,NAIL (TOOL),0576,
-318_saw,saw,1948,SAW,0578,
-319_axe,axe,677,AXE,0580,
-320_hoe,hoe,284,HOE,0582,
-321_sickle,sickle,341,SICKLE,0584,
-322_plow,plow,2154,PLOUGH (INSTRUMENT),0586,
-323_spade,spade,1176,SPADE,0588,
-324_whetvt,whet (vt),251,SHARPEN (SOMETHING),0590,
-325_dust,dust,2,DUST,0592,
-326_wipevt,wipe (vt),1454,WIPE,0594,
-327_box,box,1465,BOX,0596,
-328_covern,cover (n),2319,"LID (COVER, CAP)",0598,
-329_sheath,sheath,,,0599,
-330_largemeshedbasket,large meshed basket,,,0601,
-331_basket,basket,1539,BASKET,0602,
-332_sieve,sieve,86,SIEVE,0604,
-333_bag,bag,2468,BAG,0606,
-334_bagmadeofyakswool,bag made of Yak's wool,,,0607,
-335_bagmadeofyakswool,bag made of Yak's wool,,,0608,
-336_squarebagofcloth,square bag of cloth,,,0610,
-337_paperbagfordocuments,paper bag for documents,,,0611,
-338_envelope,envelope,3088,ENVELOPE,0612,
-339_rope,rope,1218,ROPE,0614,
-340_stringcord,"string, cord",362,STRING,0616,
-341_net,net,2963,NET,0618,
-342_netforcurtain,net for curtain,,,0619,
-343_cane,cane,1296,WALKING STICK,0621,
-344_stickofwood,stick of wood,1295,STICK,0623,
-345_smallpile,small pile,,,0624,
-346_ladder,ladder,1464,LADDER,0626,
-347_board,board,1227,BOARD,0628,
-348_bebornv,be born (v),1090,BE BORN,0631,
-349_growupv,grow up (v),552,GROW UP,0633,
-350_alivebev,alive (be v),1422,BE ALIVE,0635,
-351_fat,fat,1279,FAT (OBESE),0637,
-352_thin,thin,2308,THIN,0639,
-353_gettiredv,get tired (v),1996,GET TIRED,0641,
-354_healthy,healthy,1364,HEALTHY,0643,
-355_illness,illness,1986,DISEASE,0645,
-356_fever,fever,1534,FEVER,0647,
-357_catchacoldv,catch a cold (v),2184,CATCH A COLD,0648,
-358_infectiousdiseaseinfectiousdiseasetheillnessspreadsoneaftertheother,infectious disease/infectious disease ('the illness spreads one after the other'),,,0649,
-359_syphilis,syphilis,,,0650,
-360_wound,wound,1109,WOUND,0654,
-361_bepainfulfeelpainv,"be painful, feel pain (v)",2561,HURT (SENSE PAIN),0656,
-362_feelitchyv,feel itchy (v),149,ITCHY,0658,
-363_scratchv,scratch (v),1436,SCRATCH,0660,
-364_medicine,medicine,1372,MEDICINE,0662,
-365_curevt,cure (vt),499,CURE,0664,
-366_curevt,cure (vt),499,CURE,0665,
-367_recoverv,recover (v),1978,RECOVER,0667,
-368_poison,poison,655,POISON,0669,
-369_killvt,kill (vt),1417,KILL,0671,
-370_dievi,die (vi),1494,DIE,0673,
-371_buryvt,bury (vt),1719,BURY,0675,
-372_mummy,mummy,,,0676,
-373_god,god,1944,GOD,0678,
-374_prayv,pray (v),24,PRAY,0680,
-375_fightv,fight (v),1423,FIGHT,0682,
-376_fightv,fight (v),1423,FIGHT,0683,
-377_makewarv,make war (v),,,0685,
-378_winv,win (v),866,WIN,0687,
-379_bedefeatedv,be defeated (v),,,0689,
-380_runawayvi,run away (vi),2142,RUN AWAY,0691,
-381_chasevt,chase (vt),1435,HUNT,0693,
-382_sword,sword,1535,SWORD,0695,
-383_spear,spear,945,SPEAR,0697,
-384_shield,shield,1064,SHIELD,0699,
-385_bow,bow,994,BOW,0701,
-386_arrow,arrow,977,ARROW,0703,
-387_gun,gun,1566,GUN,0705,
-388_personmaningeneral,"person, man in general",683,PERSON,0708,
-389_manmale,"man, male",2106,MALE PERSON,0710,
-390_male,male,1553,MALE,0711,
-391_womanfemale,"woman, female",2105,FEMALE PERSON,0713,
-392_baby,baby,1289,BABY,0715,
-393_child,child,2099,CHILD,0717,
-394_boyboy,boy/boy (小伙子),1366,BOY,0719,
-395_girl,girl,1646,GIRL,0721,
-396_youngmanyouth,"young man, youth",76,YOUNG MAN,0723,
-397_younglady,young lady,77,YOUNG WOMAN,0725,
-398_adultgrownups,"adult, grown-ups",,,0727,
-399_oldperson,old person,725,OLD PERSON,0729,
-400_young,young,1207,YOUNG,0731,
-401_old,old,1229,OLD,0733,
-402_father,father,1217,FATHER,0736,
-403_mother,mother,1216,MOTHER,0738,
-404_parents,parents,505,PARENTS,0740,
-405_grandfather,grandfather,1383,GRANDFATHER,0742,
-406_grandmother,grandmother,1496,GRANDMOTHER,0744,
-407_uncle,uncle,1327,UNCLE,0746,
-408_unclematrilineal,uncle (matrilineal),3220,MATERNAL UNCLE,0747,
-409_aunt,aunt,1272,AUNT,0749,
-410_auntmatrilineal,aunt (matrilineal),2176,MATERNAL AUNT,0750,
-411_son,son,1620,SON,0752,
-412_daughter,daughter,1357,DAUGHTER,0754,
-413_brothersiblings,"brother, siblings",1262,BROTHER,0756,
-414_sister,sister,1263,SISTER,0758,
-415_nephewnephewbrotherssonsistersson,nephew/nephew (brother's son / sister's son),1063,NEPHEW,0760,
-416_niece,niece,1642,NIECE,0762,
-417_cousin,cousin,1643,COUSIN,0764,
-418_husband,husband,1200,HUSBAND,0766,
-419_spouse,spouse,2514,SPOUSE,0767,
-420_wife,wife,1199,WIFE,0769,
-421_bridesonswife,bride (son's wife),,,0771,
-422_bride,bride,1266,BRIDE,0772,
-423_soninlaw,son-in-law,1056,SON-IN-LAW,0774,
-424_marryv,marry (v),203,MARRY,0776,
-425_widow,widow,1756,WIDOW,0778,
-426_widower,widower,1981,WIDOWER,0779,
-427_enemy,enemy,1358,ENEMY,0781,
-428_servant,servant,255,SERVANT,0783,
-429_village,village,930,VILLAGE,0786,
-430_town,town,1391,TOWN,0788,
-431_market,market,633,MARKET,0790,
-432_huntvt,hunt (vt),1435,HUNT,0792,
-433_shootagunv,shoot (a gun) (v),1172,SHOOT,0794,
-434_shootv,shoot (v),,,0795,
-435_trap,trap,1075,TRAP (PITFALL),0797,
-436_fishwithalinev,fish with a line (v),2796,FISHING (WITH A HOOK),0799,
-437_rich,rich,712,RICH,0801,
-438_richrich,rich/rich (富裕),712,RICH,0802,
-439_poor,poor,1674,POOR,0804,
-440_tattered,tattered,,,0805,
-441_stealvt,steal (vt),713,STEAL,0807,
-442_robvt,rob (vt),2073,ROB (VERB),0809,
-443_field,field,212,FIELD,0811,
-444_workv,work (v),1086,WORK (ACTIVITY),0813,
-445_restv,rest (v),168,REST,0815,
-446_cultivatevt,cultivate (vt),1541,CULTIVATE,0817,
-447_sowvt,sow (vt),748,SOW SEEDS,0819,
-448_reapvt,reap (vt),,,0821,
-449_peelvt,peel (vt),275,PEEL,0823,
-450_knitvt,knit (vt),2905,KNIT,0825,
-451_twistaropev,twist a rope (v),,,0826,
-452_spinvt,spin (vt),121,SPIN,0828,
-453_weavevt,weave (vt),133,WEAVE,0830,
-454_govi,go (vi),695,GO,0833,
-455_comevi,come (vi),1446,COME,0835,
-456_remainvi,remain (vi),987,REMAIN,0837,
-457_getoutvi,get out (vi),,,0839,
-458_enterv,enter (v),749,ENTER,0841,
-459_turnvi,turn (vi),1444,TURN AROUND,0843,
-460_twisted,twisted,,,0844,
-461_turnaroundvi,turn around (vi),1444,TURN AROUND,0846,
-462_turnaroundvt,turn around (vt),1445,TURN (SOMETHING),0847,
-463_getlostvi,get lost (vi),423,GET LOST,0849,
-464_arrivevi,arrive (vi),1387,ARRIVE,0851,
-465_reachv,reach (v),,,0852,
-466_stopv,stop (v),2880,HALT (STOP),0854,
-467_stopvt,stop (vt),3351,STOP DOING,0855,
-468_perchonv,perch on (v),,,0856,
-469_gooverv,go over (v),,,0860,
-470_walkvi,walk (vi),1443,WALK,0862,
-471_runvi,run (vi),1519,RUN,0864,
-472_swift,swift,1631,FAST,0866,
-473_slow,slow,701,SLOW,0868,
-474_slowly,slowly,,,0869,
-475_creepvi,creep (vi),3215,CREEP,0871,
-476_rideitvt,ride it (vt),367,RIDE,0873,
-477_carryvt,carry (vt),700,CARRY,0875,
-478_road,road,667,ROAD,0877,
-479_ontheway,on the way,,,0879,
-480_bridge,bridge,1011,BRIDGE,0881,
-481_travelpilgrimv,travel (pilgrim) (v),,,0883,
-482_traveltourismv,travel (tourism) (v),,,0884,
-483_cart,cart,122,CART,0886,
-484_wheel,wheel,710,WHEEL,0888,
-485_boat,boat,1844,BOAT,0890,
-486_riverboatofleather,riverboat (of leather),,,0891,
-487_oar,oar,3137,OAR,0893,
-488_rowvt,row (vt),1849,ROW,0895,
-489_language,language,1307,LANGUAGE,0898,
-490_word,word,1599,WORD,0899,
-491_speakv,speak (v),1623,SPEAK,0901,
-492_explainv,explain (v),1626,EXPLAIN,0902,
-493_sayvsayv,say (v)/say (v.),1458,SAY,0904,
-494_shutupvi,shut up (vi),,,0906,
-495_askv,ask (v),1828,ASK (REQUEST),0908,
-496_answerv,answer (v),1275,ANSWER,0910,
-497_lien,lie (n),2826,LIE (FALSEHOOD),0912,
-498_faken,fake (n),,,0913,
-499_truth,truth,1638,TRUTH,0915,
-500_letter,letter,1612,LETTER,0917,
-501_writevt,write (vt),1672,WRITE,0919,
-502_ink,ink,2643,INK,0920,
-503_pen,pen,794,PEN,0921,
-504_readv,read (v),724,READ,0923,
-505_paper,paper,648,PAPER,0925,
-506_pointtovt,point to (vt),2669,POINT (WITH FINGER),0927,
-507_callv,call (v),1084,CALL,0929,
-508_commandv,command (v),1998,COMMAND,0931,
-509_mark,mark,1720,SIGN,0933,
-510_name,name,1405,NAME,0935,
-511_play,play,1413,PLAY,0938,
-512_singv,sing (v),1261,SING,0940,
-513_dancev,dance (v),1879,DANCE,0942,
-514_givehandv,"give, hand (v)",1447,GIVE,0945,
-515_obtainv,obtain (v),694,GET,0947,
-516_sellvt,sell (vt),1571,SELL,0949,
-517_buyvt,buy (vt),1869,BUY,0951,
-518_wages,wages,1122,WAGES,0952,
-519_commerce,commerce,,,0953,
-520_profit,profit,2929,BENEFIT,0954,
-521_loss,loss,,,0955,
-522_price,price,657,PRICE,0956,
-523_expensive,expensive,1426,EXPENSIVE,0957,
-524_cheap,cheap,1887,CHEAP,0958,
-525_banknote,bank note,,,0959,
-526_lendv,lend (v),582,LEND,0961,
-527_borrowv,borrow (v),1823,BORROW,0963,
-528_sendv,send (v),1127,SEND,0965,
-529_meetcrushv,"meet, crush (v)",,,0968,
-530_waitv,wait (v),1590,WAIT (FOR),0970,
-531_imitatev,imitate (v),117,IMITATE,0972,
-532_praisev,praise (v),3455,COMMEND,0974,
-533_scoldv,scold (v),299,SCOLD,0976,
-534_deceivev,deceive (v),3230,DECEIVE,0978,
-535_hitvt,hit (vt),1433,HIT,0980,
-536_clapv,clap (v),3110,CLAP,0981,
-537_helpv,help (v),1897,HELP,0983,
-538_bitev,bite (v),1403,BITE,0986,
-539_takev,take (v),1749,TAKE,0988,
-540_holdv,hold (v),1448,HOLD,0990,
-541_seizevt,seize (vt),855,SEIZE,0992,
-542_seizevt,seize (vt),855,SEIZE,0993,
-543_releasev,release (v),1095,LET GO OR SET FREE,0995,
-544_throwv,throw (v),1456,THROW,0997,
-545_throwstgintov,throw stg into (v),,,0999,
-546_throwawayv,throw away (v),,,1000,
-547_scattervt,scatter (vt),,,1001,
-548_touchv,touch (v),1892,TOUCH,1003,
-549_rubv,rub (v),1449,RUB,1005,
-550_wavev,wave (v),3544,WAVE (VERB),1007,
-551_shakev,shake (v),1909,SHAKE,1009,
-552_stirv,stir (v),696,STIR,1010,
-553_earthquake,earthquake,6,EARTHQUAKE,1011,
-554_pushvt,push (vt),1452,PUSH,1013,
-555_pressvt,press (vt),1913,PRESS,1015,
-556_oppressvt,oppress (vt),401,OPPRESS,1016,
-557_pullvt,pull (vt),1455,PULL,1018,
-558_lengthenvt,lengthen (vt),,,1020,
-559_postponev,postpone (v),,,1021,
-560_squeezev,squeeze (v),1414,SQUEEZE,1023,
-561_buckletiev,"buckle, tie (v)",1917,TIE,1024,
-562_carryonthebackv,carry on the back (v),465,CARRY ON BACK,1026,
-563_kickv,kick (v),1135,KICK,1028,
-564_treadonit,tread on it,575,TREAD,1030,
-565_usev,use (v),2072,USE (VERB),1032,
-566_useful,useful,,,1033,
-567_loseitv,lose it (v),1660,LOSE,1035,
-568_hideitv,hide it (v),2486,HIDE,1037,
-569_coverconcealv,"cover, conceal (v)",602,HIDE (CONCEAL),1038,
-570_putitawayv,put it away (v),,,1040,
-571_thinkagreatdealofv,think a great deal of (v),,,1041,
-572_seekitv,seek it (v),1468,LOOK FOR,1043,
-573_finditv,find it (v),719,FIND,1045,
-574_showitv,show it (v),1039,SHOW,1047,
-575_putitv,put it (v),998,PUT,1049,
-576_wrapitv,wrap it (v),1113,WRAP,1051,
-577_spreaditoutv,spread it out (v),38,SPREAD OUT,1053,
-578_spreaditoutv,spread it out (v),38,SPREAD OUT,1054,
-579_hangitonv,hang it on (v),,,1056,
-580_leashv,leash (v),2959,LEASH,1058,
-581_putitinv,put it in (v),,,1060,
-582_putitinpourv,"put it in, pour (v)",1487,POUR,1061,
-583_putitoutv,put it out (v),,,1063,
-584_collectv,collect (v),7,GATHER,1065,
-585_savestoreupv,"save, store up (v)",,,1066,
-586_makev,make (v),734,MAKE,1068,
-587_destroyitv,destroy it (v),681,DESTROY,1070,
-588_repairitv,repair it (v),2243,REPAIR,1072,
-589_splitvi,split (vi),1437,SPLIT,1074,
-590_splitvi,split (vi),1437,SPLIT,1075,
-591_tearvt,tear (vt),1735,TEAR (SHRED),1076,
-592_benditv,bend it (v),2224,BEND (SOMETHING),1078,
-593_foldv,fold (v),1470,FOLD,1080,
-594_foldv,fold (v),1470,FOLD,1081,
-595_washitv,wash it (v),1453,WASH,1083,
-596_rollitv,roll it (v),827,ROLL,1085,
-597_winditv,wind it (v),1113,WRAP,1086,
-598_tieitv,tie it (v),1917,TIE,1088,
-599_untieitv,untie it (v),352,UNTIE,1091,
-600_untieitv,untie it (v),352,UNTIE,1092,
-601_comeloosevi,come loose (vi),,,1093,
-602_comeloosevi,come loose (vi),,,1094,
-603_coveritupv,cover it (up) (v),761,COVER,1096,
-604_swellv,swell (v),1573,SWELL,1098,
-605_swellv,swell (v),1573,SWELL,1099,
-606_makeitbulgev,make it bulge (v),,,1101,
-607_jointhemvt,join them (vt),,,1103,
-608_jointhemvt,join them (vt),,,1104,
-609_connectvt,connect (vt),2862,CONNECT,1105,
-610_leashdragv,"leash, drag (v)",2959,LEASH,1106,
-611_bethrownintov,be thrown into (v),,,1107,
-612_separatevt,separate (vt),1359,SEPARATE,1109,
-613_pullitoutv,pull it out (v),2325,PULL OUT,1111,
-614_pullitoutv,pull it out (v),2325,PULL OUT,1112,
-615_stubv,stub (v),,,1114,
-616_cutvt,cut (vt),1432,CUT,1116,
-617_cutoffseverv,"cut off, sever (v)",,,1117,
-618_snapvi,snap (vi),459,SNAPP (OF STICK),1118,
-619_chopupvt,chop up (vt),2149,CHOP (INTO PIECES),1119,
-620_shearv,shear (v),1532,SHEAR,1120,
-621_cutoutclothv,cut out cloth (v),,,1121,
-622_cuthairvt,cut (hair) (vt),,,1122,
-623_mixitv,mix it (v),2017,MIX,1124,
-624_carveitv,carve it (v),228,CARVE,1126,
-625_digaholevt,dig (a hole) (vt),1418,DIG,1128,
-626_digvt,dig (vt),1418,DIG,1129,
-627_digvt,dig (vt),1418,DIG,1130,
-628_doitv,do it (v),813,DO,1133,
-629_doitv,do it (v),813,DO,1134,
-630_doitv,do it (v),813,DO,1135,
-631_beginitvt,begin it (vt),1806,BEGIN,1137,
-632_beginvi,begin (vi),3449,START,1138,
-633_endvi,end (vi),1928,CEASE,1140,
-634_exhaustvi,exhaust (vi),,,1142,
-635_continuev,continue (v),,,1145,
-636_stopitv,stop it (v),3351,STOP DOING,1147,
-637_giveupv,give up (v),1097,ABANDON,1148,
-638_declinev,decline (v),,,1149,
-639_stopahabitvt,stop (a habit) (vt),,,1150,
-640_movev,move (v),765,MOVE,1152,
-641_slidev,slide (v),,,1154,
-642_falldownv,fall down (v),2894,TUMBLE (FALL DOWN),1156,
-643_fallupsidedownv,fall upside down (v),,,1157,
-644_assemblevi,assemble (vi),,,1159,
-645_meetassemblev,"meet, assemble (v)",,,1160,
-646_bouncev,bounce (v),,,1162,
-647_jumpv,jump (v),1829,JUMP,1164,
-648_risevrisev,rise (v)/rise (上去) (v),3207,GO UP OR RISE (ONESELF),1166,
-649_risev,rise (v),,,1167,
-650_godownstepdownv,"go down, step down (v)",2014,GO DOWN (DESCEND),1169,
-651_falldownv,fall down (v),2894,TUMBLE (FALL DOWN),1170,
-652_fallv,fall (v),1280,FALL,1172,
-653_getwetv,get wet (v),2324,GET WET,1174,
-654_humid,humid,143,HUMID,1175,
-655_dryvt,dry (vt),1786,DRY UP,1177,
-656_comparev,compare (v),,,1179,
-657_chooseitv,choose it (v),1750,CHOOSE,1181,
-658_getusedvi,get used (vi),,,1183,
-659_closetointimatewithbev,"close to, intimate with (be v)",,,1184,
-660_hurryrushv,"hurry, rush (v)",754,HURRY,1186,
-661_changevi,change (vi),1264,CHANGE,1188,
-662_changevt,change (vt),1264,CHANGE,1189,
-663_skilful,skilful,,,1191,
-664_thinkv,think (v),2271,THINK,1194,
-665_thinkv,think (v),2271,THINK,1195,
-666_thinkv,think (v),2271,THINK,1196,
-667_decidev,decide (v),685,DECIDE,1197,
-668_agreev,agree (v),,,1198,
-669_knowv,know (v),1410,KNOW (SOMETHING),1200,
-670_understandv,understand (v),1536,UNDERSTAND,1202,
-671_learnitbyheartmemorizeitv,"learn it (by heart), memorize it (v)",71,BY HEART,1204,
-672_learnitbyheartmemorizeitv,"learn it (by heart), memorize it (v)",71,BY HEART,1205,
-673_forgetv,forget (v),1523,FORGET,1207,
-674_recallitv,recall it (v),707,REMEMBER,1209,
-675_teachv,teach (v),709,TEACH,1211,
-676_learnitv,learn it (v),504,LEARN,1213,
-677_afraid,afraid,,,1215,
-678_getsurprisedv,get surprised (v),,,1217,
-679_likeitv,like it (v),1117,LIKE,1219,
-680_tenderatbev,tender at (be v),,,1220,
-681_dislikeitv,dislike it (v),,,1222,
-682_hatev,hate (v),1607,HATE,1223,
-683_envyv,envy (v),40,ENVY,1225,
-684_jealous,jealous,2821,JEALOUS,1226,
-685_avaricious,avaricious,1774,STINGY,1227,
-686_stingystingy,stingy/stingy (小气，舍不得),,,1228,
-687_glad,glad,,,1230,
-688_comfortablehappy,"comfortable, happy",1495,HAPPY,1231,
-689_sad,sad,699,SAD,1233,
-690_hesitatev,hesitate (v),,,1235,
-691_doubtitv,doubt it (v),3536,DOUBT (SOMETHING),1236,
-692_strangerareodd,"strange, rare, odd",600,STRANGE,1237,
-693_strange,strange,600,STRANGE,1238,
-694_believeitv,believe it (v),1890,BELIEVE,1240,
-695_getangryv,get angry (v),2215,BECOME ANGRY,1242,
-696_getangryv,get angry (v),2215,BECOME ANGRY,1243,
-697_forgivev,forgive (v),1528,FORGIVE,1245,
-698_sorry,Sorry.,,,1246,
-699_cautiousbev,cautious (be v),,,1247,
-700_feelbashfulv,feel bashful (v),,,1249,
-701_worryv,worry (v),150,WORRY,1251,
-702_worryaboutv,worry about (v),150,WORRY,1252,
-703_busybev,busy (be v),2755,BUSY,1253,
-704_bepatientbearv,"be patient, bear (v)",,,1255,
-705_dullslowbev,"dull, slow (be v)",,,1257,
-706_foolish,foolish,,,1258,
-707_clever,clever,1310,CLEVER,1260,
-708_clever,clever,1310,CLEVER,1261,
-709_clever,clever,1310,CLEVER,1262,
-710_mind,mind,1562,MIND,1264,
-711_mind,mind,1562,MIND,1265,
-712_mind,mind,1562,MIND,1266,
-713_mad,mad,1899,MAD,1268,
-714_sky,sky,1732,SKY,1271,
-715_weather,weather,952,WEATHER,1273,
-716_cloud,cloud,1489,CLOUD,1275,
-717_fog,fog,249,FOG,1277,
-718_rain,rain,658,RAIN (PRECIPITATION),1279,
-719_rainv,rain (v),1253,RAIN (RAINING),1280,
-720_thunder,thunder,1150,THUNDER,1282,
-721_lightning,lightning,1654,LIGHTNING,1284,
-722_rainbow,rainbow,1733,RAINBOW,1286,
-723_snow,snow,784,SNOW,1288,
-724_ice,ice,617,ICE,1290,
-725_freezev,freeze (v),1431,FREEZE,1292,
-726_meltv,melt (v),2334,MELT,1294,
-727_sun,sun,1343,SUN,1296,
-728_moon,moon,1313,MOON,1298,
-729_mensesmensesthewaisthurts,menses/menses ('the waist hurts'),766,MENSTRUATION,1299,
-730_star,star,1430,STAR,1301,
-731_light,light,630,LIGHT (RADIATION),1303,
-732_shadow,shadow,1388,SHADE,1305,
-733_brightlight,"bright, light",679,BRIGHT,1307,
-734_brightclear,"bright, clear",679,BRIGHT,1308,
-735_dark,dark,706,DARK,1310,
-736_wind,wind,960,WIND,1312,
-737_wind,wind,960,WIND,1313,
-738_blowvi,blow (vi),175,BLOW (OF WIND),1315,
-739_blowvt,blow (vt),176,BLOW (WITH MOUTH),1316,
-740_quiet,quiet,1314,QUIET,1318,
-741_hot,hot,1286,HOT,1320,
-742_cold,cold,1287,COLD,1322,
-743_cool,cool,,,1324,
-744_warmofweather,warm (of weather),2110,WARM (OF WEATHER),1326,
-745_mountain,mountain,639,MOUNTAIN,1328,
-746_valley,valley,921,VALLEY,1330,
-747_forest,forest,420,FOREST,1332,
-748_plain,plain,652,PLAIN,1334,
-749_marsh,marsh,,,1336,
-750_lake,lake,624,LAKE,1338,
-751_pond,pond,2035,POND,1339,
-752_spring,spring,849,SPRING (OF WATER),1341,
-753_river,river,666,RIVER,1343,
-754_stream,stream,947,STREAM,1344,
-755_water,water,948,WATER,1346,
-756_bubble,bubble,,,1348,
-757_sinkv,sink (v),1088,SINK (DESCEND),1350,
-758_floatv,float (v),1574,FLOAT,1352,
-759_flowv,flow (v),2003,FLOW,1354,
-760_waterfall,waterfall,943,WATERFALL,1356,
-761_shore,shore,113,SHORE,1358,
-762_bank,bank,3463,RIVERBANK,1359,
-763_cliff,cliff,992,CLIFF,1361,
-764_rockymountain,rocky mountain,,,1362,
-765_wave,wave,978,WAVE,1364,
-766_island,island,622,ISLAND,1366,
-767_stone,stone,857,STONE,1368,
-768_rock,rock,668,ROCK,1370,
-769_sand,sand,671,SAND,1372,
-770_earth,earth,1228,EARTH (SOIL),1374,
-771_redclay,red clay,,,1375,
-772_mud,mud,640,MUD,1377,
-773_clay,clay,1399,CLAY,1379,
-774_iron,iron,621,IRON,1381,
-775_stain,stain,3064,RUST,1382,
-776_gold,gold,1369,GOLD,1384,
-777_silver,silver,759,SILVER,1386,
-778_copper,copper,1825,COPPER,1388,
-779_lead,lead,627,LEAD (CHEMICAL ELEMENT),1390,
-780_brass,brass,,,1391,
-781_juniper,juniper,,,1394,
-782_pine,pine,1740,PINE,1395,
-783_tree,tree,906,TREE,1396,
-784_grass,grass,606,GRASS,1398,
-785_trunk,trunk,344,TREE TRUNK,1400,
-786_bark,bark,1204,BARK,1402,
-787_stem,stem,2628,PLANT STEM,1404,
-788_branch,branch,1531,BRANCH,1406,
-789_leaf,leaf,628,LEAF,1408,
-790_leaf,leaf,628,LEAF,1409,
-791_vine,vine,343,VINE,1411,
-792_thorn,thorn,124,THORN,1413,
-793_flower,flower,239,FLOWER,1415,
-794_root,root,670,ROOT,1417,
-795_comeoutv,come out (v),,,1419,
-796_bearfruitvbearfruitv,bear fruit (v)/bear fruit (果物) (v),3054,BEAR FRUIT,1421,
-797_witherv,wither (v),,,1423,
-798_bamboo,bamboo,1927,BAMBOO,1425,
-799_cane,cane,,,1426,
-800_mushroom,mushroom,641,MUSHROOM,1428,
-801_animal,animal,619,ANIMAL,1431,
-802_quadruped,quadruped,,,1433,
-803_beast,beast,958,WILD ANIMAL,1434,
-804_packanimal,pack animal,,,1435,
-805_livestock,livestock,631,LIVESTOCK,1436,
-806_bird,bird,937,BIRD,1438,
-807_fish,fish,227,FISH,1440,
-808_worm,worm,1219,WORM,1442,
-809_dog,dog,2009,DOG,1444,
-810_cat,cat,1208,CAT,1446,
-811_lynx,lynx,3314,LYNX,1447,
-812_wildcat,wildcat,2241,WILD CAT,1448,
-813_horse,horse,615,HORSE,1450,
-814_donkey,donkey,1862,DONKEY,1451,
-815_saddle,saddle,3065,SADDLE,1452,
-816_mule,mule,890,MULE,1453,
-817_cattle,cattle,1153,CATTLE,1455,
-818_cattle,cattle,1153,CATTLE,1456,
-819_yak,yak,2477,YAK,1457,
-820_femaleyak,female yak,2479,FEMALE YAK,1458,
-821_wildyak,wild yak,,,1459,
-822_dzooxxfemaleyak,dzo (ox x female yak),,,1460,
-823_sheep,sheep,1331,SHEEP,1462,
-824_bharalbluesheep,"bharal, blue sheep",,,1463,
-825_argalisheep,argali sheep,,,1464,
-826_goat,goat,1502,GOAT,1466,
-827_pig,pig,1337,PIG,1468,
-828_hencock,"hen, cock",1318,CHICKEN,1470,
-829_tiger,tiger,846,TIGER,1472,
-830_bear,bear,1820,BEAR,1474,
-831_wolf,wolf,522,WOLF,1476,
-832_fox,fox,1312,FOX,1478,
-833_deer,deer,1936,DEER,1480,
-834_ape,ape,,,1482,
-835_monkey,monkey,1350,MONKEY,1483,
-836_rabbit,rabbit,1136,RABBIT,1485,
-837_mouse,mouse,1491,MOUSE,1487,
-838_elephant,elephant,1290,ELEPHANT,1489,
-839_camel,camel,1871,CAMEL,1491,
-840_bat,bat,1793,BAT,1493,
-841_eagle,eagle,1905,EAGLE,1495,
-842_crane,crane,1830,CRANE,1497,
-843_swallow,swallow,3077,SWALLOW (BIRD),1499,
-844_littlecuckoo,little cuckoo,2934,CUCKOO,1500,
-845_pigeon,pigeon,1853,DOVE,1502,
-846_pigeon,pigeon,1853,DOVE,1503,
-847_crow,crow,913,CROW,1505,
-848_crow,crow,913,CROW,1506,
-849_owl,owl,735,OWL,1507,
-850_sparrow,sparrow,1854,SPARROW,1509,
-851_butterfly,butterfly,1791,BUTTERFLY,1511,
-852_ant,ant,587,ANT,1513,
-853_spider,spider,843,SPIDER,1515,
-854_honeybee,honey-bee,665,BEE,1517,
-855_mosquito,mosquito,1509,MOSQUITO,1519,
-856_fly,fly,,,1521,
-857_flea,flea,232,FLEA,1523,
-858_louse,louse,1392,LOUSE,1525,
-859_snake,snake,730,SNAKE,1527,
-860_lizard,lizard,632,LIZARD,1529,
-861_frog,frog,503,FROG,1530,
-862_horn,horn,1393,HORN (ANATOMY),1532,
-863_hair,hair,,,1534,
-864_mane,mane,1918,MANE,1535,
-865_skinfur,"skin, fur",580,FUR,1537,
-866_claw,claw,72,CLAW,1539,
-867_hoof,hoof,152,HOOF,1540,
-868_tail,tail,1220,TAIL,1542,
-869_taillong,tail (long),,,1543,
-870_beak,beak,73,BEAK,1545,
-871_wing,wing,1257,WING,1547,
-872_feather,feather,1201,FEATHER,1549,
-873_scalesoffish,scales of fish,266,SCALE,1551,
-874_scalesofsnake,scales of snake,,,1552,
-875_nest,nest,539,NEST,1554,
-876_flyv,fly (v),1441,FLY (MOVE THROUGH AIR),1556,
-877_swimv,swim (v),1439,SWIM,1558,
-878_cryv,cry (v),,,1560,
-879_layaneggv,lay an egg (v),2464,LAY EGGS,1562,
-880_raisev,raise (v),2134,RAISE (A CHILD),1564,
-881_shape,shape,,,1567,
-882_round,round,1395,ROUND,1569,
-883_round,round,1395,ROUND,1570,
-884_sharp,sharp,1396,SHARP,1572,
-885_blunt,blunt,379,BLUNT,1574,
-886_levelandsmooth,level and smooth,1234,SMOOTH,1576,
-887_flat,flat,1633,FLAT,1577,
-888_flat,flat,1633,FLAT,1578,
-889_hole,hole,1667,HOLE,1580,
-890_hollow,hollow,,,1582,
-891_straight,straight,1404,STRAIGHT,1584,
-892_straightadv,straight (adv),1404,STRAIGHT,1585,
-893_line,line,1048,LINE,1587,
-894_marks,marks,,,1589,
-895_marks,marks,,,1590,
-896_corner,corner,192,CORNER,1592,
-897_thing,thing,738,THING,1594,
-898_big,big,1202,BIG,1596,
-899_tall,tall,711,TALL,1598,
-900_little,little,1246,SMALL,1600,
-901_finemeshes,fine (meshes),,,1602,
-902_largemeshes,large (meshes),,,1604,
-903_long,long,1203,LONG,1606,
-904_short,short,1645,SHORT,1608,
-905_thickandround,thick (and round),,,1610,
-906_thin,thin,2308,THIN,1612,
-907_lean,lean,2219,LEAN (MEAT),1613,
-908_thickandflat,thick (and flat),,,1615,
-909_thinandflat,thin (and flat),,,1617,
-910_weaklightlyseasoned,"weak, lightly seasoned",,,1618,
-911_colorofdying,color (of dying),,,1620,
-912_colornatural,color (natural),,,1621,
-913_red,red,156,RED,1624,
-914_blue,blue,837,BLUE,1626,
-915_yellow,yellow,1424,YELLOW,1628,
-916_green,green,1425,GREEN,1630,
-917_white,white,1335,WHITE,1632,
-918_gray,gray,153,GREY,1633,
-919_black,black,163,BLACK,1635,
-920_paintv,paint (v),3122,PAINT (SOMETHING),1637,
-921_dyeitv,dye it (v),157,DYE,1639,
-922_soundnoise,"sound, noise",1811,SOUND OR NOISE,1641,
-923_asmell,a smell,,,1643,
-924_wildrude,"wild, rude",1412,RUDE,1646,
-925_badtemperedbadquality,bad-tempered/bad (quality),1292,BAD,1647,
-926_gentle,gentle,1954,GENTLE,1649,
-927_kind,kind,3299,KIND,1651,
-928_courageous,courageous,3,BRAVE,1653,
-929_courageous,courageous,3,BRAVE,1654,
-930_stingystingy,stingy/stingy (小气，小心眼),1774,STINGY,1656,
-931_honest,honest,1120,HONEST,1658,
-932_cunning,cunning,2335,CUNNING,1660,
-933_idleaboutbev,idle about (be v),2756,IDLE,1662,
-934_lazy,lazy,1564,LAZY,1663,
-935_strong,strong,785,STRONG,1665,
-936_strongpolitically,strong (politically),,,1666,
-937_strongquality,strong (quality),,,1667,
-938_weak,weak,1601,WEAK,1669,
-939_weakpolitically,weak (politically),,,1670,
-940_ofbadquality,of bad quality,,,1671,
-941_correct,correct,1725,CORRECT (RIGHT),1673,
-942_goodingeneralsense,good [in general sense],1035,GOOD,1675,
-943_appropriate,appropriate,,,1676,
-944_ofagoodquality,of a good quality,,,1677,
-945_famous,famous,,,1678,
-946_badingeneralsensebadpersonbad,bad [in general sense]/bad (person)/bad,,,1680,
-947_malicious,malicious,,,1681,
-948_easy,easy,686,EASY,1683,
-949_difficult,difficult,584,DIFFICULT,1685,
-950_dangerous,dangerous,3466,DANGEROUS,1687,
-951_tight,tight,3053,TIGHT,1689,
-952_loose,loose,2506,LOOSE,1691,
-953_softgentlesmooth,"soft, gentle, smooth",1856,SOFT,1693,
-954_smooth,smooth,1234,SMOOTH,1694,
-955_coarse,coarse,2151,COARSE,1696,
-956_old,old,1229,OLD,1698,
-957_new,new,1231,NEW,1700,
-958_prettycute,"pretty, cute",2410,GOOD-LOOKING,1702,
-959_beautiful,beautiful,1427,BEAUTIFUL,1703,
-960_poorpitiful,"poor, pitiful",1674,POOR,1704,
-961_ugly,ugly,1548,UGLY,1706,
-962_clean,clean,704,CLEAN,1708,
-963_dirty,dirty,1230,DIRTY,1710,
-964_hard,hard,1884,HARD,1712,
-965_soft,soft,1856,SOFT,1714,
-966_place,place,723,PLACE (POSITION),1717,
-967_front,front,2194,FRONT (PART),1719,
-968_back,back,2323,BACK (PART),1721,
-969_side,side,682,SIDE,1723,
-970_between,between,689,BETWEEN,1725,
-971_middle,middle,1093,MIDDLE,1727,
-972_on,on,,,1729,
-973_up,up,1591,UP,1730,
-974_upward,upward,,,1731,
-975_under,under,,,1733,
-976_down,down,,,1734,
-977_down,down,,,1735,
-978_down,down,,,1736,
-979_down,down,,,1737,
-980_downward,downward,1326,DOWN,1738,
-981_inside,inside,1606,INSIDE,1740,
-982_outside,outside,762,OUTSIDE,1742,
-983_right,right,1019,RIGHT,1744,
-984_left,left,244,LEFT,1746,
-985_tip,tip,2992,TIP (OF OBJECT),1748,
-986_edgetip,"edge, tip",863,EDGE,1749,
-987_edgehem,"edge, hem",,,1750,
-988_surroundings,surroundings,,,1752,
-989_updown,UP/DOWN,,,1754,
-990_near,near,1942,NEAR,1757,
-991_near,near,1942,NEAR,1758,
-992_far,far,1406,FAR,1760,
-993_far,far,1406,FAR,1761,
-994_high,high,1265,HIGH,1763,
-995_high,high,1265,HIGH,1764,
-996_low,low,721,LOW,1766,
-997_deep,deep,1593,DEEP,1768,
-998_shallow,shallow,193,SHALLOW,1770,
-999_wide,wide,1243,WIDE,1772,
-1000_narrow,narrow,1267,NARROW,1774,
-1001_together,together,2482,TOGETHER,1776,
-1002_eachother,each other,,,1777,
-1003_full,full,1429,FULL,1779,
-1004_empty,empty,1624,EMPTY,1781,
-1005_direction,direction,,,1783,
-1006_east,east,1877,EAST,1785,
-1007_west,west,1817,WEST,1787,
-1008_south,south,1595,SOUTH,1789,
-1009_north,north,1598,NORTH,1791,
-1010_dawn,dawn,729,DAWN,1794,
-1011_dawn,dawn,729,DAWN,1795,
-1012_morning,morning,1339,MORNING,1797,
-1013_noon,noon,12,MIDDAY,1799,
-1014_daytime,daytime,1225,DAY (NOT NIGHT),1801,
-1015_evening,evening,1629,EVENING,1803,
-1016_night,night,1233,NIGHT,1805,
-1017_nightnight03am,night/night (0-3AM),,,1806,
-1018_early,early,672,EARLY,1808,
-1019_late,late,477,LATE,1810,
-1020_now,now,1376,NOW,1812,
-1021_atonce,at once,,,1814,
-1022_previously,previously,,,1816,
-1023_after,after,1685,AFTER,1818,
-1024_next,next,1354,NEXT,1820,
-1025_always,always,1676,ALWAYS,1822,
-1026_always,always,1676,ALWAYS,1823,
-1027_often,often,1852,OFTEN,1825,
-1028_sometimes,sometimes,1544,SOMETIMES,1827,
-1029_today,today,1283,TODAY,1829,
-1030_yesterday,yesterday,1174,YESTERDAY,1831,
-1031_tomorrow,tomorrow,1329,TOMORROW,1833,
-1032_thedayaftertomorrow,the day after tomorrow,1179,DAY AFTER TOMORROW,1834,
-1033_everyday,everyday,,,1836,
-1034_day,day,1260,DAY (24 HOURS),1838,
-1035_date,date,,,1839,
-1036_date,date,,,1840,
-1037_week,week,1469,WEEK,1842,
-1038_month,month,1370,MONTH,1844,
-1039_year,year,1226,YEAR,1846,
-1040_calendar,calendar,1967,CALENDAR,1847,
-1041_age,age,1789,AGE,1849,
-1042_spring,spring,1537,SPRINGTIME,1851,
-1043_summer,summer,1342,SUMMER,1853,
-1044_autumn,autumn,1276,AUTUMN,1855,
-1045_winter,winter,1471,WINTER,1857,
-1046_around,around,,,1859,
-1047_timetodo,time to do,,,1860,
-1048_ididnthavetimetoeatdinneryesterdayevening,I didn't have time to eat dinner yesterday evening.,,,1861,
-1049_period,period,508,PERIOD,1862,
-1050_count,count,1420,COUNT,1864,
-1051_number,number,1356,NUMBER,1865,
-1052_numberfigure,"number, figure",1356,NUMBER,1866,
-1053_numberfigure,"number, figure",1356,NUMBER,1867,
-1054_one,one,1493,ONE,1869,
-1055_two,two,1498,TWO,1871,
-1056_three,three,492,THREE,1873,
-1057_four,four,1500,FOUR,1875,
-1058_five,five,493,FIVE,1877,
-1059_six,six,1703,SIX,1879,
-1060_seven,seven,1704,SEVEN,1881,
-1061_eight,eight,1705,EIGHT,1883,
-1062_nine,nine,1483,NINE,1885,
-1063_ten,ten,1515,TEN,1887,
-1064_eleven,eleven,1706,ELEVEN,1889,
-1065_twelve,twelve,1707,TWELVE,1891,
-1066_thirteen,thirteen,1708,THIRTEEN,1893,
-1067_fourteen,fourteen,2451,FOURTEEN,1895,
-1068_fifteen,fifteen,1709,FIFTEEN,1897,
-1069_sixteen,sixteen,2454,SIXTEEN,1899,
-1070_seventeen,seventeen,2453,SEVENTEEN,1901,
-1071_eighteen,eighteen,1713,EIGHTEEN,1903,
-1072_nineteen,nineteen,1714,NINETEEN,1905,
-1073_twenty,twenty,1710,TWENTY,1907,
-1074_twentyone,twenty one,1734,TWENTY ONE,1909,
-1075_twentytwo,twenty two,3166,TWENTY TWO,1911,
-1076_twentythree,twenty three,3165,TWENTY THREE,1913,
-1077_thirty,thirty,1715,THIRTY,1921,
-1078_forty,forty,1716,FORTY,1923,
-1079_fifty,fifty,1717,FIFTY,1925,
-1080_sixty,sixty,1718,SIXTY,1927,
-1081_seventy,seventy,1721,SEVENTY,1929,
-1082_eighty,eighty,1722,EIGHTY,1931,
-1083_ninety,ninety,1724,NINETY,1933,
-1084_hundred,hundred,1634,HUNDRED,1935,
-1085_twohundred,two hundred,2676,TWO HUNDRED,1937,
-1086_threehundred,three hundred,,,1939,
-1087_thousand,thousand,1843,THOUSAND,1941,
-1088_twothousand,two thousand,,,1943,
-1089_threethousand,three thousand,,,1945,
-1090_tenthousand,ten thousand,2078,TEN THOUSAND,1947,
-1091_twentythousand,twenty thousand,,,1949,
-1092_hundredthousand,hundred thousand,,,1951,
-1093_onemillion,one million,,,1953,
-1094_times,times,,,1959,
-1095_times,times,,,1961,
-1096_onebyone,one by one,,,1963,
-1097_order,order,1128,ORDER,1964,
-1098_first,first,728,FIRST,1966,
-1099_second,second,1384,SECOND,1968,
-1100_third,third,1859,THIRD,1970,
-1101_last,last,1529,LAST (FINAL),1972,
-1102_alone,alone,1964,ALONE,1974,
-1103_all,all,98,ALL,1976,
-1104_all,all,98,ALL,1977,
-1105_all,all,98,ALL,1978,
-1106_completely,completely,,,1979,
-1107_half,half,816,HALF,1981,
-1108_onethird,one third,,,1983,
-1109_aquarter,a quarter,,,1985,
-1110_both,both,,,1987,
-1111_measurev,measure (v),1506,MEASURE,1989,
-1112_scale,scale,,,1990,
-1113_scale,scale,,,1991,
-1114_heavy,heavy,1210,HEAVY,1993,
-1115_light,light,1052,LIGHT (WEIGHT),1995,
-1116_manymuch,"many, much",1198,MANY,1997,
-1117_fewlittle,"few, little",1242,FEW,1999,
-1118_increasev,increase (v),1041,INCREASE,2001,
-1119_decreasev,decrease (v),2864,DECREASE,2003,
-1120_ime,"I, me",1209,I,2006,
-1121_weusplural,"we, us [plural]",1212,WE,2008,
-1122_weusdual,"we, us [dual]",2634,WE TWO,2009,
-1123_yousg,you (sg.),1215,THOU,2011,
-1124_youplural,you [plural],1213,YOU,2013,
-1125_youtwodual,you two [dual],2111,YOU TWO,2014,
-1126_hehim,"he, him",1211,HE,2016,
-1127_sheher,"she, her",1834,SHE,2018,
-1128_theythemplural,"they, them [plural]",817,THEY,2020,
-1129_theytwodual,they two [dual],2635,THEY TWO,2021,
-1130_oneself,oneself,,,2023,
-1131_this,this,1214,THIS,2025,
-1132_that,that,78,THAT,2027,
-1133_this,this,1214,THIS,2029,
-1134_thatthatoverthere,"that, that... over there",,,2031,
-1135_thatthe,"that, the",,,2033,
-1136_likeinthiswaythiskindof,"like, in this way, this kind of",,,2034,
-1137_thatwaylikethat,"that way, like that",,,2035,
-1138_thatwaylikethat,"that way, like that",,,2037,
-1139_here,here,136,HERE,2039,
-1140_there,there,1937,THERE,2041,
-1141_there,there,1937,THERE,2043,
-1142_thiswayhere,"this way, here",,,2045,
-1143_thatwaythatwaynorththatwayeastthatwaysouth,that way/that way (north)/that way (east)/that way (south),,,2047,
-1144_thatwaythere,"that way, there",,,2049,
-1145_who,who,1235,WHO,2051,
-1146_what,what,1236,WHAT,2053,
-1147_which,which,727,WHICH,2055,
-1148_how,how,1239,HOW,2057,
-1149_where,where,1237,WHERE,2059,
-1150_where,where,1237,WHERE,2061,
-1151_why,why,1270,WHY,2063,
-1152_when,when,1238,WHEN,2065,
-1153_someday,some day,,,2067,
-1154_howmany,how many?,822,HOW MANY,2069,
-1155_howmany,how many?,822,HOW MANY,2070,
-1156_howlong,how long?,2338,HOW LONG,2071,
-1157_howbig,how big?,,,2072,
-1158_something,something,,,2074,
-1159_some,some,1241,SOME,2076,
-1160_verymuchvery,"very much, very",1311,VERY,2079,
-1161_notatall,not--at all,1240,NOT,2082,
-1162_notatall,not--at all,1240,NOT,2083,
-1163_thoroughly,thoroughly,,,2084,
-1164_thisboxistoobig,This box is too big.,,,2087,
-1165_givememore,Give me more.,,,2090,
-1166_abit,a bit,,,2091,
-1167_letsgoabitfurther,Let's go a bit further.,,,2092,
-1168_various,various,,,2093,
-1169_exactly,exactly,,,2095,
-1170_maybe,maybe,,,2097,
-1171_perhaps,perhaps,2278,PERHAPS,2098,
-1172_certainly,certainly,,,2100,
-1173_certainly,certainly,,,2101,
-1174_byallmeans,by all means,,,2102,
-1175_suddenly,suddenly,2920,SUDDENLY,2104,
-1176_suddenly,suddenly,2920,SUDDENLY,2105,
-1177_secretly,secretly,,,2106,
-1178_especiallyintentionally,"especially, intentionally",,,2107,
-1179_withmightandmain,with might and main,,,2108,
-1180_again,again,204,AGAIN,2110,
-1181_again,again,204,AGAIN,2111,
-1182_yetstill,"yet, still",,,2113,
-1183_yetstill,"yet, still",,,2114,
-1184_aminuteago,a minute ago,,,2116,
-1185_already,already,2576,ALREADY,2117,
-1186_eachother,each other,,,2119,
-1187_if,if,1459,IF,2121,
-1188_to,to,,,2124,
-1189_uptotill,"up to, till",,,2126,
-1190_untilnow,until now,,,2127,
-1191_from,from,693,FROM,2131,
-1192_in,in,1460,IN,2133,
-1193_aton,"at, on",1461,AT,2135,
-1194_with,with,1340,WITH,2137,
-1195_and,and,1577,AND,2139,
-1196_of,of,,,2141,
-1197_also,also,,,2143,
-1198_erthan,-er than,,,2145,
-1199_withbymeansof,"with, by means of",1340,WITH,2147,
-1200_only,only,1580,ONLY,2149,
-1201_exceptfor,except for,,,2153,
-1202_only,only,1580,ONLY,2154,
-1203_beis,"be, is",1579,BE,2156,
-1204_not,not,1240,NOT,2158,
-1205_donot,Do not,,,2160,
-1206_dontdrinkthiswater,Don't drink this water.,,,2161,
-1207_dontgo,Don't go.,,,2162,
-1208_dontcome,Don't come.,,,2163,
-1209_dontspit,Don't spit.,,,2164,
-1210_quotativeparticle,(quotative particle),,,2166,
-1211_hesaidicometomorrow,"(He) said, ""I come tomorrow.""",,,2167,
-1212_because,because,1157,BECAUSE,2169,
-1213_butthough,"but, though",,,2171,
-1214_butthough,"but, though",,,2172,
-1215_althoughitrainedheshowedup,"Although it rained, he showed up.",,,2173,
-1216_makesmetodostgordertov,"make sme to do stg, order to (v)",,,2175,
-1217_imadehimtogo,I made him to go.,,,2178,
-1218_iwanttotakepoultry,I want to take poultry.,,,2181,
-1219_wantsomethingv,want something (v),,,2182,
-1220_beis,"be, is",1579,BE,2185,
-1221_thereisno,there is no,,,2187,
-1222_becomev,become (v),1990,BECOME,2189,
-1223_hebecamemayor,He became mayor.,,,2190,
-1224_becomev,become (v),1990,BECOME,2191,
-1225_thistreegrowshigh,This tree grows high.,,,2192,
-1226_itwillgethotter,It will get hotter.,,,2194,
-1227_can,can,,,2196,
-1228_canknowhowto,"can, know how to",,,2197,
-1229_canbeabletomanage,"can, be able to manage",,,2198,
-1230_maybeallowedtodo,"may, be allowed to do",,,2199,
-1231_isitallowednowadaystogotosikkimviaindia,Is it allowed nowadays to go to Sikkim via India?,,,2200,
-1232_possessv,possess (v),,,2202,
-1233_needbenecessary,"need, be necessary",,,2204,
-1234_same,same,200,SAME,2206,
-1235_similar,similar,1558,SIMILAR,2208,
-1236_other,other,197,OTHER,2210,
-1237_differentfrom,different from,,,2212,
-1238_differentfrom,different from,,,2213,
-1239_differentseparate,"different, separate",,,2214,
-1240_forthesakeof,for the sake of,,,2216,
-1241_approximately,approximately,,,2218,
-1242_likeas,"like, as",,,2219,
-1243_andsoon,and so on,,,2220,
-1244_similar,similar,1558,SIMILAR,2223,
-1245_likeas,"like, as",,,2224,
-1246_ashesays,"As he says, …",,,2225,
-1247_oughtto,ought to,,,2227,
-1248_ioughttogotolhasa,I ought to go to Lhasa.,,,2228,
-1249_pleasedoit,please do it,,,2230,
-1250_pleaseeatplease,"Please eat, please.",,,2231,
-1251_hello,Hello.,3553,HELLO,2233,
-1252_goodbye,Good-bye,3554,GOODBYE,2235,
-1253_goodbye,Good-bye,3554,GOODBYE,2236,
-1254_thankyou,Thank you,,,2238,
-1255_comehere,Come here!,3555,COME HERE,2240,
-1256_look,Look!,,,2242,
+1_head,head,1256,HEAD,0003,1
+2_haveaheadachev,have a headache (v),,,0004,2
+3_stubbornpeoplesayhedoesnotlisten,stubborn/People say he does not listen.,,,0005,3
+4_hairofthehead,hair of the head,2678,HAIR OR FUR,0007,4
+5_brain,brain,1583,BRAIN,0009,5
+6_forehead,forehead,123,FOREHEAD,0011,6
+7_eye,eye,1248,EYE,0013,7
+8_eyeball,eyeball,3807,EYEBALL,0014,8
+9_eyebrow,eyebrow,1173,EYEBROW,0016,9
+10_eyelash,eyelash,1540,EYELASH,0017,10
+11_tears,tears,1651,TEAR (OF EYE),0019,11
+12_blind,blind,1653,BLIND,0021,12
+13_blind,blind,1653,BLIND,0022,13
+14_nose,nose,1221,NOSE,0024,14
+15_snivel,snivel,208,NASAL MUCUS (SNOT),0025,15
+16_ear,ear,1247,EAR,0027,16
+17_earwax,ear wax,32,EARWAX,0028,17
+18_deaf,deaf,996,DEAF,0030,18
+19_mouth,mouth,674,MOUTH,0032,19
+20_lips,lips,478,LIP,0034,20
+21_tongue,tongue,1205,TONGUE,0036,21
+22_dumb,dumb,1492,DUMB,0038,22
+23_tooth,tooth,1380,TOOTH,0040,23
+24_decayv,decay (v),,,0041,24
+25_spittle,spittle,1503,SALIVA,0043,25
+26_saliva,saliva,1503,SALIVA,0044,26
+27_phlegm,phlegm,3061,PHLEGM,0045,27
+28_breathev,breathe (v),1407,BREATHE,0047,28
+29_voice,voice,1363,VOICE,0049,29
+30_cough,cough,,,0051,30
+31_coughv,cough (v),879,COUGH,0053,31
+32_sneeze,sneeze,,,0055,32
+33_sneezev,sneeze (v),1621,SNEEZE,0057,33
+34_yawn,yawn,1028,YAWN,0059,34
+35_hiccupv,hiccup (v),162,HICCOUGH,0060,35
+36_belchv,belch (v),2245,BELCH,0061,36
+37_jawchin,"jaw, chin",1510,CHIN,0063,37
+38_face,face,1560,FACE,0065,38
+39_feelshamedv,feel shamed (v),1894,ASHAMED,0066,39
+40_cheek,cheek,1730,CHEEK,0068,40
+41_temple,temple,1604,TEMPLES,0069,41
+42_mustache,mustache,1165,MOUSTACHE,0071,42
+43_beard,beard,678,BEARD,0072,43
+44_whiskers,whiskers,,,0073,44
+45_neck,neck,1333,NECK,0075,45
+46_neck,neck,1333,NECK,0076,46
+47_nape,nape,1347,NAPE (OF NECK),0077,47
+48_throat,throat,1346,THROAT,0079,48
+49_throat,throat,1346,THROAT,0080,49
+50_shoulder,shoulder,1482,SHOULDER,0082,50
+51_shoulderblade,shoulder blade,172,SHOULDERBLADE,0083,51
+52_arm,arm,1673,ARM,0085,52
+53_elbow,elbow,981,ELBOW,0087,53
+54_wrist,wrist,799,WRIST,0089,54
+55_hand,hand,1277,HAND,0091,55
+56_palm,palm,1183,PALM OF HAND,0093,56
+57_finger,finger,1303,FINGER,0095,57
+58_nail,nail,1258,FINGERNAIL,0101,58
+59_fist,fist,1473,FIST,0103,59
+60_breast,breast,1592,CHEST,0105,60
+61_breastofwoman,breast (of woman),1402,BREAST,0106,61
+62_mothersmilk,mother's milk,,,0107,62
+63_rib,rib,801,RIB,0109,63
+64_lungs,lungs,688,LUNG,0111,64
+65_heart,heart,1223,HEART,0113,65
+66_belly,belly,1251,BELLY,0115,66
+67_guts,guts,1334,GUTS,0118,67
+68_bowels,bowels,1991,INTESTINES,0120,68
+69_stomach,stomach,819,STOMACH,0122,69
+70_liver,liver,1224,LIVER,0124,70
+71_kidneys,kidneys,489,KIDNEY,0126,71
+72_navel,navel,1838,NAVEL,0128,72
+73_back,back,1291,BACK,0130,73
+74_backvsfront,back (vs. front),2323,BACK (PART),0131,74
+75_waist,waist,1681,WAIST,0133,75
+76_buttocks,buttocks,834,BUTTOCKS,0134,76
+77_excrement,excrement,675,FAECES (EXCREMENT),0136,77
+78_excrementofsheep,excrement of sheep,,,0137,78
+79_excrementofcattle,excrement of cattle,,,0138,79
+80_excrementofhorse,excrement of horse,,,0139,80
+81_excrementofdonkey,excrement of donkey,,,0140,81
+82_voidfecesvt,void feces (vt),676,SHIT (DEFECATE),0142,82
+83_voidfecesvi,void feces (vi),676,SHIT (DEFECATE),0143,83
+84_bladder,bladder,1746,BLADDER,0145,84
+85_urine,urine,1142,URINE,0147,85
+86_urinatev,urinate (v),592,PISS,0149,86
+87_toilet,toilet,219,TOILET,0151,87
+88_fart,fart,1159,FART,0153,88
+89_penis,penis,1222,PENIS,0155,89
+90_penis,penis,1222,PENIS,0156,90
+91_testicles,testicles,797,TESTICLES,0158,91
+92_testicles,testicles,797,TESTICLES,0159,92
+93_vulva,vulva,1837,VULVA,0161,93
+94_thigh,thigh,471,UPPER LEG (THIGH),0163,94
+95_knee,knee,1371,KNEE,0165,95
+96_leg,leg,1297,LEG,0167,96
+97_shin,shin,186,SHIN,0168,97
+98_calf,calf,1989,CALF,0169,98
+99_foot,foot,1301,FOOT,0171,99
+100_limpv,limp (v),366,LIMP,0173,100
+101_body,body,1480,BODY,0175,101
+102_corpse,corpse,767,CORPSE,0176,102
+103_hairofskin,hair of skin,189,HAIR (BODY),0178,103
+104_skin,skin,763,SKIN,0180,104
+105_birthmark,birth-mark,1751,BIRTHMARK,0182,105
+106_bruise,bruise,1148,BRUISE,0183,106
+107_mole,mole,1907,MOLE,0185,107
+108_pockmark,pockmark,530,FRECKLE,0187,108
+109_aburn,a burn,3622,BURN (INJURY),0189,109
+110_pus,pus,1808,PUS,0192,110
+111_sweat,sweat,125,SWEAT (SUBSTANCE),0194,111
+112_dirt,dirt,25,DIRT,0196,112
+113_blood,blood,946,BLOOD,0198,113
+114_bone,bone,1394,BONE,0200,114
+115_marrow,marrow,1835,MARROW,0201,115
+116_flesh,flesh,2259,FLESH,0203,116
+117_strength,strength,202,STRENGTH,0205,117
+118_powerpolitical,power (political),2526,POWER,0206,118
+119_lookatvt,look at (vt),1819,LOOK,0208,119
+120_seevi,see (vi),1409,SEE,0209,120
+121_smellitv,smell it (v),1586,SMELL (PERCEIVE),0211,121
+122_listentovt,listen to (vt),1608,LISTEN,0213,122
+123_hearvi,hear (vi),1408,HEAR,0214,123
+124_laughv,laugh (v),1355,LAUGH,0216,124
+125_cryweepv,"cry, weep (v)",1839,CRY,0218,125
+126_shoutv,shout (v),715,SHOUT,0220,126
+127_clothing,clothing,,,0223,127
+128_clothsingeneral,cloths in general,1895,CLOTHES,0224,128
+129_tibetancloth,Tibetan cloth,,,0226,129
+130_sleeve,sleeve,2953,SLEEVE,0227,130
+131_clothev,clothe (v),,,0232,131
+132_wearv,wear (v),976,WEAR,0232a,132
+133_dresssmstgvt,dress sm stg (vt),814,DRESS UP,0234,133
+134_takeoffvt,take off (vt),1755,UNDRESS,0236,134
+135_naked,naked,590,NAKED,0238,135
+136_hat,hat,771,HAT,0240,136
+137_umbrella,umbrella,3105,UMBRELLA,0242,137
+138_pagne,pagne,1965,LOINCLOTH,0244,138
+139_trousers,trousers,809,TROUSERS,0246,139
+140_belt,belt,772,BELT,0248,140
+141_collar,collar,2012,COLLAR,0250,141
+142_shoe,shoe,1381,SHOE,0252,142
+143_barefooted,barefooted,3737,BAREFOOT,0254,143
+144_clothn,cloth (n),1616,CLOTH,0256,144
+145_cotton,cotton,1850,COTTON,0258,145
+146_flax,flax,916,LINEN,0260,146
+147_woolwool,wool/wool (山羊毛),964,WOOL,0262,147
+148_fur,fur,580,FUR,0264,148
+149_tannedleather,tanned leather,629,LEATHER,0265,149
+150_comb,comb,1475,COMB,0267,150
+151_ringfinger,ring (finger),1374,RING,0269,151
+152_necklace,necklace,1961,NECKLACE,0271,152
+153_decoratev,decorate (v),1739,DECORATE,0273,153
+154_scissors,scissors,356,SHEARS,0275,154
+155_needle,needle,1382,NEEDLE (FOR SEWING),0277,155
+156_thread,thread,1161,THREAD,0279,156
+157_sewv,sew (v),1457,SEW,0281,157
+158_foodfoodstuff,"food, food stuff",256,FOOD,0284,158
+159_foodmeal,"food, meal",3542,PREPARED FOOD,0285,159
+160_rice,rice,926,RICE,0287,160
+161_riceplant,rice plant,2026,RICE PLANT,0289,161
+162_wheat,wheat,1077,WHEAT,0291,162
+163_barley,barley,932,BARLEY,0293,163
+164_grain,grain,605,GRAIN,0295,164
+165_beanpeabeanpea,"bean, pea/bean, pea (蓲豆)",2574,BEAN OR PEA,0298,165
+166_flour,flour,1594,FLOUR,0300,166
+167_wheatflour,wheat flour,1594,FLOUR,0301,167
+168_tsampa,Tsampa,,,0302,168
+169_potato,potato,593,POTATO,0304,169
+170_meat,meat,634,MEAT,0306,170
+171_onion,onion,2366,ONION,0308,171
+172_garlic,garlic,2368,GARLIC,0309,172
+173_vegetable,vegetable,924,VEGETABLES,0313,173
+174_fruit,fruit,1507,FRUIT,0318,174
+175_fruitoftree,fruit of tree,1507,FRUIT,0320,175
+176_seed,seed,714,SEED,0322,176
+177_fish,fish,227,FISH,0324,177
+178_egg,egg,744,EGG,0326,178
+179_salt,salt,1274,SALT,0328,179
+180_sugar,sugar,862,SUGAR,0330,180
+181_honey,honey,942,HONEY,0332,181
+182_oilasfood,oil as food,1484,OIL (ORGANIC SUBSTANCE),0334,182
+183_petroleum,petroleum,650,PETROLEUM,0335,183
+184_grease,grease,,,0337,184
+185_butter,butter,1245,BUTTER,0339,185
+186_cheese,cheese,1569,CHEESE,0340,186
+187_milk,milk,635,MILK,0342,187
+188_yogurt,yogurt,,,0343,188
+189_water,water,948,WATER,0345,189
+190_tea,tea,1373,TEA,0347,190
+191_papriceporridge,"pap, rice-porridge",2049,CONGEE,0351,191
+192_wine,wine,1524,WINE,0353,192
+193_liquor,liquor,842,LIQUOR,0354,193
+194_getdrunkv,get drunk (v),,,0356,194
+195_tobacco,tobacco,974,TOBACCO,0358,195
+196_cookvt,cook (vt),1100,COOK (SOMETHING),0360,196
+197_havecookedv,have cooked (v),,,0361,197
+198_cookn,cook (n),2315,COOK (PERSON),0361a,198
+199_getroastedvi,get roasted (vi),,,0365,199
+200_fryvt,fry (vt),991,FRY,0366,200
+201_havefriedvi,have fried (vi),,,0367,201
+202_boilvt,boil (vt),2492,BOIL (SOMETHING),0369,202
+203_getboiledvi,get boiled (vi),,,0370,203
+204_raw,raw,1959,RAW,0372,204
+205_ripe,ripe,178,RIPE,0374,205
+206_eatvt,eat (vt),1336,EAT,0376,206
+207_lickvt,lick (vt),319,LICK,0378,207
+208_chewvt,chew (vt),321,CHEW,0380,208
+209_masticatevt,masticate (vt),,,0381,209
+210_drinkvt,drink (vt),1401,DRINK,0383,210
+211_swallowvt,swallow (vt),897,SWALLOW,0384,211
+212_suckvt,suck (vt),1421,SUCK,0386,212
+213_vomitvtvomitvt,vomit (vt)/vomit (呕吐) (vt),1278,VOMIT,0388,213
+214_spitv,spit (v),1440,SPIT,0390,214
+215_gethungryv,get hungry (v),,,0392,215
+216_feelhungryv,feel hungry (v),1533,BE HUNGRY,0393,216
+217_feelthirstyv,feel thirsty (v),3474,BE THIRSTY,0395,217
+218_taste,taste,2190,TASTE,0397,218
+219_tasty,tasty,1813,TASTY,0399,219
+220_sweet,sweet,717,SWEET,0401,220
+221_hot,hot,1286,HOT,0403,221
+222_bitter,bitter,887,BITTER,0405,222
+223_sour,sour,1906,SOUR,0407,223
+224_rotten,rotten,1728,ROTTEN,0409,224
+225_mould,mould,1166,MOULD,0411,225
+226_house,house,1252,HOUSE,0414,226
+227_room,room,1450,ROOM,0415,227
+228_houseresidence,"house, residence",2406,HOME,0417,228
+229_residence,residence,,,0419,229
+230_communitysettlement,"community, settlement",,,0420,230
+231_tent,tent,1316,TENT,0423,231
+232_buildahousevt,build (a house) (vt),,,0425,232
+233_entrance,entrance,,,0427,233
+234_exit,exit,,,0428,234
+235_door,door,1567,DOOR,0430,235
+236_room,room,1450,ROOM,0432,236
+237_floor,floor,1632,FLOOR,0434,237
+238_pillar,pillar,2045,COLUMN,0436,238
+239_beamofahouse,beam (of a house),1132,BEAM,0437,239
+240_wall,wall,933,WALL (OF HOUSE),0440,240
+241_mudwall,mud wall,,,0441,241
+242_window,window,1375,WINDOW,0443,242
+243_roof,roof,769,ROOF,0446,243
+244_fireplacefireplace,fireplace/fireplace (火塘),185,FIREPLACE,0448,244
+245_fire,fire,221,FIRE,0450,245
+246_lightvtcatchfirev,"light (vt), catch fire (v)",737,LIGHT (IGNITE),0452,246
+247_flame,flame,889,FLAME,0454,247
+248_smoke,smoke,778,SMOKE (EXHAUST),0456,248
+249_soot,soot,830,SOOT,0458,249
+250_ashes,ashes,646,ASH,0460,250
+251_cinders,cinder(s),,,0461,251
+252_charcoal,charcoal,1188,CHARCOAL,0463,252
+253_coal,coal,2658,COAL,0464,253
+254_firewood,firewood,10,FIREWOOD,0466,254
+255_matches,matches,1133,MATCH,0468,255
+256_matches,matches,1133,MATCH,0469,256
+257_extinguishvt,extinguish (vt),127,EXTINGUISH,0471,257
+258_putoutvt,put out (vt),,,0472,258
+259_gooutfadevi,"go out, fade (vi)",2704,FADE (LOOSE COLOR),0473,259
+260_burnvi,burn (vi),1428,BURNING,0475,260
+261_getburnedvi,get burned (vi),,,0476,261
+262_setfiretovt,set fire to (vt),737,LIGHT (IGNITE),0478,262
+263_table,table,1775,TABLE,0480,263
+264_chair,chair,1476,CHAIR,0482,264
+265_sittingmat,sitting mat,195,MAT,0483,265
+266_sitstayv,"sit, stay (v)",1416,SIT,0485,266
+267_sitliedownv,"sit, lie down (v)",215,LIE DOWN,0486,267
+268_bed,bed,1663,BED,0488,268
+269_pillow,pillow,1044,PILLOW,0490,269
+270_lievi,lie (vi),1411,LIE (REST),0492,270
+271_sleepvi,sleep (vi),1585,SLEEP,0494,271
+272_snorevi,snore (vi),1983,SNORE,0495,272
+273_feelsleepyv,feel sleepy (v),,,0497,273
+274_dreamn,dream (n),2374,DREAM,0499,274
+275_dreamv,dream (v),1920,DREAM (SOMETHING),0500,275
+276_wakeupv,wake up (v),1602,WAKE UP,0501,276
+277_wakenvt,waken (vt),825,AWAKE,0502,277
+278_standuprisev,"stand up, rise (v)",570,STAND UP,0504,278
+279_standv,stand (v),1442,STAND,0506,279
+280_welln,well (n),954,WELL,0508,280
+281_hedge,hedge,,,0510,281
+282_closeshutvt,"close, shut (vt)",1046,SHUT,0512,282
+283_shutoneseyesvshutoneseyesv,shut one's eyes (v)/shut one's eyes (闭眼) (v),2063,CLOSE (EYES),0513,283
+284_closevi,close (vi),2000,CLOVE,0514,284
+285_openvt,open (vt),1156,OPEN,0516,285
+286_livev,live (v),1422,BE ALIVE,0518,286
+287_stayovernightv,stay overnight (v),,,0520,287
+288_tool,tool,1361,TOOL,0523,288
+289_machine,machine,144,MACHINE,0525,289
+290_mirror,mirror,1171,MIRROR,0527,290
+291_glass,glass,604,GLASS,0529,291
+292_bowl,bowl,1530,BOWL,0531,292
+293_ricebowl,rice bowl,,,0532,293
+294_dishplate,"dish, plate",480,PLATE,0534,294
+295_spoon,spoon,1378,SPOON,0536,295
+296_pot,pot,1462,POT,0538,296
+297_jug,jug,270,JUG,0539,297
+298_bucketbarrel,"bucket, barrel",2052,BUCKET,0543,298
+299_bottle,bottle,1321,BOTTLE,0546,299
+300_pan,pan,31,PAN,0548,300
+301_steamer,steamer,,,0549,301
+302_earthenwareteapot,earthenware teapot,,,0550,302
+303_dipoutwaterv,dip out water (v),,,0552,303
+304_scoopupvt,scoop up (vt),,,0553,304
+305_ladle,ladle,2657,LADLE,0554,305
+306_pourvt,pour (vt),1487,POUR,0556,306
+307_spillitintentionallyvt,spill it (intentionally) (vt),3130,SPILL (SOMETHING),0558,307
+308_spillitaccidentallyv,spill it (accidentally) (v),3130,SPILL (SOMETHING),0559,308
+309_knife,knife,1352,KNIFE,0561,309
+310_handlehaft,"handle, haft",1254,HANDLE,0562,310
+311_cuttingedge,cutting edge,863,EDGE,0564,311
+312_mortar,mortar,224,MORTAR,0566,312
+313_pounder,pounder,2459,GRINDSTONE,0568,313
+314_grindvt,grind (vt),1033,GRIND,0570,314
+315_poundvt,pound (vt),354,POUND,0572,315
+316_hammer,hammer,1481,HAMMER,0574,316
+317_nail,nail,502,NAIL (TOOL),0576,317
+318_saw,saw,1948,SAW,0578,318
+319_axe,axe,677,AXE,0580,319
+320_hoe,hoe,284,HOE,0582,320
+321_sickle,sickle,341,SICKLE,0584,321
+322_plow,plow,2154,PLOUGH (INSTRUMENT),0586,322
+323_spade,spade,1176,SPADE,0588,323
+324_whetvt,whet (vt),251,SHARPEN (SOMETHING),0590,324
+325_dust,dust,2,DUST,0592,325
+326_wipevt,wipe (vt),1454,WIPE,0594,326
+327_box,box,1465,BOX,0596,327
+328_covern,cover (n),2319,"LID (COVER, CAP)",0598,328
+329_sheath,sheath,,,0599,329
+330_largemeshedbasket,large meshed basket,,,0601,330
+331_basket,basket,1539,BASKET,0602,331
+332_sieve,sieve,86,SIEVE,0604,332
+333_bag,bag,2468,BAG,0606,333
+334_bagmadeofyakswool,bag made of Yak's wool,,,0607,334
+335_bagmadeofyakswool,bag made of Yak's wool,,,0608,335
+336_squarebagofcloth,square bag of cloth,,,0610,336
+337_paperbagfordocuments,paper bag for documents,,,0611,337
+338_envelope,envelope,3088,ENVELOPE,0612,338
+339_rope,rope,1218,ROPE,0614,339
+340_stringcord,"string, cord",362,STRING,0616,340
+341_net,net,2963,NET,0618,341
+342_netforcurtain,net for curtain,,,0619,342
+343_cane,cane,1296,WALKING STICK,0621,343
+344_stickofwood,stick of wood,1295,STICK,0623,344
+345_smallpile,small pile,,,0624,345
+346_ladder,ladder,1464,LADDER,0626,346
+347_board,board,1227,BOARD,0628,347
+348_bebornv,be born (v),1090,BE BORN,0631,348
+349_growupv,grow up (v),552,GROW UP,0633,349
+350_alivebev,alive (be v),1422,BE ALIVE,0635,350
+351_fat,fat,1279,FAT (OBESE),0637,351
+352_thin,thin,2308,THIN,0639,352
+353_gettiredv,get tired (v),1996,GET TIRED,0641,353
+354_healthy,healthy,1364,HEALTHY,0643,354
+355_illness,illness,1986,DISEASE,0645,355
+356_fever,fever,1534,FEVER,0647,356
+357_catchacoldv,catch a cold (v),2184,CATCH A COLD,0648,357
+358_infectiousdiseaseinfectiousdiseasetheillnessspreadsoneaftertheother,infectious disease/infectious disease ('the illness spreads one after the other'),,,0649,358
+359_syphilis,syphilis,,,0650,359
+360_wound,wound,1109,WOUND,0654,360
+361_bepainfulfeelpainv,"be painful, feel pain (v)",2561,HURT (SENSE PAIN),0656,361
+362_feelitchyv,feel itchy (v),149,ITCHY,0658,362
+363_scratchv,scratch (v),1436,SCRATCH,0660,363
+364_medicine,medicine,1372,MEDICINE,0662,364
+365_curevt,cure (vt),499,CURE,0664,365
+366_curevt,cure (vt),499,CURE,0665,366
+367_recoverv,recover (v),1978,RECOVER,0667,367
+368_poison,poison,655,POISON,0669,368
+369_killvt,kill (vt),1417,KILL,0671,369
+370_dievi,die (vi),1494,DIE,0673,370
+371_buryvt,bury (vt),1719,BURY,0675,371
+372_mummy,mummy,,,0676,372
+373_god,god,1944,GOD,0678,373
+374_prayv,pray (v),24,PRAY,0680,374
+375_fightv,fight (v),1423,FIGHT,0682,375
+376_fightv,fight (v),1423,FIGHT,0683,376
+377_makewarv,make war (v),,,0685,377
+378_winv,win (v),866,WIN,0687,378
+379_bedefeatedv,be defeated (v),,,0689,379
+380_runawayvi,run away (vi),2142,RUN AWAY,0691,380
+381_chasevt,chase (vt),1435,HUNT,0693,381
+382_sword,sword,1535,SWORD,0695,382
+383_spear,spear,945,SPEAR,0697,383
+384_shield,shield,1064,SHIELD,0699,384
+385_bow,bow,994,BOW,0701,385
+386_arrow,arrow,977,ARROW,0703,386
+387_gun,gun,1566,GUN,0705,387
+388_personmaningeneral,"person, man in general",683,PERSON,0708,388
+389_manmale,"man, male",2106,MALE PERSON,0710,389
+390_male,male,1553,MALE,0711,390
+391_womanfemale,"woman, female",2105,FEMALE PERSON,0713,391
+392_baby,baby,1289,BABY,0715,392
+393_child,child,2099,CHILD,0717,393
+394_boyboy,boy/boy (小伙子),1366,BOY,0719,394
+395_girl,girl,1646,GIRL,0721,395
+396_youngmanyouth,"young man, youth",76,YOUNG MAN,0723,396
+397_younglady,young lady,77,YOUNG WOMAN,0725,397
+398_adultgrownups,"adult, grown-ups",3635,ADULT,0727,398
+399_oldperson,old person,725,OLD PERSON,0729,399
+400_young,young,1207,YOUNG,0731,400
+401_old,old,1229,OLD,0733,401
+402_father,father,1217,FATHER,0736,402
+403_mother,mother,1216,MOTHER,0738,403
+404_parents,parents,505,PARENTS,0740,404
+405_grandfather,grandfather,1383,GRANDFATHER,0742,405
+406_grandmother,grandmother,1496,GRANDMOTHER,0744,406
+407_uncle,uncle,1327,UNCLE,0746,407
+408_unclematrilineal,uncle (matrilineal),3220,MATERNAL UNCLE,0747,408
+409_aunt,aunt,1272,AUNT,0749,409
+410_auntmatrilineal,aunt (matrilineal),2176,MATERNAL AUNT,0750,410
+411_son,son,1620,SON,0752,411
+412_daughter,daughter,1357,DAUGHTER,0754,412
+413_brothersiblings,"brother, siblings",1262,BROTHER,0756,413
+414_sister,sister,1263,SISTER,0758,414
+415_nephewnephewbrotherssonsistersson,nephew/nephew (brother's son / sister's son),1063,NEPHEW,0760,415
+416_niece,niece,1642,NIECE,0762,416
+417_cousin,cousin,1643,COUSIN,0764,417
+418_husband,husband,1200,HUSBAND,0766,418
+419_spouse,spouse,2514,SPOUSE,0767,419
+420_wife,wife,1199,WIFE,0769,420
+421_bridesonswife,bride (son's wife),,,0771,421
+422_bride,bride,1266,BRIDE,0772,422
+423_soninlaw,son-in-law,1056,SON-IN-LAW,0774,423
+424_marryv,marry (v),203,MARRY,0776,424
+425_widow,widow,1756,WIDOW,0778,425
+426_widower,widower,1981,WIDOWER,0779,426
+427_enemy,enemy,1358,ENEMY,0781,427
+428_servant,servant,255,SERVANT,0783,428
+429_village,village,930,VILLAGE,0786,429
+430_town,town,1391,TOWN,0788,430
+431_market,market,633,MARKET,0790,431
+432_huntvt,hunt (vt),1435,HUNT,0792,432
+433_shootagunv,shoot (a gun) (v),1172,SHOOT,0794,433
+434_shootv,shoot (v),,,0795,434
+435_trap,trap,1075,TRAP (PITFALL),0797,435
+436_fishwithalinev,fish with a line (v),2796,FISHING (WITH A HOOK),0799,436
+437_rich,rich,712,RICH,0801,437
+438_richrich,rich/rich (富裕),712,RICH,0802,438
+439_poor,poor,1674,POOR,0804,439
+440_tattered,tattered,,,0805,440
+441_stealvt,steal (vt),713,STEAL,0807,441
+442_robvt,rob (vt),2073,ROB (VERB),0809,442
+443_field,field,212,FIELD,0811,443
+444_workv,work (v),1086,WORK (ACTIVITY),0813,444
+445_restv,rest (v),168,REST,0815,445
+446_cultivatevt,cultivate (vt),1541,CULTIVATE,0817,446
+447_sowvt,sow (vt),748,SOW SEEDS,0819,447
+448_reapvt,reap (vt),,,0821,448
+449_peelvt,peel (vt),275,PEEL,0823,449
+450_knitvt,knit (vt),2905,KNIT,0825,450
+451_twistaropev,twist a rope (v),,,0826,451
+452_spinvt,spin (vt),121,SPIN,0828,452
+453_weavevt,weave (vt),133,WEAVE,0830,453
+454_govi,go (vi),695,GO,0833,454
+455_comevi,come (vi),1446,COME,0835,455
+456_remainvi,remain (vi),987,REMAIN,0837,456
+457_getoutvi,get out (vi),,,0839,457
+458_enterv,enter (v),749,ENTER,0841,458
+459_turnvi,turn (vi),1444,TURN AROUND,0843,459
+460_twisted,twisted,,,0844,460
+461_turnaroundvi,turn around (vi),1444,TURN AROUND,0846,461
+462_turnaroundvt,turn around (vt),1445,TURN (SOMETHING),0847,462
+463_getlostvi,get lost (vi),423,GET LOST,0849,463
+464_arrivevi,arrive (vi),1387,ARRIVE,0851,464
+465_reachv,reach (v),,,0852,465
+466_stopv,stop (v),2880,HALT (STOP),0854,466
+467_stopvt,stop (vt),3351,STOP DOING,0855,467
+468_perchonv,perch on (v),,,0856,468
+469_gooverv,go over (v),,,0860,469
+470_walkvi,walk (vi),1443,WALK,0862,470
+471_runvi,run (vi),1519,RUN,0864,471
+472_swift,swift,1631,FAST,0866,472
+473_slow,slow,701,SLOW,0868,473
+474_slowly,slowly,,,0869,474
+475_creepvi,creep (vi),3215,CREEP,0871,475
+476_rideitvt,ride it (vt),367,RIDE,0873,476
+477_carryvt,carry (vt),700,CARRY,0875,477
+478_road,road,667,ROAD,0877,478
+479_ontheway,on the way,,,0879,479
+480_bridge,bridge,1011,BRIDGE,0881,480
+481_travelpilgrimv,travel (pilgrim) (v),,,0883,481
+482_traveltourismv,travel (tourism) (v),3665,TRAVEL,0884,482
+483_cart,cart,122,CART,0886,483
+484_wheel,wheel,710,WHEEL,0888,484
+485_boat,boat,1844,BOAT,0890,485
+486_riverboatofleather,riverboat (of leather),,,0891,486
+487_oar,oar,3137,OAR,0893,487
+488_rowvt,row (vt),1849,ROW,0895,488
+489_language,language,1307,LANGUAGE,0898,489
+490_word,word,1599,WORD,0899,490
+491_speakv,speak (v),1623,SPEAK,0901,491
+492_explainv,explain (v),1626,EXPLAIN,0902,492
+493_sayvsayv,say (v)/say (v.),1458,SAY,0904,493
+494_shutupvi,shut up (vi),,,0906,494
+495_askv,ask (v),1828,ASK (REQUEST),0908,495
+496_answerv,answer (v),1275,ANSWER,0910,496
+497_lien,lie (n),2826,LIE (FALSEHOOD),0912,497
+498_faken,fake (n),,,0913,498
+499_truth,truth,1638,TRUTH,0915,499
+500_letter,letter,1612,LETTER,0917,500
+501_writevt,write (vt),1672,WRITE,0919,501
+502_ink,ink,2643,INK,0920,502
+503_pen,pen,794,PEN,0921,503
+504_readv,read (v),724,READ,0923,504
+505_paper,paper,648,PAPER,0925,505
+506_pointtovt,point to (vt),2669,POINT (WITH FINGER),0927,506
+507_callv,call (v),1084,CALL,0929,507
+508_commandv,command (v),1998,COMMAND,0931,508
+509_mark,mark,1720,SIGN,0933,509
+510_name,name,1405,NAME,0935,510
+511_play,play,1413,PLAY,0938,511
+512_singv,sing (v),1261,SING,0940,512
+513_dancev,dance (v),1879,DANCE,0942,513
+514_givehandv,"give, hand (v)",1447,GIVE,0945,514
+515_obtainv,obtain (v),694,GET,0947,515
+516_sellvt,sell (vt),1571,SELL,0949,516
+517_buyvt,buy (vt),1869,BUY,0951,517
+518_wages,wages,1122,WAGES,0952,518
+519_commerce,commerce,,,0953,519
+520_profit,profit,2929,BENEFIT,0954,520
+521_loss,loss,,,0955,521
+522_price,price,657,PRICE,0956,522
+523_expensive,expensive,1426,EXPENSIVE,0957,523
+524_cheap,cheap,1887,CHEAP,0958,524
+525_banknote,bank note,,,0959,525
+526_lendv,lend (v),582,LEND,0961,526
+527_borrowv,borrow (v),1823,BORROW,0963,527
+528_sendv,send (v),1127,SEND,0965,528
+529_meetcrushv,"meet, crush (v)",,,0968,529
+530_waitv,wait (v),1590,WAIT (FOR),0970,530
+531_imitatev,imitate (v),117,IMITATE,0972,531
+532_praisev,praise (v),3455,COMMEND,0974,532
+533_scoldv,scold (v),299,SCOLD,0976,533
+534_deceivev,deceive (v),3230,DECEIVE,0978,534
+535_hitvt,hit (vt),1433,HIT,0980,535
+536_clapv,clap (v),3110,CLAP,0981,536
+537_helpv,help (v),1897,HELP,0983,537
+538_bitev,bite (v),1403,BITE,0986,538
+539_takev,take (v),1749,TAKE,0988,539
+540_holdv,hold (v),1448,HOLD,0990,540
+541_seizevt,seize (vt),855,SEIZE,0992,541
+542_seizevt,seize (vt),855,SEIZE,0993,542
+543_releasev,release (v),1095,LET GO OR SET FREE,0995,543
+544_throwv,throw (v),1456,THROW,0997,544
+545_throwstgintov,throw stg into (v),,,0999,545
+546_throwawayv,throw away (v),3696,THROW AWAY,1000,546
+547_scattervt,scatter (vt),3705,SCATTER,1001,547
+548_touchv,touch (v),1892,TOUCH,1003,548
+549_rubv,rub (v),1449,RUB,1005,549
+550_wavev,wave (v),3544,WAVE (VERB),1007,550
+551_shakev,shake (v),1909,SHAKE,1009,551
+552_stirv,stir (v),696,STIR,1010,552
+553_earthquake,earthquake,6,EARTHQUAKE,1011,553
+554_pushvt,push (vt),1452,PUSH,1013,554
+555_pressvt,press (vt),1913,PRESS,1015,555
+556_oppressvt,oppress (vt),401,OPPRESS,1016,556
+557_pullvt,pull (vt),1455,PULL,1018,557
+558_lengthenvt,lengthen (vt),3700,LENGTHEN,1020,558
+559_postponev,postpone (v),,,1021,559
+560_squeezev,squeeze (v),1414,SQUEEZE,1023,560
+561_buckletiev,"buckle, tie (v)",1917,TIE,1024,561
+562_carryonthebackv,carry on the back (v),465,CARRY ON BACK,1026,562
+563_kickv,kick (v),1135,KICK,1028,563
+564_treadonit,tread on it,575,TREAD,1030,564
+565_usev,use (v),2072,USE (VERB),1032,565
+566_useful,useful,,,1033,566
+567_loseitv,lose it (v),1660,LOSE,1035,567
+568_hideitv,hide it (v),2486,HIDE,1037,568
+569_coverconcealv,"cover, conceal (v)",602,HIDE (CONCEAL),1038,569
+570_putitawayv,put it away (v),,,1040,570
+571_thinkagreatdealofv,think a great deal of (v),,,1041,571
+572_seekitv,seek it (v),1468,LOOK FOR,1043,572
+573_finditv,find it (v),719,FIND,1045,573
+574_showitv,show it (v),1039,SHOW,1047,574
+575_putitv,put it (v),998,PUT,1049,575
+576_wrapitv,wrap it (v),1113,WRAP,1051,576
+577_spreaditoutv,spread it out (v),38,SPREAD OUT,1053,577
+578_spreaditoutv,spread it out (v),38,SPREAD OUT,1054,578
+579_hangitonv,hang it on (v),,,1056,579
+580_leashv,leash (v),2959,LEASH,1058,580
+581_putitinv,put it in (v),,,1060,581
+582_putitinpourv,"put it in, pour (v)",1487,POUR,1061,582
+583_putitoutv,put it out (v),,,1063,583
+584_collectv,collect (v),7,GATHER,1065,584
+585_savestoreupv,"save, store up (v)",3655,STORE UP,1066,585
+586_makev,make (v),734,MAKE,1068,586
+587_destroyitv,destroy it (v),681,DESTROY,1070,587
+588_repairitv,repair it (v),2243,REPAIR,1072,588
+589_splitvi,split (vi),3020,BREAK (BREAKING),1074,589
+590_splitvi,split (vi),3020,BREAK (BREAKING),1075,590
+591_tearvt,tear (vt),1735,TEAR (SHRED),1076,591
+592_benditv,bend it (v),2224,BEND (SOMETHING),1078,592
+593_foldv,fold (v),1470,FOLD,1080,593
+594_foldv,fold (v),1470,FOLD,1081,594
+595_washitv,wash it (v),1453,WASH,1083,595
+596_rollitv,roll it (v),827,ROLL,1085,596
+597_winditv,wind it (v),1113,WRAP,1086,597
+598_tieitv,tie it (v),1917,TIE,1088,598
+599_untieitv,untie it (v),352,UNTIE,1091,599
+600_untieitv,untie it (v),352,UNTIE,1092,600
+601_comeloosevi,come loose (vi),,,1093,601
+602_comeloosevi,come loose (vi),,,1094,602
+603_coveritupv,cover it (up) (v),761,COVER,1096,603
+604_swellv,swell (v),1573,SWELL,1098,604
+605_swellv,swell (v),1573,SWELL,1099,605
+606_makeitbulgev,make it bulge (v),,,1101,606
+607_jointhemvt,join them (vt),,,1103,607
+608_jointhemvt,join them (vt),,,1104,608
+609_connectvt,connect (vt),2862,CONNECT,1105,609
+610_leashdragv,"leash, drag (v)",2959,LEASH,1106,610
+611_bethrownintov,be thrown into (v),,,1107,611
+612_separatevt,separate (vt),1359,SEPARATE,1109,612
+613_pullitoutv,pull it out (v),2325,PULL OUT,1111,613
+614_pullitoutv,pull it out (v),2325,PULL OUT,1112,614
+615_stubv,stub (v),,,1114,615
+616_cutvt,cut (vt),1432,CUT,1116,616
+617_cutoffseverv,"cut off, sever (v)",,,1117,617
+618_snapvi,snap (vi),459,SNAP (OF STICK),1118,618
+619_chopupvt,chop up (vt),2149,CHOP (INTO PIECES),1119,619
+620_shearv,shear (v),1532,SHEAR,1120,620
+621_cutoutclothv,cut out cloth (v),,,1121,621
+622_cuthairvt,cut (hair) (vt),,,1122,622
+623_mixitv,mix it (v),2017,MIX,1124,623
+624_carveitv,carve it (v),228,CARVE,1126,624
+625_digaholevt,dig (a hole) (vt),1418,DIG,1128,625
+626_digvt,dig (vt),1418,DIG,1129,626
+627_digvt,dig (vt),1418,DIG,1130,627
+628_doitv,do it (v),813,DO,1133,628
+629_doitv,do it (v),813,DO,1134,629
+630_doitv,do it (v),813,DO,1135,630
+631_beginitvt,begin it (vt),1806,BEGIN,1137,631
+632_beginvi,begin (vi),3449,START,1138,632
+633_endvi,end (vi),1928,CEASE,1140,633
+634_exhaustvi,exhaust (vi),,,1142,634
+635_continuev,continue (v),3699,CONTINUE,1145,635
+636_stopitv,stop it (v),3351,STOP DOING,1147,636
+637_giveupv,give up (v),1097,ABANDON,1148,637
+638_declinev,decline (v),,,1149,638
+639_stopahabitvt,stop (a habit) (vt),,,1150,639
+640_movev,move (v),765,MOVE,1152,640
+641_slidev,slide (v),,,1154,641
+642_falldownv,fall down (v),2894,TUMBLE (FALL DOWN),1156,642
+643_fallupsidedownv,fall upside down (v),,,1157,643
+644_assemblevi,assemble (vi),,,1159,644
+645_meetassemblev,"meet, assemble (v)",,,1160,645
+646_bouncev,bounce (v),,,1162,646
+647_jumpv,jump (v),1829,JUMP,1164,647
+648_risevrisev,rise (v)/rise (上去) (v),705,GO UP (ASCEND),1166,648
+649_risev,rise (v),,,1167,649
+650_godownstepdownv,"go down, step down (v)",2014,GO DOWN (DESCEND),1169,650
+651_falldownv,fall down (v),2894,TUMBLE (FALL DOWN),1170,651
+652_fallv,fall (v),1280,FALL,1172,652
+653_getwetv,get wet (v),2324,GET WET,1174,653
+654_humid,humid,143,HUMID,1175,654
+655_dryvt,dry (vt),1786,DRY UP,1177,655
+656_comparev,compare (v),3429,COMPARE,1179,656
+657_chooseitv,choose it (v),1750,CHOOSE,1181,657
+658_getusedvi,get used (vi),,,1183,658
+659_closetointimatewithbev,"close to, intimate with (be v)",,,1184,659
+660_hurryrushv,"hurry, rush (v)",754,HURRY,1186,660
+661_changevi,change (vi),1264,CHANGE,1188,661
+662_changevt,change (vt),2856,CHANGE (SOMETHING),1189,662
+663_skilful,skilful,,,1191,663
+664_thinkv,think (v),2271,THINK,1194,664
+665_thinkv,think (v),2271,THINK,1195,665
+666_thinkv,think (v),2271,THINK,1196,666
+667_decidev,decide (v),685,DECIDE,1197,667
+668_agreev,agree (v),3643,AGREE,1198,668
+669_knowv,know (v),1410,KNOW (SOMETHING),1200,669
+670_understandv,understand (v),1536,UNDERSTAND,1202,670
+671_learnitbyheartmemorizeitv,"learn it (by heart), memorize it (v)",71,BY HEART,1204,671
+672_learnitbyheartmemorizeitv,"learn it (by heart), memorize it (v)",71,BY HEART,1205,672
+673_forgetv,forget (v),1523,FORGET,1207,673
+674_recallitv,recall it (v),707,REMEMBER,1209,674
+675_teachv,teach (v),709,TEACH,1211,675
+676_learnitv,learn it (v),504,LEARN,1213,676
+677_afraid,afraid,,,1215,677
+678_getsurprisedv,get surprised (v),,,1217,678
+679_likeitv,like it (v),1117,LIKE,1219,679
+680_tenderatbev,tender at (be v),,,1220,680
+681_dislikeitv,dislike it (v),,,1222,681
+682_hatev,hate (v),1607,HATE,1223,682
+683_envyv,envy (v),40,ENVY,1225,683
+684_jealous,jealous,2821,JEALOUS,1226,684
+685_avaricious,avaricious,1774,STINGY,1227,685
+686_stingystingy,stingy/stingy (小气，舍不得),,,1228,686
+687_glad,glad,,,1230,687
+688_comfortablehappy,"comfortable, happy",1495,HAPPY,1231,688
+689_sad,sad,699,SAD,1233,689
+690_hesitatev,hesitate (v),3629,HESITATE,1235,690
+691_doubtitv,doubt it (v),3536,DOUBT (SOMETHING),1236,691
+692_strangerareodd,"strange, rare, odd",600,STRANGE,1237,692
+693_strange,strange,600,STRANGE,1238,693
+694_believeitv,believe it (v),1890,BELIEVE,1240,694
+695_getangryv,get angry (v),2215,BECOME ANGRY,1242,695
+696_getangryv,get angry (v),2215,BECOME ANGRY,1243,696
+697_forgivev,forgive (v),1528,FORGIVE,1245,697
+698_sorry,Sorry.,,,1246,698
+699_cautiousbev,cautious (be v),,,1247,699
+700_feelbashfulv,feel bashful (v),,,1249,700
+701_worryv,worry (v),150,WORRY,1251,701
+702_worryaboutv,worry about (v),150,WORRY,1252,702
+703_busybev,busy (be v),2755,BUSY,1253,703
+704_bepatientbearv,"be patient, bear (v)",833,ENDURE,1255,704
+705_dullslowbev,"dull, slow (be v)",,,1257,705
+706_foolish,foolish,,,1258,706
+707_clever,clever,1310,CLEVER,1260,707
+708_clever,clever,1310,CLEVER,1261,708
+709_clever,clever,1310,CLEVER,1262,709
+710_mind,mind,1562,MIND,1264,710
+711_mind,mind,1562,MIND,1265,711
+712_mind,mind,1562,MIND,1266,712
+713_mad,mad,1899,MAD,1268,713
+714_sky,sky,1732,SKY,1271,714
+715_weather,weather,952,WEATHER,1273,715
+716_cloud,cloud,1489,CLOUD,1275,716
+717_fog,fog,249,FOG,1277,717
+718_rain,rain,658,RAIN (PRECIPITATION),1279,718
+719_rainv,rain (v),1253,RAIN (RAINING),1280,719
+720_thunder,thunder,1150,THUNDER,1282,720
+721_lightning,lightning,1654,LIGHTNING,1284,721
+722_rainbow,rainbow,1733,RAINBOW,1286,722
+723_snow,snow,784,SNOW,1288,723
+724_ice,ice,617,ICE,1290,724
+725_freezev,freeze (v),1431,FREEZE,1292,725
+726_meltv,melt (v),2334,MELT,1294,726
+727_sun,sun,1343,SUN,1296,727
+728_moon,moon,1313,MOON,1298,728
+729_mensesmensesthewaisthurts,menses/menses ('the waist hurts'),766,MENSTRUATION,1299,729
+730_star,star,1430,STAR,1301,730
+731_light,light,630,LIGHT (RADIATION),1303,731
+732_shadow,shadow,1388,SHADE,1305,732
+733_brightlight,"bright, light",679,BRIGHT,1307,733
+734_brightclear,"bright, clear",679,BRIGHT,1308,734
+735_dark,dark,706,DARK,1310,735
+736_wind,wind,960,WIND,1312,736
+737_wind,wind,960,WIND,1313,737
+738_blowvi,blow (vi),175,BLOW (OF WIND),1315,738
+739_blowvt,blow (vt),176,BLOW (WITH MOUTH),1316,739
+740_quiet,quiet,1314,QUIET,1318,740
+741_hot,hot,1286,HOT,1320,741
+742_cold,cold,1287,COLD,1322,742
+743_cool,cool,,,1324,743
+744_warmofweather,warm (of weather),2110,WARM (OF WEATHER),1326,744
+745_mountain,mountain,639,MOUNTAIN,1328,745
+746_valley,valley,921,VALLEY,1330,746
+747_forest,forest,420,FOREST,1332,747
+748_plain,plain,652,PLAIN,1334,748
+749_marsh,marsh,3688,MARSH,1336,749
+750_lake,lake,624,LAKE,1338,750
+751_pond,pond,2035,POND,1339,751
+752_spring,spring,849,SPRING (OF WATER),1341,752
+753_river,river,666,RIVER,1343,753
+754_stream,stream,947,STREAM,1344,754
+755_water,water,948,WATER,1346,755
+756_bubble,bubble,3689,BUBBLE,1348,756
+757_sinkv,sink (v),1088,SINK (DESCEND),1350,757
+758_floatv,float (v),1574,FLOAT,1352,758
+759_flowv,flow (v),2003,FLOW,1354,759
+760_waterfall,waterfall,943,WATERFALL,1356,760
+761_shore,shore,113,SHORE,1358,761
+762_bank,bank,3463,RIVERBANK,1359,762
+763_cliff,cliff,992,CLIFF,1361,763
+764_rockymountain,rocky mountain,,,1362,764
+765_wave,wave,978,WAVE,1364,765
+766_island,island,622,ISLAND,1366,766
+767_stone,stone,857,STONE,1368,767
+768_rock,rock,668,ROCK,1370,768
+769_sand,sand,671,SAND,1372,769
+770_earth,earth,1228,EARTH (SOIL),1374,770
+771_redclay,red clay,,,1375,771
+772_mud,mud,640,MUD,1377,772
+773_clay,clay,1399,CLAY,1379,773
+774_iron,iron,621,IRON,1381,774
+775_stain,stain,3064,RUST,1382,775
+776_gold,gold,1369,GOLD,1384,776
+777_silver,silver,759,SILVER,1386,777
+778_copper,copper,1825,COPPER,1388,778
+779_lead,lead,627,LEAD (CHEMICAL ELEMENT),1390,779
+780_brass,brass,3743,BRASS,1391,780
+781_juniper,juniper,,,1394,781
+782_pine,pine,1740,PINE,1395,782
+783_tree,tree,906,TREE,1396,783
+784_grass,grass,606,GRASS,1398,784
+785_trunk,trunk,344,TREE TRUNK,1400,785
+786_bark,bark,1204,BARK,1402,786
+787_stem,stem,2628,PLANT STEM,1404,787
+788_branch,branch,1531,BRANCH,1406,788
+789_leaf,leaf,628,LEAF,1408,789
+790_leaf,leaf,628,LEAF,1409,790
+791_vine,vine,343,VINE,1411,791
+792_thorn,thorn,124,THORN,1413,792
+793_flower,flower,239,FLOWER,1415,793
+794_root,root,670,ROOT,1417,794
+795_comeoutv,come out (v),,,1419,795
+796_bearfruitvbearfruitv,bear fruit (v)/bear fruit (果物) (v),3054,BEAR FRUIT,1421,796
+797_witherv,wither (v),,,1423,797
+798_bamboo,bamboo,1927,BAMBOO,1425,798
+799_cane,cane,,,1426,799
+800_mushroom,mushroom,641,MUSHROOM,1428,800
+801_animal,animal,619,ANIMAL,1431,801
+802_quadruped,quadruped,,,1433,802
+803_beast,beast,958,WILD ANIMAL,1434,803
+804_packanimal,pack animal,,,1435,804
+805_livestock,livestock,631,LIVESTOCK,1436,805
+806_bird,bird,937,BIRD,1438,806
+807_fish,fish,227,FISH,1440,807
+808_worm,worm,1219,WORM,1442,808
+809_dog,dog,2009,DOG,1444,809
+810_cat,cat,1208,CAT,1446,810
+811_lynx,lynx,3314,LYNX,1447,811
+812_wildcat,wildcat,2241,WILD CAT,1448,812
+813_horse,horse,615,HORSE,1450,813
+814_donkey,donkey,1862,DONKEY,1451,814
+815_saddle,saddle,3065,SADDLE,1452,815
+816_mule,mule,890,MULE,1453,816
+817_cattle,cattle,1153,CATTLE,1455,817
+818_cattle,cattle,1153,CATTLE,1456,818
+819_yak,yak,2477,YAK,1457,819
+820_femaleyak,female yak,2479,FEMALE YAK,1458,820
+821_wildyak,wild yak,,,1459,821
+822_dzooxxfemaleyak,dzo (ox x female yak),,,1460,822
+823_sheep,sheep,1331,SHEEP,1462,823
+824_bharalbluesheep,"bharal, blue sheep",,,1463,824
+825_argalisheep,argali sheep,,,1464,825
+826_goat,goat,1502,GOAT,1466,826
+827_pig,pig,1337,PIG,1468,827
+828_hencock,"hen, cock",1318,CHICKEN,1470,828
+829_tiger,tiger,846,TIGER,1472,829
+830_bear,bear,1820,BEAR,1474,830
+831_wolf,wolf,522,WOLF,1476,831
+832_fox,fox,1312,FOX,1478,832
+833_deer,deer,1936,DEER,1480,833
+834_ape,ape,,,1482,834
+835_monkey,monkey,1350,MONKEY,1483,835
+836_rabbit,rabbit,1136,RABBIT,1485,836
+837_mouse,mouse,1491,MOUSE,1487,837
+838_elephant,elephant,1290,ELEPHANT,1489,838
+839_camel,camel,1871,CAMEL,1491,839
+840_bat,bat,1793,BAT,1493,840
+841_eagle,eagle,1905,EAGLE,1495,841
+842_crane,crane,1830,CRANE,1497,842
+843_swallow,swallow,3077,SWALLOW (BIRD),1499,843
+844_littlecuckoo,little cuckoo,2934,CUCKOO,1500,844
+845_pigeon,pigeon,1853,DOVE,1502,845
+846_pigeon,pigeon,1853,DOVE,1503,846
+847_crow,crow,913,CROW,1505,847
+848_crow,crow,913,CROW,1506,848
+849_owl,owl,735,OWL,1507,849
+850_sparrow,sparrow,1854,SPARROW,1509,850
+851_butterfly,butterfly,1791,BUTTERFLY,1511,851
+852_ant,ant,587,ANT,1513,852
+853_spider,spider,843,SPIDER,1515,853
+854_honeybee,honey-bee,665,BEE,1517,854
+855_mosquito,mosquito,1509,MOSQUITO,1519,855
+856_fly,fly,,,1521,856
+857_flea,flea,232,FLEA,1523,857
+858_louse,louse,1392,LOUSE,1525,858
+859_snake,snake,730,SNAKE,1527,859
+860_lizard,lizard,632,LIZARD,1529,860
+861_frog,frog,503,FROG,1530,861
+862_horn,horn,1393,HORN (ANATOMY),1532,862
+863_hair,hair,,,1534,863
+864_mane,mane,1918,MANE,1535,864
+865_skinfur,"skin, fur",580,FUR,1537,865
+866_claw,claw,72,CLAW,1539,866
+867_hoof,hoof,152,HOOF,1540,867
+868_tail,tail,1220,TAIL,1542,868
+869_taillong,tail (long),,,1543,869
+870_beak,beak,73,BEAK,1545,870
+871_wing,wing,1257,WING,1547,871
+872_feather,feather,1201,FEATHER,1549,872
+873_scalesoffish,scales of fish,266,SCALE,1551,873
+874_scalesofsnake,scales of snake,,,1552,874
+875_nest,nest,539,NEST,1554,875
+876_flyv,fly (v),1441,FLY (MOVE THROUGH AIR),1556,876
+877_swimv,swim (v),1439,SWIM,1558,877
+878_cryv,cry (v),,,1560,878
+879_layaneggv,lay an egg (v),2464,LAY EGGS,1562,879
+880_raisev,raise (v),2134,RAISE (BRING UP),1564,880
+881_shape,shape,,,1567,881
+882_round,round,1395,ROUND,1569,882
+883_round,round,1395,ROUND,1570,883
+884_sharp,sharp,1396,SHARP,1572,884
+885_blunt,blunt,379,BLUNT,1574,885
+886_levelandsmooth,level and smooth,1234,SMOOTH,1576,886
+887_flat,flat,1633,FLAT,1577,887
+888_flat,flat,1633,FLAT,1578,888
+889_hole,hole,1667,HOLE,1580,889
+890_hollow,hollow,,,1582,890
+891_straight,straight,1404,STRAIGHT,1584,891
+892_straightadv,straight (adv),1404,STRAIGHT,1585,892
+893_line,line,1048,LINE,1587,893
+894_marks,marks,,,1589,894
+895_marks,marks,,,1590,895
+896_corner,corner,192,CORNER,1592,896
+897_thing,thing,738,THING,1594,897
+898_big,big,1202,BIG,1596,898
+899_tall,tall,711,TALL,1598,899
+900_little,little,1246,SMALL,1600,900
+901_finemeshes,fine (meshes),,,1602,901
+902_largemeshes,large (meshes),,,1604,902
+903_long,long,1203,LONG,1606,903
+904_short,short,1645,SHORT,1608,904
+905_thickandround,thick (and round),,,1610,905
+906_thin,thin,2308,THIN,1612,906
+907_lean,lean,2219,LEAN (MEAT),1613,907
+908_thickandflat,thick (and flat),,,1615,908
+909_thinandflat,thin (and flat),,,1617,909
+910_weaklightlyseasoned,"weak, lightly seasoned",,,1618,910
+911_colorofdying,color (of dying),,,1620,911
+912_colornatural,color (natural),,,1621,912
+913_red,red,156,RED,1624,913
+914_blue,blue,837,BLUE,1626,914
+915_yellow,yellow,1424,YELLOW,1628,915
+916_green,green,1425,GREEN,1630,916
+917_white,white,1335,WHITE,1632,917
+918_gray,gray,153,GREY,1633,918
+919_black,black,163,BLACK,1635,919
+920_paintv,paint (v),3122,PAINT (SOMETHING),1637,920
+921_dyeitv,dye it (v),157,DYE,1639,921
+922_soundnoise,"sound, noise",1811,SOUND OR NOISE,1641,922
+923_asmell,a smell,3704,ODOR (SMELL),1643,923
+924_wildrude,"wild, rude",1412,RUDE,1646,924
+925_badtemperedbadquality,bad-tempered/bad (quality),1292,BAD,1647,925
+926_gentle,gentle,1954,GENTLE,1649,926
+927_kind,kind,3299,KIND,1651,927
+928_courageous,courageous,3,BRAVE,1653,928
+929_courageous,courageous,3,BRAVE,1654,929
+930_stingystingy,stingy/stingy (小气，小心眼),1774,STINGY,1656,930
+931_honest,honest,1120,HONEST,1658,931
+932_cunning,cunning,2335,CUNNING,1660,932
+933_idleaboutbev,idle about (be v),2756,IDLE,1662,933
+934_lazy,lazy,1564,LAZY,1663,934
+935_strong,strong,785,STRONG,1665,935
+936_strongpolitically,strong (politically),,,1666,936
+937_strongquality,strong (quality),,,1667,937
+938_weak,weak,1601,WEAK,1669,938
+939_weakpolitically,weak (politically),,,1670,939
+940_ofbadquality,of bad quality,,,1671,940
+941_correct,correct,1725,CORRECT (RIGHT),1673,941
+942_goodingeneralsense,good [in general sense],1035,GOOD,1675,942
+943_appropriate,appropriate,,,1676,943
+944_ofagoodquality,of a good quality,,,1677,944
+945_famous,famous,,,1678,945
+946_badingeneralsensebadpersonbad,bad [in general sense]/bad (person)/bad,,,1680,946
+947_malicious,malicious,,,1681,947
+948_easy,easy,686,EASY,1683,948
+949_difficult,difficult,584,DIFFICULT,1685,949
+950_dangerous,dangerous,3466,DANGEROUS,1687,950
+951_tight,tight,3053,TIGHT,1689,951
+952_loose,loose,2506,LOOSE,1691,952
+953_softgentlesmooth,"soft, gentle, smooth",1856,SOFT,1693,953
+954_smooth,smooth,1234,SMOOTH,1694,954
+955_coarse,coarse,2151,COARSE,1696,955
+956_old,old,1229,OLD,1698,956
+957_new,new,1231,NEW,1700,957
+958_prettycute,"pretty, cute",2410,GOOD-LOOKING,1702,958
+959_beautiful,beautiful,1427,BEAUTIFUL,1703,959
+960_poorpitiful,"poor, pitiful",1674,POOR,1704,960
+961_ugly,ugly,1548,UGLY,1706,961
+962_clean,clean,704,CLEAN,1708,962
+963_dirty,dirty,1230,DIRTY,1710,963
+964_hard,hard,1884,HARD,1712,964
+965_soft,soft,1856,SOFT,1714,965
+966_place,place,723,PLACE (POSITION),1717,966
+967_front,front,2194,FRONT (PART),1719,967
+968_back,back,2323,BACK (PART),1721,968
+969_side,side,682,SIDE,1723,969
+970_between,between,689,BETWEEN,1725,970
+971_middle,middle,1093,MIDDLE,1727,971
+972_on,on,,,1729,972
+973_up,up,1591,UP,1730,973
+974_upward,upward,,,1731,974
+975_under,under,,,1733,975
+976_down,down,,,1734,976
+977_down,down,,,1735,977
+978_down,down,,,1736,978
+979_down,down,,,1737,979
+980_downward,downward,1326,DOWN,1738,980
+981_inside,inside,1606,INSIDE,1740,981
+982_outside,outside,762,OUTSIDE,1742,982
+983_right,right,1019,RIGHT,1744,983
+984_left,left,244,LEFT,1746,984
+985_tip,tip,2992,TIP (OF OBJECT),1748,985
+986_edgetip,"edge, tip",863,EDGE,1749,986
+987_edgehem,"edge, hem",,,1750,987
+988_surroundings,surroundings,,,1752,988
+989_updown,UP/DOWN,,,1754,989
+990_near,near,1942,NEAR,1757,990
+991_near,near,1942,NEAR,1758,991
+992_far,far,1406,FAR,1760,992
+993_far,far,1406,FAR,1761,993
+994_high,high,1265,HIGH,1763,994
+995_high,high,1265,HIGH,1764,995
+996_low,low,721,LOW,1766,996
+997_deep,deep,1593,DEEP,1768,997
+998_shallow,shallow,193,SHALLOW,1770,998
+999_wide,wide,1243,WIDE,1772,999
+1000_narrow,narrow,1267,NARROW,1774,1000
+1001_together,together,2482,TOGETHER,1776,1001
+1002_eachother,each other,,,1777,1002
+1003_full,full,1429,FULL,1779,1003
+1004_empty,empty,1624,EMPTY,1781,1004
+1005_direction,direction,,,1783,1005
+1006_east,east,1877,EAST,1785,1006
+1007_west,west,1817,WEST,1787,1007
+1008_south,south,1595,SOUTH,1789,1008
+1009_north,north,1598,NORTH,1791,1009
+1010_dawn,dawn,729,DAWN,1794,1010
+1011_dawn,dawn,729,DAWN,1795,1011
+1012_morning,morning,1339,MORNING,1797,1012
+1013_noon,noon,12,MIDDAY,1799,1013
+1014_daytime,daytime,1225,DAY (NOT NIGHT),1801,1014
+1015_evening,evening,1629,EVENING,1803,1015
+1016_night,night,1233,NIGHT,1805,1016
+1017_nightnight03am,night/night (0-3AM),,,1806,1017
+1018_early,early,672,EARLY,1808,1018
+1019_late,late,477,LATE,1810,1019
+1020_now,now,1376,NOW,1812,1020
+1021_atonce,at once,,,1814,1021
+1022_previously,previously,,,1816,1022
+1023_after,after,1685,AFTER,1818,1023
+1024_next,next,1354,NEXT,1820,1024
+1025_always,always,1676,ALWAYS,1822,1025
+1026_always,always,1676,ALWAYS,1823,1026
+1027_often,often,1852,OFTEN,1825,1027
+1028_sometimes,sometimes,1544,SOMETIMES,1827,1028
+1029_today,today,1283,TODAY,1829,1029
+1030_yesterday,yesterday,1174,YESTERDAY,1831,1030
+1031_tomorrow,tomorrow,1329,TOMORROW,1833,1031
+1032_thedayaftertomorrow,the day after tomorrow,1179,DAY AFTER TOMORROW,1834,1032
+1033_everyday,everyday,,,1836,1033
+1034_day,day,1260,DAY (24 HOURS),1838,1034
+1035_date,date,,,1839,1035
+1036_date,date,,,1840,1036
+1037_week,week,1469,WEEK,1842,1037
+1038_month,month,1370,MONTH,1844,1038
+1039_year,year,1226,YEAR,1846,1039
+1040_calendar,calendar,1967,CALENDAR,1847,1040
+1041_age,age,1789,AGE,1849,1041
+1042_spring,spring,1537,SPRINGTIME,1851,1042
+1043_summer,summer,1342,SUMMER,1853,1043
+1044_autumn,autumn,1276,AUTUMN,1855,1044
+1045_winter,winter,1471,WINTER,1857,1045
+1046_around,around,,,1859,1046
+1047_timetodo,time to do,,,1860,1047
+1048_ididnthavetimetoeatdinneryesterdayevening,I didn't have time to eat dinner yesterday evening.,,,1861,1048
+1049_period,period,508,PERIOD,1862,1049
+1050_count,count,1420,COUNT,1864,1050
+1051_number,number,1356,NUMBER,1865,1051
+1052_numberfigure,"number, figure",1356,NUMBER,1866,1052
+1053_numberfigure,"number, figure",1356,NUMBER,1867,1053
+1054_one,one,1493,ONE,1869,1054
+1055_two,two,1498,TWO,1871,1055
+1056_three,three,492,THREE,1873,1056
+1057_four,four,1500,FOUR,1875,1057
+1058_five,five,493,FIVE,1877,1058
+1059_six,six,1703,SIX,1879,1059
+1060_seven,seven,1704,SEVEN,1881,1060
+1061_eight,eight,1705,EIGHT,1883,1061
+1062_nine,nine,1483,NINE,1885,1062
+1063_ten,ten,1515,TEN,1887,1063
+1064_eleven,eleven,1706,ELEVEN,1889,1064
+1065_twelve,twelve,1707,TWELVE,1891,1065
+1066_thirteen,thirteen,1708,THIRTEEN,1893,1066
+1067_fourteen,fourteen,2451,FOURTEEN,1895,1067
+1068_fifteen,fifteen,1709,FIFTEEN,1897,1068
+1069_sixteen,sixteen,2454,SIXTEEN,1899,1069
+1070_seventeen,seventeen,2453,SEVENTEEN,1901,1070
+1071_eighteen,eighteen,1713,EIGHTEEN,1903,1071
+1072_nineteen,nineteen,1714,NINETEEN,1905,1072
+1073_twenty,twenty,1710,TWENTY,1907,1073
+1074_twentyone,twenty one,1734,TWENTY ONE,1909,1074
+1075_twentytwo,twenty two,3166,TWENTY TWO,1911,1075
+1076_twentythree,twenty three,3165,TWENTY THREE,1913,1076
+1077_thirty,thirty,1715,THIRTY,1921,1077
+1078_forty,forty,1716,FORTY,1923,1078
+1079_fifty,fifty,1717,FIFTY,1925,1079
+1080_sixty,sixty,1718,SIXTY,1927,1080
+1081_seventy,seventy,1721,SEVENTY,1929,1081
+1082_eighty,eighty,1722,EIGHTY,1931,1082
+1083_ninety,ninety,1724,NINETY,1933,1083
+1084_hundred,hundred,1634,HUNDRED,1935,1084
+1085_twohundred,two hundred,2676,TWO HUNDRED,1937,1085
+1086_threehundred,three hundred,,,1939,1086
+1087_thousand,thousand,1843,THOUSAND,1941,1087
+1088_twothousand,two thousand,,,1943,1088
+1089_threethousand,three thousand,,,1945,1089
+1090_tenthousand,ten thousand,2078,TEN THOUSAND,1947,1090
+1091_twentythousand,twenty thousand,,,1949,1091
+1092_hundredthousand,hundred thousand,,,1951,1092
+1093_onemillion,one million,,,1953,1093
+1094_times,times,,,1959,1094
+1095_times,times,,,1961,1095
+1096_onebyone,one by one,,,1963,1096
+1097_order,order,1128,ORDER,1964,1097
+1098_first,first,728,FIRST,1966,1098
+1099_second,second,1384,SECOND,1968,1099
+1100_third,third,1859,THIRD,1970,1100
+1101_last,last,1529,LAST (FINAL),1972,1101
+1102_alone,alone,1964,ALONE,1974,1102
+1103_all,all,98,ALL,1976,1103
+1104_all,all,98,ALL,1977,1104
+1105_all,all,98,ALL,1978,1105
+1106_completely,completely,,,1979,1106
+1107_half,half,816,HALF,1981,1107
+1108_onethird,one third,,,1983,1108
+1109_aquarter,a quarter,,,1985,1109
+1110_both,both,,,1987,1110
+1111_measurev,measure (v),1506,MEASURE,1989,1111
+1112_scale,scale,,,1990,1112
+1113_scale,scale,,,1991,1113
+1114_heavy,heavy,1210,HEAVY,1993,1114
+1115_light,light,1052,LIGHT (WEIGHT),1995,1115
+1116_manymuch,"many, much",1198,MANY,1997,1116
+1117_fewlittle,"few, little",1242,FEW,1999,1117
+1118_increasev,increase (v),1041,INCREASE,2001,1118
+1119_decreasev,decrease (v),2864,DECREASE,2003,1119
+1120_ime,"I, me",1209,I,2006,1120
+1121_weusplural,"we, us [plural]",1212,WE,2008,1121
+1122_weusdual,"we, us [dual]",2634,WE TWO,2009,1122
+1123_yousg,you (sg.),1215,THOU,2011,1123
+1124_youplural,you [plural],1213,YOU,2013,1124
+1125_youtwodual,you two [dual],2111,YOU TWO,2014,1125
+1126_hehim,"he, him",1211,HE,2016,1126
+1127_sheher,"she, her",1834,SHE,2018,1127
+1128_theythemplural,"they, them [plural]",817,THEY,2020,1128
+1129_theytwodual,they two [dual],2635,THEY TWO,2021,1129
+1130_oneself,oneself,,,2023,1130
+1131_this,this,1214,THIS,2025,1131
+1132_that,that,78,THAT,2027,1132
+1133_this,this,1214,THIS,2029,1133
+1134_thatthatoverthere,"that, that... over there",,,2031,1134
+1135_thatthe,"that, the",,,2033,1135
+1136_likeinthiswaythiskindof,"like, in this way, this kind of",,,2034,1136
+1137_thatwaylikethat,"that way, like that",,,2035,1137
+1138_thatwaylikethat,"that way, like that",,,2037,1138
+1139_here,here,136,HERE,2039,1139
+1140_there,there,1937,THERE,2041,1140
+1141_there,there,1937,THERE,2043,1141
+1142_thiswayhere,"this way, here",,,2045,1142
+1143_thatwaythatwaynorththatwayeastthatwaysouth,that way/that way (north)/that way (east)/that way (south),,,2047,1143
+1144_thatwaythere,"that way, there",,,2049,1144
+1145_who,who,1235,WHO,2051,1145
+1146_what,what,1236,WHAT,2053,1146
+1147_which,which,727,WHICH,2055,1147
+1148_how,how,1239,HOW,2057,1148
+1149_where,where,1237,WHERE,2059,1149
+1150_where,where,1237,WHERE,2061,1150
+1151_why,why,1270,WHY,2063,1151
+1152_when,when,1238,WHEN,2065,1152
+1153_someday,some day,,,2067,1153
+1154_howmany,how many?,822,HOW MANY,2069,1154
+1155_howmany,how many?,822,HOW MANY,2070,1155
+1156_howlong,how long?,2338,HOW LONG,2071,1156
+1157_howbig,how big?,,,2072,1157
+1158_something,something,,,2074,1158
+1159_some,some,1241,SOME,2076,1159
+1160_verymuchvery,"very much, very",1311,VERY,2079,1160
+1161_notatall,not--at all,1240,NOT,2082,1161
+1162_notatall,not--at all,1240,NOT,2083,1162
+1163_thoroughly,thoroughly,,,2084,1163
+1164_thisboxistoobig,This box is too big.,,,2087,1164
+1165_givememore,Give me more.,,,2090,1165
+1166_abit,a bit,,,2091,1166
+1167_letsgoabitfurther,Let's go a bit further.,,,2092,1167
+1168_various,various,,,2093,1168
+1169_exactly,exactly,,,2095,1169
+1170_maybe,maybe,,,2097,1170
+1171_perhaps,perhaps,2278,PERHAPS,2098,1171
+1172_certainly,certainly,,,2100,1172
+1173_certainly,certainly,,,2101,1173
+1174_byallmeans,by all means,,,2102,1174
+1175_suddenly,suddenly,2920,SUDDENLY,2104,1175
+1176_suddenly,suddenly,2920,SUDDENLY,2105,1176
+1177_secretly,secretly,,,2106,1177
+1178_especiallyintentionally,"especially, intentionally",,,2107,1178
+1179_withmightandmain,with might and main,,,2108,1179
+1180_again,again,204,AGAIN,2110,1180
+1181_again,again,204,AGAIN,2111,1181
+1182_yetstill,"yet, still",,,2113,1182
+1183_yetstill,"yet, still",,,2114,1183
+1184_aminuteago,a minute ago,,,2116,1184
+1185_already,already,2576,ALREADY,2117,1185
+1186_eachother,each other,,,2119,1186
+1187_if,if,1459,IF,2121,1187
+1188_to,to,,,2124,1188
+1189_uptotill,"up to, till",,,2126,1189
+1190_untilnow,until now,,,2127,1190
+1191_from,from,693,FROM,2131,1191
+1192_in,in,1460,IN,2133,1192
+1193_aton,"at, on",1461,AT,2135,1193
+1194_with,with,1340,WITH,2137,1194
+1195_and,and,1577,AND,2139,1195
+1196_of,of,,,2141,1196
+1197_also,also,,,2143,1197
+1198_erthan,-er than,,,2145,1198
+1199_withbymeansof,"with, by means of",1340,WITH,2147,1199
+1200_only,only,1580,ONLY,2149,1200
+1201_exceptfor,except for,,,2153,1201
+1202_only,only,1580,ONLY,2154,1202
+1203_beis,"be, is",1579,BE,2156,1203
+1204_not,not,1240,NOT,2158,1204
+1205_donot,Do not,,,2160,1205
+1206_dontdrinkthiswater,Don't drink this water.,,,2161,1206
+1207_dontgo,Don't go.,,,2162,1207
+1208_dontcome,Don't come.,,,2163,1208
+1209_dontspit,Don't spit.,,,2164,1209
+1210_quotativeparticle,(quotative particle),,,2166,1210
+1211_hesaidicometomorrow,"(He) said, «I come tomorrow.»",,,2167,1211
+1212_because,because,1157,BECAUSE,2169,1212
+1213_butthough,"but, though",,,2171,1213
+1214_butthough,"but, though",,,2172,1214
+1215_althoughitrainedheshowedup,"Although it rained, he showed up.",,,2173,1215
+1216_makesmetodostgordertov,"make sme to do stg, order to (v)",,,2175,1216
+1217_imadehimtogo,I made him to go.,,,2178,1217
+1218_iwanttotakepoultry,I want to take poultry.,,,2181,1218
+1219_wantsomethingv,want something (v),,,2182,1219
+1220_beis,"be, is",1579,BE,2185,1220
+1221_thereisno,there is no,,,2187,1221
+1222_becomev,become (v),1990,BECOME,2189,1222
+1223_hebecamemayor,He became mayor.,,,2190,1223
+1224_becomev,become (v),1990,BECOME,2191,1224
+1225_thistreegrowshigh,This tree grows high.,,,2192,1225
+1226_itwillgethotter,It will get hotter.,,,2194,1226
+1227_can,can,,,2196,1227
+1228_canknowhowto,"can, know how to",,,2197,1228
+1229_canbeabletomanage,"can, be able to manage",,,2198,1229
+1230_maybeallowedtodo,"may, be allowed to do",,,2199,1230
+1231_isitallowednowadaystogotosikkimviaindia,Is it allowed nowadays to go to Sikkim via India?,,,2200,1231
+1232_possessv,possess (v),,,2202,1232
+1233_needbenecessary,"need, be necessary",,,2204,1233
+1234_same,same,200,SAME,2206,1234
+1235_similar,similar,1558,SIMILAR,2208,1235
+1236_other,other,197,OTHER,2210,1236
+1237_differentfrom,different from,,,2212,1237
+1238_differentfrom,different from,,,2213,1238
+1239_differentseparate,"different, separate",,,2214,1239
+1240_forthesakeof,for the sake of,,,2216,1240
+1241_approximately,approximately,,,2218,1241
+1242_likeas,"like, as",,,2219,1242
+1243_andsoon,and so on,,,2220,1243
+1244_similar,similar,1558,SIMILAR,2223,1244
+1245_likeas,"like, as",,,2224,1245
+1246_ashesays,"As he says, …",,,2225,1246
+1247_oughtto,ought to,,,2227,1247
+1248_ioughttogotolhasa,I ought to go to Lhasa.,,,2228,1248
+1249_pleasedoit,please do it,,,2230,1249
+1250_pleaseeatplease,"Please eat, please.",,,2231,1250
+1251_hello,Hello.,3553,HELLO,2233,1251
+1252_goodbye,Good-bye,3554,GOODBYE,2235,1252
+1253_goodbye,Good-bye,3554,GOODBYE,2236,1253
+1254_thankyou,Thank you,,,2238,1254
+1255_comehere,Come here!,3555,COME HERE,2240,1255
+1256_look,Look!,,,2242,1256
