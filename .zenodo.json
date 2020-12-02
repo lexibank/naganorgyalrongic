@@ -7,13 +7,21 @@
     ],
     "creators": [
         {
-            "name": "Tiago Tresoldi"
+            "name": "Yasuhiko Nagano"
         },
         {
-            "name": "Johann-Mattis List"
+            "name": "Marielle Prins"
         }
     ],
     "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "STEDT",
             "type": "DataCurator"

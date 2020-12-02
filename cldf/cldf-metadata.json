@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/naganorgyalrongic",
-            "dc:created": "v2.0-4-gb571a64"
+            "dc:created": "v2.0-7-g3856e71"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes-289-gccb8b80"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-17-ga0ae303"
         },
         {
             "rdf:type": "prov:Entity",

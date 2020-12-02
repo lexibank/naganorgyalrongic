@@ -43,7 +43,8 @@ class Dataset(BaseDataset):
         brackets={"(": ")", "[": "]"},
         missing_data=("?",),
         strip_inside_brackets=True,
-        first_form_only=True
+        first_form_only=True,
+        replacements=[(" ", "_")],
     )
 
     def cmd_makecldf(self, args):
