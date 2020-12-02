@@ -35,9 +35,11 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | --- 
-Tiago Tresoldi     | @tresoldi   | patron, code, profile, language mapping | Author
-Johann-Mattis List | @LinguList  | code | Author
+Tiago Tresoldi     | @tresoldi   | patron, code, profile, language mapping | Other 
+Johann-Mattis List | @LinguList  | code | Other
 STEDT | | data provider | DataCurator
+Yasuhiko Nagano | | | Author
+Marielle Prins | | | Author
 
 
 
