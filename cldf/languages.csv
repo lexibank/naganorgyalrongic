@@ -1,5 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Source_ID,Short_Name
-NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),muya1239,Muya,mvm,Eurasia,30.932449,100.326871,Sino-Tibetan,Rgyalrong,1,20xinl
+NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),muya1239,Muya,,Eurasia,30.932449,100.326871,Sino-Tibetan,Rgyalrong,1,20xinl
 GanziDanbarGyalrong,rGyalrong (Ganzi Danba Badi Munashan),situ1238,Situ,,Eurasia,31.060903,101.855001,Sino-Tibetan,Rgyalrong,2,06muna
 JinchuanErkairGyalrong,rGyalrong (Jinchuan Erkai),shan1274,Stodsde,jih,Eurasia,31.464691,101.341027,Sino-Tibetan,Rgyalrong,3,28erka
 JinchuanGuaninqiaorGyalrong,rGyalrong (Jinchuan Guaninqiao Wobzi),eree1240,Ere (China),,Eurasia,31.639053,101.445432,Sino-Tibetan,Rgyalrong,4,30wobz

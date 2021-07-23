@@ -360,7 +360,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 359_syphilis,syphilis,,,0650,359
 360_wound,wound,1109,WOUND,0654,360
 361_bepainfulfeelpainv,"be painful, feel pain (v)",2561,HURT (SENSE PAIN),0656,361
-362_feelitchyv,feel itchy (v),149,ITCHY,0658,362
+362_feelitchyv,feel itchy (v),3855,ITCH (CAUSE ITCHING OR FEEL ITCHY),0658,362
 363_scratchv,scratch (v),1436,SCRATCH,0660,363
 364_medicine,medicine,1372,MEDICINE,0662,364
 365_curevt,cure (vt),499,CURE,0664,365
@@ -377,7 +377,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 376_fightv,fight (v),1423,FIGHT,0683,376
 377_makewarv,make war (v),,,0685,377
 378_winv,win (v),866,WIN,0687,378
-379_bedefeatedv,be defeated (v),,,0689,379
+379_bedefeatedv,be defeated (v),3535,BE DEFEATED,0689,379
 380_runawayvi,run away (vi),2142,RUN AWAY,0691,380
 381_chasevt,chase (vt),1435,HUNT,0693,381
 382_sword,sword,1535,SWORD,0695,382
@@ -1106,7 +1106,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 1105_all,all,98,ALL,1978,1105
 1106_completely,completely,,,1979,1106
 1107_half,half,816,HALF,1981,1107
-1108_onethird,one third,,,1983,1108
+1108_onethird,one third,3842,ONE THIRD,1983,1108
 1109_aquarter,a quarter,,,1985,1109
 1110_both,both,,,1987,1110
 1111_measurev,measure (v),1506,MEASURE,1989,1111

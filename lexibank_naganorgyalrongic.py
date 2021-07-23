@@ -1,14 +1,9 @@
 from pathlib import Path
 
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Concept, Language
-from pylexibank import FormSpec
-from pylexibank.util import progressbar
-
-from clldutils.misc import slug
-
-import lingpy
 import attr
+import lingpy
+import pylexibank
+from clldutils.misc import slug
 
 # Define minimum coverage in order to include a doculect
 MIN_COVERAGE = 500
@@ -18,13 +13,13 @@ SKIP_LANGS = ["Tibetan (Script)", "Chinese (Hanzi)", "Japanese"]
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     SrcId = attr.ib(default=None)
     Number = attr.ib(default=None)
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default="Rgyalrong")
@@ -33,12 +28,12 @@ class CustomLanguage(Language):
     Short_Name = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     id = "naganorgyalrongic"
     dir = Path(__file__).parent
     language_class = CustomLanguage
     concept_class = CustomConcept
-    form_spec = FormSpec(
+    form_spec = pylexibank.FormSpec(
         separators=";,/",
         brackets={"(": ")", "[": "]"},
         missing_data=("?",),
@@ -57,7 +52,7 @@ class Dataset(BaseDataset):
         )
         language_lookup = args.writer.add_languages(lookup_factory="Name")
         # add lexemes
-        for idx, language, concept, value in progressbar(
+        for idx, language, concept, value in pylexibank.progressbar(
             wl.iter_rows("doculect", "srcid", "reflex"), desc="make-cldf"
         ):
             if language in language_lookup and concept in concept_lookup:
