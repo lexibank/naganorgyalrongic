@@ -29,22 +29,22 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 1,256
+- **Varieties:** 10 (linked to 8 different Glottocodes)
+- **Concepts:** 1,256 (linked to 900 different Concepticon concept sets)
 - **Lexemes:** 10,085
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 76,640
-- **Segments:** 562 (0 BIPA errors, 0 CTLS sound class errors, 553 CLTS modified)
+- **Segments:** 562 (0 BIPA errors, 0 CLTS sound class errors, 553 CLTS modified)
 - **Inventory size (avg):** 113.90
 
 # Contributors
 
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | --- 
-Tiago Tresoldi     | @tresoldi   | patron, code, profile, language mapping | Other 
-Johann-Mattis List | @LinguList  | code | Other
+Tiago Tresoldi     | @tresoldi   | code, profile, language mapping | Other
+Johann-Mattis List | @LinguList  | code, patron | Editor
 STEDT | | data provider | DataCurator
 Yasuhiko Nagano | | | Author
 Marielle Prins | | | Author

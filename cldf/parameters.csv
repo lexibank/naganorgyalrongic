@@ -192,7 +192,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,SrcId,Number
 191_papriceporridge,"pap, rice-porridge",2049,CONGEE,0351,191
 192_wine,wine,1524,WINE,0353,192
 193_liquor,liquor,842,LIQUOR,0354,193
-194_getdrunkv,get drunk (v),,,0356,194
+194_getdrunkv,get drunk (v),3980,GET DRUNK,0356,194
 195_tobacco,tobacco,974,TOBACCO,0358,195
 196_cookvt,cook (vt),1100,COOK (SOMETHING),0360,196
 197_havecookedv,have cooked (v),,,0361,197
